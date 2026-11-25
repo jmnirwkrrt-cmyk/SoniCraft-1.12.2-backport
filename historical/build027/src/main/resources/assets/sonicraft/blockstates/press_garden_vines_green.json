@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "sonicraft:press_garden_vines_green_1"
+      },
+      {
+        "model": "sonicraft:press_garden_vines_green_2"
+      },
+      {
+        "model": "sonicraft:press_garden_vines_green_3"
+      },
+      {
+        "model": "sonicraft:press_garden_vines_green_4"
+      }
+    ]
+  }
+}

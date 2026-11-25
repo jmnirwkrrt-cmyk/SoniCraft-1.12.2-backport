@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/press_garden_mill_wheel_side",
+    "bottom": "sonicraft:blocks/press_garden_mill_wheel_side_bottom",
+    "top": "sonicraft:blocks/press_garden_mill_wheel_side_top",
+    "side": "sonicraft:blocks/press_garden_mill_wheel_side"
+  }
+}

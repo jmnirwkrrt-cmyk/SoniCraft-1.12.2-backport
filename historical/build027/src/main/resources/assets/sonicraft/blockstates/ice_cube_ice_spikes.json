@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:ice_cube_ice_spikes"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:ice_cube_ice_spikes_melting_blockstate_0"
+    }
+  }
+}

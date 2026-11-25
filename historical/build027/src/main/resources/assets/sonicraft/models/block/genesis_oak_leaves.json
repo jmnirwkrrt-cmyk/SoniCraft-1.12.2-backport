@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/genesis_oak_leaves",
+    "particle": "sonicraft:blocks/genesis_oak_leaves"
+  }
+}

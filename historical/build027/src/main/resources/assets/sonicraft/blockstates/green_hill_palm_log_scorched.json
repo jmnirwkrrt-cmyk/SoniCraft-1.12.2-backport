@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": {
+      "model": "sonicraft:block/green_hill_palm_log_scorched",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

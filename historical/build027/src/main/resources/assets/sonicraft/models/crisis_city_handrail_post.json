@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "particle": "sonicraft:blocks/crisis_city_handrail",
+    "edge": "sonicraft:blocks/crisis_city_grind_rail_top",
+    "pane": "sonicraft:blocks/crisis_city_handrail"
+  }
+}

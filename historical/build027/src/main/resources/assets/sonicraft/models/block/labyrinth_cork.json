@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/labyrinth_cork_top",
+    "up": "sonicraft:blocks/labyrinth_cork_top",
+    "north": "sonicraft:blocks/labyrinth_cork",
+    "east": "sonicraft:blocks/labyrinth_cork",
+    "south": "sonicraft:blocks/labyrinth_cork",
+    "west": "sonicraft:blocks/labyrinth_cork",
+    "particle": "sonicraft:blocks/labyrinth_cork_top"
+  }
+}

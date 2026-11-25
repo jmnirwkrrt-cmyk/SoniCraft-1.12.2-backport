@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:death_egg_outer_shell",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:death_egg_outer_shell_stairs",
+    "count": 4,
+    "data": 0
+  }
+}

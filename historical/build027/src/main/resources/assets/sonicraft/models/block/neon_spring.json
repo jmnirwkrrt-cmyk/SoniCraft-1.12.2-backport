@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/springblock",
+  "textures": {
+    "all": "sonicraft:blocks/night_carnival_spring_icon",
+    "particle": "sonicraft:blocks/night_carnival_spring_particle",
+    "spring": "sonicraft:blocks/night_carnival_spring",
+    "top": "sonicraft:blocks/night_carnival_spring_top"
+  }
+}

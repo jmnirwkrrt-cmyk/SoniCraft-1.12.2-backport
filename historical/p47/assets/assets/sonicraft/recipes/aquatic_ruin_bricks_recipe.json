@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sandstone",
+      "data": 0
+    },
+    "b": {
+      "item": "minecraft:red_sandstone",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:aquatic_ruin_bricks",
+    "count": 4,
+    "data": 0
+  }
+}

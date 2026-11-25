@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_side",
+  "textures": {
+    "wall": "sonicraft:blocks/southite",
+    "particle": "sonicraft:blocks/southite"
+  }
+}

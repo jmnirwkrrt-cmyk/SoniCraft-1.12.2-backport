@@ -1,0 +1,52 @@
+{
+  "credit": "Made with Blockbench",
+  "ambientocclusion": false,
+  "texture_size": [
+    32,
+    32
+  ],
+  "elements": [
+    {
+      "from": [
+        -4,
+        0.1,
+        2
+      ],
+      "to": [
+        20,
+        0.1,
+        14
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          0.1,
+          8
+        ]
+      },
+      "faces": {
+        "up": {
+          "uv": [
+            2,
+            5,
+            14,
+            11
+          ],
+          "rotation": 180,
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            2,
+            5,
+            14,
+            11
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ]
+}

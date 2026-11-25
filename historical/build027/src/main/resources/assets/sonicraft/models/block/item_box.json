@@ -1,0 +1,12 @@
+{
+  "parent": "sonicraft:custom/sonic_monitor",
+  "textures": {
+    "all": "sonicraft:blocks/monitor_blank",
+    "particle": "sonicraft:blocks/monitor_side",
+    "side": "sonicraft:blocks/monitor_side",
+    "static": "sonicraft:blocks/monitor_static",
+    "screen_console": "sonicraft:blocks/casino_night_slot_wheel_outside",
+    "screen": "sonicraft:blocks/casino_night_slot_wheel_outside",
+    "front": "sonicraft:blocks/monitor"
+  }
+}

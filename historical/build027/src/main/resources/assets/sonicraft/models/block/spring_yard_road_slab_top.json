@@ -1,0 +1,9 @@
+{
+  "parent": "block/upper_slab",
+  "textures": {
+    "particle": "sonicraft:blocks/spring_yard_road_bottom",
+    "bottom": "sonicraft:blocks/spring_yard_road_bottom",
+    "top": "sonicraft:blocks/spring_yard_road_top",
+    "side": "sonicraft:blocks/spring_yard_road_side"
+  }
+}

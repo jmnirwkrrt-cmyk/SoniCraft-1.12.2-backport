@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "sonicraft:studiopolis_interior_floor_pressure_plate"
+    },
+    "powered=true": {
+      "model": "sonicraft:studiopolis_interior_floor_pressure_plate_down"
+    }
+  }
+}

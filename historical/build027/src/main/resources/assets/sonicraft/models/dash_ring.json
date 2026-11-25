@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/dash_ring",
+  "textures": {
+    "all": "sonicraft:blocks/dash_ring",
+    "particle": "sonicraft:blocks/dash_ring",
+    "0": "sonicraft:blocks/dash_ring"
+  }
+}

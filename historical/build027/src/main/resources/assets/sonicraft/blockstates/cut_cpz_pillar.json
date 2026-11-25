@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "sonicraft:block/cut_cpz_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "sonicraft:block/cut_cpz_pillar"
+    },
+    "axis=z": {
+      "model": "sonicraft:block/cut_cpz_pillar",
+      "x": 90
+    }
+  }
+}

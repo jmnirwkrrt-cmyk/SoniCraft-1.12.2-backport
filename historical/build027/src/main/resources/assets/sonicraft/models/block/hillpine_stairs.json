@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/hillpine_planks",
+    "bottom": "sonicraft:blocks/hillpine_planks",
+    "top": "sonicraft:blocks/hillpine_planks",
+    "side": "sonicraft:blocks/hillpine_planks"
+  }
+}

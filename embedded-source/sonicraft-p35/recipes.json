@@ -1,0 +1,38 @@
+{
+  "base_sha256": "445cd694675d802a9d934892849b468f5fbf56c91695b2630cb827ad5fc19f50",
+  "original_sha256": "0a071eb1493c18d201f465b3ec1f154af3a682f10b9a13b4c4db640ac7c60765",
+  "added": {
+    "assets/sonicraft/recipes/bumper_sonic_1_recipe.json": "data/sonicraft/recipes/bumper_sonic_1_recipe.json",
+    "assets/sonicraft/recipes/casino_night_road_recipe.json": "data/sonicraft/recipes/casino_night_road_recipe.json",
+    "assets/sonicraft/recipes/death_egg_outer_shell_wall_recipe.json": "data/sonicraft/recipes/death_egg_outer_shell_wall_recipe.json",
+    "assets/sonicraft/recipes/eggmobile_upgrading_table_recipe.json": "data/sonicraft/recipes/eggmobile_upgrading_table_recipe.json",
+    "assets/sonicraft/recipes/genesis_oak_planks_recipe_from_genesis_oak_log.json": "data/sonicraft/recipes/genesis_oak_planks_recipe.json",
+    "assets/sonicraft/recipes/glowing_dark_southite_recipe.json": "data/sonicraft/recipes/glowing_dark_southite_recipe.json",
+    "assets/sonicraft/recipes/green_hill_palm_planks_recipe_from_green_hill_palm_log_scorched.json": "data/sonicraft/recipes/green_hill_palm_planks_recipe.json",
+    "assets/sonicraft/recipes/green_hill_palm_planks_recipe_from_budding_neo_palm_log.json": "data/sonicraft/recipes/green_hill_palm_planks_recipe.json",
+    "assets/sonicraft/recipes/hillpine_planks_log_recipe_from_stripped_hillpine_log.json": "data/sonicraft/recipes/hillpine_planks_log_recipe.json",
+    "assets/sonicraft/recipes/iron_ball_recipe.json": "data/sonicraft/recipes/iron_ball_recipe.json",
+    "assets/sonicraft/recipes/item_box_aqua_shield_recipe.json": "data/sonicraft/recipes/item_box_aqua_shield_recipe.json",
+    "assets/sonicraft/recipes/item_box_flame_shield_recipe.json": "data/sonicraft/recipes/item_box_flame_shield_recipe.json",
+    "assets/sonicraft/recipes/item_box_invincibility_recipe.json": "data/sonicraft/recipes/item_box_invincibility_recipe.json",
+    "assets/sonicraft/recipes/item_box_rings_recipe.json": "data/sonicraft/recipes/item_box_rings_recipe.json",
+    "assets/sonicraft/recipes/item_box_shield_recipe.json": "data/sonicraft/recipes/item_box_shield_recipe.json",
+    "assets/sonicraft/recipes/mz_chiseled_bricks_craft.json": "data/sonicraft/recipes/mz_chiseled_bricks_craft.json",
+    "assets/sonicraft/recipes/mz_pillar_2_craft.json": "data/sonicraft/recipes/mz_pillar_2_craft.json",
+    "assets/sonicraft/recipes/mz_stone_stairs_craft.json": "data/sonicraft/recipes/mz_stone_stairs_craft.json",
+    "assets/sonicraft/recipes/mz_thick_pillar_craft.json": "data/sonicraft/recipes/mz_thick_pillar_craft.json",
+    "assets/sonicraft/recipes/neo_palm_bridge_anchor_recipe.json": "data/sonicraft/recipes/neo_palm_bridge_anchor_recipe.json",
+    "assets/sonicraft/recipes/player_proximity_sensor_recipe.json": "data/sonicraft/recipes/player_proximity_sensor_recipe.json",
+    "assets/sonicraft/recipes/red_spring_recipe.json": "data/sonicraft/recipes/red_spring_recipe.json",
+    "assets/sonicraft/recipes/smooth_death_egg_outer_shell_wall_recipe.json": "data/sonicraft/recipes/smooth_death_egg_outer_shell_wall_recipe.json",
+    "assets/sonicraft/recipes/sparking_conduit_recipe.json": "data/sonicraft/recipes/sparking_conduit_recipe.json",
+    "assets/sonicraft/recipes/spring_yard_lamp_recipe_2.json": "data/sonicraft/recipes/spring_yard_lamp_recipe_2.json",
+    "assets/sonicraft/recipes/spring_yard_lamp_slab_recipe.json": "data/sonicraft/recipes/spring_yard_lamp_slab_recipe.json",
+    "assets/sonicraft/recipes/spring_yard_pillar_recipe.json": "data/sonicraft/recipes/spring_yard_pillar_recipe.json",
+    "assets/sonicraft/recipes/yellow_spring_recipe.json": "data/sonicraft/recipes/yellow_spring_recipe.json"
+  },
+  "skipped_overlap": {
+    "assets/sonicraft/recipes/green_hill_palm_planks_recipe_from_green_hill_palm_log.json": "overlapping recipe",
+    "assets/sonicraft/recipes/hillpine_planks_log_recipe_from_hillpine_log.json": "overlapping recipe"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "RER",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "sonicraft:gold_ring"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "sonicraft:red_star_ring"
+  }
+}

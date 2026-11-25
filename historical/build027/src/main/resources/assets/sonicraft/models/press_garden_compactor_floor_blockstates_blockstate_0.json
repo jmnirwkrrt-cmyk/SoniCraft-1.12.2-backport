@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/press_garden_compactor_floor_edge_bottom",
+    "up": "sonicraft:blocks/press_garden_compactor_floor_edge_top",
+    "north": "sonicraft:blocks/press_garden_compactor_floor",
+    "east": "sonicraft:blocks/press_garden_compactor_floor",
+    "south": "sonicraft:blocks/press_garden_compactor_floor",
+    "west": "sonicraft:blocks/press_garden_compactor_floor",
+    "particle": "sonicraft:blocks/press_garden_compactor_floor_top"
+  }
+}

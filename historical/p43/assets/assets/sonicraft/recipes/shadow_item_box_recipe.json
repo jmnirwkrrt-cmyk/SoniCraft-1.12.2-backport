@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sonicraft:item_box"
+    },
+    {
+      "item": "sonicraft:red_star_ring"
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 3
+    }
+  ],
+  "result": {
+    "item": "sonicraft:item_box_shadow",
+    "count": 1
+  }
+}

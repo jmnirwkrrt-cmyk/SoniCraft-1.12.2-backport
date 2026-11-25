@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "IEI",
+    "R R"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:planks",
+      "data": 0
+    },
+    "I": {
+      "item": "minecraft:iron_ingot",
+      "data": 0
+    },
+    "E": {
+      "item": "minecraft:diamond",
+      "data": 0
+    },
+    "R": {
+      "item": "minecraft:redstone",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:tornado_item",
+    "data": 0
+  }
+}

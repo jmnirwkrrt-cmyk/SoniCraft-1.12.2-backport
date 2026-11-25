@@ -1,0 +1,415 @@
+[
+  {
+    "id": "sonic",
+    "javaClass": "Sonic",
+    "geo": "sonic",
+    "texture": "sonic_texture",
+    "clips": [
+      "idle",
+      "fly",
+      "sneak",
+      "ride",
+      "walk",
+      "run",
+      "superfly",
+      "roll",
+      "attack",
+      "superattack"
+    ],
+    "width": 0.6,
+    "height": 1.45,
+    "health": 48.0,
+    "speed": 0.7,
+    "damage": 9.0,
+    "armor": 0.2,
+    "enemy": false,
+    "sounds": {
+      "ambient": "mob.sonicidle",
+      "hurt": "mob.sonichurt",
+      "death": "mob.sonicdie"
+    }
+  },
+  {
+    "id": "tails",
+    "javaClass": "Tails",
+    "geo": "tails",
+    "texture": "tails_swipe",
+    "clips": [
+      "idle",
+      "cower",
+      "fly",
+      "sneak",
+      "ride",
+      "walk",
+      "run",
+      "roll",
+      "attack"
+    ],
+    "width": 0.6,
+    "height": 1.3,
+    "health": 32.0,
+    "speed": 0.3,
+    "damage": 8.0,
+    "armor": 0.0,
+    "enemy": false,
+    "sounds": {
+      "ambient": "mob.tailsidle",
+      "hurt": "mob.tailshurt",
+      "death": "mob.tailsdie"
+    }
+  },
+  {
+    "id": "knuckles",
+    "javaClass": "Knuckles",
+    "geo": "knuckles",
+    "texture": "knuckles_texture",
+    "clips": [
+      "idle",
+      "fly",
+      "sneak",
+      "ride",
+      "walk",
+      "run",
+      "attack"
+    ],
+    "width": 0.6,
+    "height": 1.5,
+    "health": 36.0,
+    "speed": 0.4,
+    "damage": 16.0,
+    "armor": 2.0,
+    "enemy": false,
+    "sounds": {
+      "ambient": "mob.knucklesidle",
+      "hurt": "mob.knuckleshurt",
+      "death": "mob.knucklesdie"
+    }
+  },
+  {
+    "id": "amy_rose",
+    "javaClass": "AmyRose",
+    "geo": "amy_rose",
+    "texture": "amy_rose_texture",
+    "clips": [
+      "idle",
+      "fly",
+      "sneak",
+      "ride",
+      "walk",
+      "run",
+      "attack"
+    ],
+    "width": 0.6,
+    "height": 1.4,
+    "health": 44.0,
+    "speed": 0.3,
+    "damage": 11.0,
+    "armor": 0.0,
+    "enemy": false,
+    "sounds": {
+      "ambient": "mob.amyidle",
+      "hurt": "mob.amyhurt",
+      "death": "mob.amydie"
+    }
+  },
+  {
+    "id": "rouge",
+    "javaClass": "Rouge",
+    "geo": "rouge",
+    "texture": "rouge",
+    "clips": [
+      "idle",
+      "walk",
+      "run",
+      "fly",
+      "attack",
+      "barter"
+    ],
+    "width": 0.6,
+    "height": 1.5,
+    "health": 36.0,
+    "speed": 0.3,
+    "damage": 16.0,
+    "armor": 2.0,
+    "enemy": false,
+    "sounds": {
+      "ambient": "mob.rougeidle",
+      "hurt": "mob.rougehurt",
+      "death": "mob.rougedie"
+    }
+  },
+  {
+    "id": "shadow",
+    "javaClass": "Shadow",
+    "geo": "shadow",
+    "texture": "shadow",
+    "clips": [
+      "idle",
+      "fly",
+      "sneak",
+      "ride",
+      "walk",
+      "run",
+      "superfly",
+      "roll",
+      "attack",
+      "superattack"
+    ],
+    "width": 0.6,
+    "height": 1.45,
+    "health": 65.0,
+    "speed": 0.5,
+    "damage": 6.0,
+    "armor": 0.2,
+    "enemy": false,
+    "sounds": {
+      "ambient": "mob.shadowidle",
+      "hurt": "mob.shadowhurt",
+      "death": "mob.shadowdie"
+    }
+  },
+  {
+    "id": "silver",
+    "javaClass": "Silver",
+    "geo": "silver",
+    "texture": "silver",
+    "clips": [
+      "idle",
+      "attack",
+      "fly",
+      "sneak",
+      "ride",
+      "walk",
+      "run"
+    ],
+    "width": 0.6,
+    "height": 1.5,
+    "health": 55.0,
+    "speed": 0.3,
+    "damage": 3.0,
+    "armor": 0.0,
+    "enemy": false,
+    "sounds": {
+      "ambient": "mob.silveridle",
+      "hurt": "mob.silverhurt",
+      "death": "mob.silverdie"
+    }
+  },
+  {
+    "id": "big_the_cat",
+    "javaClass": "BigTheCat",
+    "geo": "big",
+    "texture": "big",
+    "clips": [
+      "idle",
+      "walk",
+      "swim"
+    ],
+    "width": 1.2,
+    "height": 2.3,
+    "health": 48.0,
+    "speed": 0.3,
+    "damage": 3.0,
+    "armor": 0.0,
+    "enemy": false,
+    "sounds": {
+      "hurt": "mob.bighurt",
+      "death": "mob.bigdie"
+    }
+  },
+  {
+    "id": "espio",
+    "javaClass": "Espio",
+    "geo": "espio",
+    "texture": "espio",
+    "clips": [
+      "idle",
+      "fly",
+      "sneak",
+      "ride",
+      "walk",
+      "run",
+      "attack",
+      "throw"
+    ],
+    "width": 0.6,
+    "height": 1.45,
+    "health": 36.0,
+    "speed": 0.3,
+    "damage": 8.0,
+    "armor": 0.2,
+    "enemy": false,
+    "sounds": {}
+  },
+  {
+    "id": "charmy",
+    "javaClass": "Charmy",
+    "geo": "charmy",
+    "texture": "charmy",
+    "clips": [
+      "idle",
+      "fly",
+      "sneak",
+      "ride",
+      "walk",
+      "run",
+      "attack"
+    ],
+    "width": 0.5,
+    "height": 1.1,
+    "health": 32.0,
+    "speed": 0.3,
+    "damage": 8.0,
+    "armor": 0.2,
+    "enemy": false,
+    "sounds": {}
+  },
+  {
+    "id": "vector",
+    "javaClass": "Vector",
+    "geo": "vector",
+    "texture": "vector",
+    "clips": [
+      "idle",
+      "sneak",
+      "ride",
+      "walk",
+      "run",
+      "attack",
+      "shoot",
+      "swim"
+    ],
+    "width": 0.9,
+    "height": 1.8,
+    "health": 48.0,
+    "speed": 0.25,
+    "damage": 10.0,
+    "armor": 0.2,
+    "enemy": false,
+    "sounds": {
+      "ambient": "mob.vectoridle",
+      "hurt": "mob.vectorhurt",
+      "death": "mob.vectordie"
+    }
+  },
+  {
+    "id": "metal_sonic",
+    "javaClass": "MetalSonic",
+    "geo": "metal_sonic",
+    "texture": "metal_sonic",
+    "clips": [
+      "idle",
+      "walk",
+      "fly",
+      "aggro",
+      "attack",
+      "charge",
+      "electric",
+      "overdrive"
+    ],
+    "width": 0.6,
+    "height": 1.45,
+    "health": 75.0,
+    "speed": 0.4,
+    "damage": 2.0,
+    "armor": 0.8,
+    "enemy": true,
+    "sounds": {
+      "ambient": "mob.metalsonicidle",
+      "hurt": "badnik.hurt",
+      "death": "mob.metalsonicdie"
+    }
+  },
+  {
+    "id": "omega",
+    "javaClass": "Omega",
+    "geo": "e123_omega",
+    "texture": "e123_omega",
+    "clips": [
+      "idle",
+      "walk",
+      "fly",
+      "attack",
+      "demo"
+    ],
+    "width": 1.0,
+    "height": 2.0,
+    "health": 50.0,
+    "speed": 0.2,
+    "damage": 3.0,
+    "armor": 0.0,
+    "enemy": false,
+    "sounds": {}
+  },
+  {
+    "id": "infinite",
+    "javaClass": "Infinite",
+    "geo": "infinite",
+    "texture": "infinite",
+    "clips": [
+      "idle",
+      "walk",
+      "attack",
+      "attack2",
+      "mask_on",
+      "mask_on_glow",
+      "mask_off"
+    ],
+    "width": 0.6,
+    "height": 1.6,
+    "health": 150.0,
+    "speed": 0.4,
+    "damage": 4.0,
+    "armor": 0.8,
+    "enemy": true,
+    "sounds": {
+      "ambient": "mob.infiniteidle",
+      "hurt": "mob.infinitehurt"
+    }
+  },
+  {
+    "id": "blaze_the_cat",
+    "javaClass": "BlazeTheCat",
+    "geo": null,
+    "texture": "blaze_the_cat",
+    "clips": [],
+    "width": 0.6,
+    "height": 1.5,
+    "health": 36.0,
+    "speed": 0.4,
+    "damage": 16.0,
+    "armor": 2.0,
+    "enemy": false,
+    "sounds": {}
+  },
+  {
+    "id": "cream",
+    "javaClass": "Cream",
+    "geo": null,
+    "texture": "cream_texture",
+    "clips": [],
+    "width": 0.5,
+    "height": 1.1,
+    "health": 32.0,
+    "speed": 0.3,
+    "damage": 3.0,
+    "armor": 0.0,
+    "enemy": false,
+    "sounds": {}
+  },
+  {
+    "id": "eggman",
+    "javaClass": "Eggman",
+    "geo": null,
+    "texture": "eggman",
+    "clips": [],
+    "width": 0.9,
+    "height": 2.0,
+    "health": 20.0,
+    "speed": 0.3,
+    "damage": 3.0,
+    "armor": 0.0,
+    "enemy": false,
+    "sounds": {}
+  }
+]

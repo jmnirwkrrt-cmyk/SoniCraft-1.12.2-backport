@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:labyrinth_zone_stone_slab"
+    }
+  },
+  "result": {
+    "item": "sonicraft:chiseled_labyrinth_stone",
+    "count": 1
+  }
+}

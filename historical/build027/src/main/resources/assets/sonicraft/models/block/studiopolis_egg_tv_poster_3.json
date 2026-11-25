@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/studiopolis_egg_tv_poster",
+  "textures": {
+    "all": "sonicraft:blocks/studiopolis_egg_tv_poster_3",
+    "particle": "sonicraft:blocks/studiopolis_egg_tv_poster_3",
+    "back": "sonicraft:blocks/studiopolis_egg_tv_poster_back_3",
+    "front": "sonicraft:blocks/studiopolis_egg_tv_poster_3"
+  }
+}

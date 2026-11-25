@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sonicraft:blocks/angel_island_vine",
+    "particle": "sonicraft:blocks/angel_island_vine"
+  }
+}

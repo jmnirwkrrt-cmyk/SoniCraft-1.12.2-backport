@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sonicraft:blocks/studiopolis_ceiling_wire",
+    "particle": "sonicraft:blocks/studiopolis_ceiling_wire"
+  }
+}

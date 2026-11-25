@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/chemical_plant_sky_block_5",
+    "up": "sonicraft:blocks/chemical_plant_sky_block_5",
+    "north": "sonicraft:blocks/chemical_plant_sky_block_7",
+    "east": "sonicraft:blocks/chemical_plant_sky_block_6",
+    "south": "sonicraft:blocks/chemical_plant_sky_block_7",
+    "west": "sonicraft:blocks/chemical_plant_sky_block_8",
+    "particle": "sonicraft:blocks/chemical_plant_sky_block_5"
+  }
+}

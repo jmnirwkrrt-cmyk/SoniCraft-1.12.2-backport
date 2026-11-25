@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/switch_detector_bottom_on",
+    "up": "sonicraft:blocks/switch_detector_top",
+    "north": "sonicraft:blocks/switch_detector_side",
+    "east": "sonicraft:blocks/switch_detector_side",
+    "south": "sonicraft:blocks/switch_detector_side",
+    "west": "sonicraft:blocks/switch_detector_side",
+    "particle": "sonicraft:blocks/switch_detector_side"
+  }
+}

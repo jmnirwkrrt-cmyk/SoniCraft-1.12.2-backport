@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/lava_reef_rock"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/lava_reef_rock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/lava_reef_rock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/lava_reef_rock",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/flamethrower_top",
+    "up": "sonicraft:blocks/flamethrower_top",
+    "north": "sonicraft:blocks/flamethrower_front",
+    "east": "sonicraft:blocks/flamethrower_side_on",
+    "south": "sonicraft:blocks/flamethrower_back_on",
+    "west": "sonicraft:blocks/flamethrower_side_on",
+    "particle": "sonicraft:blocks/flamethrower_top"
+  }
+}

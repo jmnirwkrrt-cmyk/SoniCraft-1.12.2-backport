@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/eggmobile_upgrading_table_bottom",
+    "up": "sonicraft:blocks/eggmobile_upgrading_table_top",
+    "north": "sonicraft:blocks/eggmobile_upgrading_table_front",
+    "east": "sonicraft:blocks/eggmobile_upgrading_table_side",
+    "south": "sonicraft:blocks/eggmobile_upgrading_table_side",
+    "west": "sonicraft:blocks/eggmobile_upgrading_table_side",
+    "particle": "sonicraft:blocks/eggmobile_upgrading_table_bottom"
+  }
+}

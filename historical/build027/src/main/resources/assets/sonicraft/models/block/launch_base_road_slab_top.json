@@ -1,0 +1,9 @@
+{
+  "parent": "block/upper_slab",
+  "textures": {
+    "particle": "sonicraft:blocks/launch_base_bricks",
+    "bottom": "sonicraft:blocks/launch_base_bricks",
+    "top": "sonicraft:blocks/launch_base_road_top",
+    "side": "sonicraft:blocks/launch_base_road"
+  }
+}

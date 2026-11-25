@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/chiseled_hydrocity_bricks_green",
+    "particle": "sonicraft:blocks/chiseled_hydrocity_bricks_green"
+  }
+}

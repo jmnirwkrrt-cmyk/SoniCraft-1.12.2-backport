@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone",
+      "data": 0
+    },
+    "b": {
+      "item": "minecraft:iron_ingot",
+      "data": 0
+    },
+    "c": {
+      "item": "minecraft:crafting_table",
+      "data": 0
+    },
+    "d": {
+      "item": "sonicraft:scrap_brain_iron_block",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:eggmobile_upgrading_table",
+    "count": 1,
+    "data": 0
+  }
+}

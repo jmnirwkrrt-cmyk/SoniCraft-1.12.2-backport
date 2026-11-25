@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/custom_azalea_bush",
+  "textures": {
+    "all": "sonicraft:blocks/seesaw_hill_top_back",
+    "particle": "sonicraft:blocks/seesaw_hill_top_particle",
+    "side": "sonicraft:blocks/nothing",
+    "top": "sonicraft:blocks/nothing",
+    "plant": "sonicraft:blocks/nothing"
+  }
+}

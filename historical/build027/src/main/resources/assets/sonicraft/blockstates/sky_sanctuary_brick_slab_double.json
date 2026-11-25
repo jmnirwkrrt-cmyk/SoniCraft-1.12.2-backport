@@ -1,0 +1,44 @@
+{
+  "variants": {
+    "half=bottom,variant=single": [
+      {
+        "model": "sonicraft:block/sky_sanctuary_brick_slab_full_1"
+      },
+      {
+        "model": "sonicraft:block/sky_sanctuary_brick_slab_full_2"
+      },
+      {
+        "model": "sonicraft:block/sky_sanctuary_brick_slab_full_3"
+      },
+      {
+        "model": "sonicraft:block/sky_sanctuary_brick_slab_full_4"
+      },
+      {
+        "model": "sonicraft:block/sky_sanctuary_brick_slab_full_5"
+      },
+      {
+        "model": "sonicraft:block/sky_sanctuary_brick_slab_full_6"
+      }
+    ],
+    "half=top,variant=single": [
+      {
+        "model": "sonicraft:block/sky_sanctuary_brick_slab_full_1"
+      },
+      {
+        "model": "sonicraft:block/sky_sanctuary_brick_slab_full_2"
+      },
+      {
+        "model": "sonicraft:block/sky_sanctuary_brick_slab_full_3"
+      },
+      {
+        "model": "sonicraft:block/sky_sanctuary_brick_slab_full_4"
+      },
+      {
+        "model": "sonicraft:block/sky_sanctuary_brick_slab_full_5"
+      },
+      {
+        "model": "sonicraft:block/sky_sanctuary_brick_slab_full_6"
+      }
+    ]
+  }
+}

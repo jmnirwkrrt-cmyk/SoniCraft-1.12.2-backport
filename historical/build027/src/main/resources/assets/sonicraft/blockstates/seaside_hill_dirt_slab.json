@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom": {
+      "model": "sonicraft:seaside_hill_dirt_slab"
+    },
+    "half=top": {
+      "model": "sonicraft:seaside_hill_dirt_slab_top"
+    }
+  }
+}

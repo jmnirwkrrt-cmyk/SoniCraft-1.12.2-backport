@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/giant_mecha_sonic_eye_block",
+    "particle": "sonicraft:blocks/giant_mecha_sonic_eye_block_off"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "sonicraft:mirage_saloon_bar_shelf_1"
+      },
+      {
+        "model": "sonicraft:mirage_saloon_bar_shelf_2"
+      },
+      {
+        "model": "sonicraft:mirage_saloon_bar_shelf_3"
+      },
+      {
+        "model": "sonicraft:mirage_saloon_bar_shelf_4"
+      },
+      {
+        "model": "sonicraft:mirage_saloon_bar_shelf_5"
+      },
+      {
+        "model": "sonicraft:mirage_saloon_bar_shelf_6"
+      },
+      {
+        "model": "sonicraft:mirage_saloon_bar_shelf_7"
+      },
+      {
+        "model": "sonicraft:mirage_saloon_bar_shelf_8"
+      }
+    ]
+  }
+}

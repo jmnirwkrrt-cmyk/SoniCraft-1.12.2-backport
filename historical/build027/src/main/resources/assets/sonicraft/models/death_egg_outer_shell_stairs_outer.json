@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/death_egg_outer_shell",
+    "bottom": "sonicraft:blocks/death_egg_outer_shell",
+    "top": "sonicraft:blocks/death_egg_outer_shell",
+    "side": "sonicraft:blocks/death_egg_outer_shell"
+  }
+}

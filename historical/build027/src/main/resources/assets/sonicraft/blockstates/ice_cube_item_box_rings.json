@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,blockstate=0": {
+      "model": "sonicraft:ice_cube_item_box_rings"
+    },
+    "facing=east,blockstate=0": {
+      "model": "sonicraft:ice_cube_item_box_rings",
+      "y": 90
+    },
+    "facing=south,blockstate=0": {
+      "model": "sonicraft:ice_cube_item_box_rings",
+      "y": 180
+    },
+    "facing=west,blockstate=0": {
+      "model": "sonicraft:ice_cube_item_box_rings",
+      "y": 270
+    },
+    "facing=north,blockstate=1": {
+      "model": "sonicraft:ice_cube_item_box_rings_melting_blockstate_0"
+    },
+    "facing=east,blockstate=1": {
+      "model": "sonicraft:ice_cube_item_box_rings_melting_blockstate_0",
+      "y": 90
+    },
+    "facing=south,blockstate=1": {
+      "model": "sonicraft:ice_cube_item_box_rings_melting_blockstate_0",
+      "y": 180
+    },
+    "facing=west,blockstate=1": {
+      "model": "sonicraft:ice_cube_item_box_rings_melting_blockstate_0",
+      "y": 270
+    }
+  }
+}

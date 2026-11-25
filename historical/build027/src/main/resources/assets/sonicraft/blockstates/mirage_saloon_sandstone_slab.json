@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:mirage_saloon_sandstone_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:mirage_saloon_sandstone_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:mirage_saloon_sandstone_slab_full"
+    }
+  }
+}

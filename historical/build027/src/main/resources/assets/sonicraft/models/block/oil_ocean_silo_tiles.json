@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/oil_ocean_iron_block_green",
+    "up": "sonicraft:blocks/oil_ocean_iron_block_yellow_2",
+    "north": "sonicraft:blocks/oil_ocean_silo_tiles",
+    "east": "sonicraft:blocks/oil_ocean_silo_tiles",
+    "south": "sonicraft:blocks/oil_ocean_silo_tiles",
+    "west": "sonicraft:blocks/oil_ocean_silo_tiles",
+    "particle": "sonicraft:blocks/oil_ocean_iron_block_green"
+  }
+}

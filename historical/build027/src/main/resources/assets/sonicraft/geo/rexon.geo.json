@@ -1,0 +1,75 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.rexon",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 0, -1]
+				},
+				{
+					"name": "neck1",
+					"parent": "root",
+					"pivot": [0, 2, 0],
+					"cubes": [
+						{"origin": [-4, -2, -4], "size": [8, 8, 8], "uv": [0, 38]}
+					]
+				},
+				{
+					"name": "neck2",
+					"parent": "neck1",
+					"pivot": [0, 10, 0],
+					"cubes": [
+						{"origin": [-4, 6, -4], "size": [8, 8, 8], "inflate": 0.025, "uv": [0, 38]}
+					]
+				},
+				{
+					"name": "neck3",
+					"parent": "neck2",
+					"pivot": [0, 18, 0],
+					"cubes": [
+						{"origin": [-4, 14, -4], "size": [8, 8, 8], "uv": [0, 38]}
+					]
+				},
+				{
+					"name": "neck4",
+					"parent": "neck3",
+					"pivot": [0, 26, 0],
+					"cubes": [
+						{"origin": [-4, 22, -4], "size": [8, 8, 8], "inflate": 0.025, "uv": [0, 38]}
+					]
+				},
+				{
+					"name": "neck",
+					"parent": "neck4",
+					"pivot": [0, 29.75, 0]
+				},
+				{
+					"name": "head",
+					"parent": "neck",
+					"pivot": [0, 29.75, 0],
+					"cubes": [
+						{"origin": [-4, 30, -5], "size": [8, 9, 10], "inflate": 0.25, "uv": [58, 0]},
+						{"origin": [-4, 33, -12.5], "size": [8, 5, 7], "inflate": 0.25, "uv": [94, 0]}
+					]
+				},
+				{
+					"name": "jaw",
+					"parent": "head",
+					"pivot": [0, 32.5, -5.25],
+					"cubes": [
+						{"origin": [-4, 30, -12], "size": [8, 3, 7], "uv": [94, 12]}
+					]
+				}
+			]
+		}
+	]
+}

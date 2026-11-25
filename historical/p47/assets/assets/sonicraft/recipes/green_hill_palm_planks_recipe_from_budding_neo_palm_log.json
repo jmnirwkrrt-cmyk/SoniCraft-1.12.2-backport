@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sonicraft:budding_neo_palm_log",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "sonicraft:green_hill_palm_planks",
+    "count": 4,
+    "data": 0
+  }
+}

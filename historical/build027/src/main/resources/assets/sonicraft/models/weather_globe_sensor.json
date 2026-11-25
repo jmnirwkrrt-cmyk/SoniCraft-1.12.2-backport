@@ -1,0 +1,11 @@
+{
+  "parent": "sonicraft:custom/player_proximity_sensor",
+  "textures": {
+    "all": "sonicraft:blocks/weather_globe_sensor_light_heat_off",
+    "particle": "sonicraft:blocks/weather_globe_sensor_bottom",
+    "top": "sonicraft:blocks/weather_globe_sensor_top",
+    "light": "sonicraft:blocks/weather_globe_sensor_light_heat_off",
+    "bottom": "sonicraft:blocks/studiopolis_tiles_blue",
+    "torch": "sonicraft:blocks/weather_globe_sensor_torch_off"
+  }
+}

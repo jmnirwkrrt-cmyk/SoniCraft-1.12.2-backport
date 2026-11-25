@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:special_stage_up_block"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:special_stage_up_block"
+    }
+  }
+}

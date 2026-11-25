@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/press_garden_pole",
+  "textures": {
+    "all": "sonicraft:blocks/press_garden_pole_dark",
+    "particle": "sonicraft:blocks/press_garden_pole_dark",
+    "0": "sonicraft:blocks/press_garden_pole_dark"
+  }
+}

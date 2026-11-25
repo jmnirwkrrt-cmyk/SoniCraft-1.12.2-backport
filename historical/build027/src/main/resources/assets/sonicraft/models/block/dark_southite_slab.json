@@ -1,0 +1,9 @@
+{
+  "parent": "block/half_slab",
+  "textures": {
+    "particle": "sonicraft:blocks/southite_dark",
+    "bottom": "sonicraft:blocks/southite_dark",
+    "top": "sonicraft:blocks/southite_dark",
+    "side": "sonicraft:blocks/southite_dark"
+  }
+}

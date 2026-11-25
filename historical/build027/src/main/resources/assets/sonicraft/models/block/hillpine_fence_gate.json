@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_gate_closed",
+  "textures": {
+    "particle": "sonicraft:blocks/hillpine_planks",
+    "texture": "sonicraft:blocks/hillpine_planks"
+  }
+}

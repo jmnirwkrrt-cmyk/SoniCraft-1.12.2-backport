@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "bb",
+    "cc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:carpet",
+      "data": 14
+    },
+    "b": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "c": {
+      "item": "sonicraft:casino_night_stone",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:casino_night_road",
+    "count": 2,
+    "data": 0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/night_carnival_lamp",
+    "up": "sonicraft:blocks/night_carnival_lamp",
+    "north": "sonicraft:blocks/night_carnival_lamp_pillar",
+    "east": "sonicraft:blocks/night_carnival_lamp_pillar",
+    "south": "sonicraft:blocks/night_carnival_lamp_pillar",
+    "west": "sonicraft:blocks/night_carnival_lamp_pillar",
+    "particle": "sonicraft:blocks/night_carnival_lamp"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/custom_azalea_bush",
+  "textures": {
+    "all": "sonicraft:blocks/night_carnival_switch_wireless_connector",
+    "particle": "sonicraft:blocks/night_carnival_switch_wireless_connector",
+    "side": "sonicraft:blocks/nothing",
+    "top": "sonicraft:blocks/nothing",
+    "plant": "sonicraft:blocks/nothing"
+  }
+}

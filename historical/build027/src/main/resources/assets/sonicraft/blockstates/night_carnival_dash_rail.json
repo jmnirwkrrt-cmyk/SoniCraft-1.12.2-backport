@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:night_carnival_dash_rail"
+    },
+    "facing=east": {
+      "model": "sonicraft:night_carnival_dash_rail",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:night_carnival_dash_rail",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:night_carnival_dash_rail",
+      "y": 270
+    }
+  }
+}

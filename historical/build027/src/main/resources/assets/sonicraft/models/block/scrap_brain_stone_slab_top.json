@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "sonicraft:blocks/scrapbrain_labyrinthblock_smooth",
+    "bottom": "sonicraft:blocks/scrapbrain_labyrinthblock_smooth",
+    "top": "sonicraft:blocks/scrapbrain_labyrinthblock_smooth",
+    "side": "sonicraft:blocks/scrapbrain_labyrinthblock_slab"
+  }
+}

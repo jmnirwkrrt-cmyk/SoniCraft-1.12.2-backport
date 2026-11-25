@@ -1,0 +1,7 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "particle": "sonicraft:blocks/button_red",
+    "texture": "sonicraft:blocks/button_red"
+  }
+}

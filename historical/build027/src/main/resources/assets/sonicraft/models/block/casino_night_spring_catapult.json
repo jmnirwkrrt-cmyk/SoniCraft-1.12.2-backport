@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/spring_catapult",
+  "textures": {
+    "all": "sonicraft:blocks/spring_catapult_icon",
+    "particle": "sonicraft:blocks/spring_catapult_particle",
+    "spring": "sonicraft:blocks/spring_catapult",
+    "top": "sonicraft:blocks/spring_catapult_top"
+  }
+}

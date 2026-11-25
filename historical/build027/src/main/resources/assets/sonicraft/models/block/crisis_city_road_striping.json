@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/pavement_marking",
+  "textures": {
+    "all": "sonicraft:blocks/crisis_city_road_striping",
+    "particle": "sonicraft:blocks/crisis_city_road_striping",
+    "0": "sonicraft:blocks/crisis_city_road_striping"
+  }
+}

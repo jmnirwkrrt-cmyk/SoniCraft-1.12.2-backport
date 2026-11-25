@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/seesaw_ball.item",
+  "textures": {
+    "particle": "sonicraft:blocks/nothing"
+  }
+}

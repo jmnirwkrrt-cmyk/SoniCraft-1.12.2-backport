@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/studiopolis_tv_antennae"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/studiopolis_tv_antennae",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/studiopolis_tv_antennae",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/studiopolis_tv_antennae",
+      "y": 270
+    }
+  }
+}

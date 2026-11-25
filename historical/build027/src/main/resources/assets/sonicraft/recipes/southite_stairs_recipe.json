@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:southite"
+    }
+  },
+  "result": {
+    "item": "sonicraft:southite_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/studiopolis_bridge_bottom",
+    "bottom": "sonicraft:blocks/studiopolis_bridge_bottom",
+    "top": "sonicraft:blocks/studiopolis_bridge_top",
+    "side": "sonicraft:blocks/studiopolis_road"
+  }
+}

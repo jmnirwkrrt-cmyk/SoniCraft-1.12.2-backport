@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/oil_ocean_pipe_top_yellow",
+    "up": "sonicraft:blocks/oil_ocean_pipe_top_green",
+    "north": "sonicraft:blocks/oil_ocean_pipe_decorative_side",
+    "east": "sonicraft:blocks/oil_ocean_pipe_decorative_side",
+    "south": "sonicraft:blocks/oil_ocean_pipe_decorative_side",
+    "west": "sonicraft:blocks/oil_ocean_pipe_decorative_side",
+    "particle": "sonicraft:blocks/oil_ocean_pipe_top_yellow"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/mushroom_hill_mushroom_block",
+    "particle": "sonicraft:blocks/mushroom_hill_mushroom_block"
+  }
+}

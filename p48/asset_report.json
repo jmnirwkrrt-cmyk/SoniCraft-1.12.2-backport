@@ -1,0 +1,120 @@
+{
+  "features": [
+    {
+      "id": "angel_island_boulder_feature",
+      "status": "added",
+      "size": [
+        1,
+        1,
+        1
+      ],
+      "entities": []
+    },
+    {
+      "id": "angel_island_boulder_scorched_feature",
+      "status": "biome_not_ported",
+      "biomes": [
+        "sonicraft:scorched_angel_island_jungle"
+      ]
+    },
+    {
+      "id": "angel_island_fire_feature",
+      "status": "biome_not_ported",
+      "biomes": [
+        "sonicraft:scorched_angel_island_jungle"
+      ]
+    },
+    {
+      "id": "carnival_night_building_1_feature",
+      "status": "biome_not_ported",
+      "biomes": [
+        "sonicraft:carnival_night_zone"
+      ]
+    },
+    {
+      "id": "launch_base_building_1_feature",
+      "status": "biome_not_ported",
+      "biomes": [
+        "sonicraft:launch_base_zone"
+      ]
+    },
+    {
+      "id": "launch_base_building_2_feature",
+      "status": "biome_not_ported",
+      "biomes": [
+        "sonicraft:launch_base_zone"
+      ]
+    },
+    {
+      "id": "launch_base_pole_1_feature",
+      "status": "biome_not_ported",
+      "biomes": [
+        "sonicraft:launch_base_zone"
+      ]
+    },
+    {
+      "id": "launch_base_pole_2_feature",
+      "status": "biome_not_ported",
+      "biomes": [
+        "sonicraft:launch_base_zone"
+      ]
+    },
+    {
+      "id": "lava_reef_mountain_feature",
+      "status": "biome_not_ported",
+      "biomes": [
+        "sonicraft:lava_reef_zone"
+      ]
+    },
+    {
+      "id": "marble_garden_pole_1_feature",
+      "status": "biome_not_ported",
+      "biomes": [
+        "sonicraft:marble_garden_zone"
+      ]
+    },
+    {
+      "id": "marble_garden_pole_2_feature",
+      "status": "biome_not_ported",
+      "biomes": [
+        "sonicraft:marble_garden_zone"
+      ]
+    },
+    {
+      "id": "shuttle_loop_spawn_feature",
+      "status": "added",
+      "size": [
+        13,
+        31,
+        4
+      ],
+      "entities": []
+    },
+    {
+      "id": "emerald_hill_shuttle_loop_spawn_feature",
+      "status": "added",
+      "size": [
+        13,
+        31,
+        4
+      ],
+      "entities": []
+    }
+  ],
+  "districts": [
+    "casino_night_city_building_1",
+    "casino_night_city_building_2",
+    "night_carnival_city_building_1",
+    "star_light_building_1",
+    "star_light_building_2",
+    "chemical_plant_building_1",
+    "chemical_plant_building_2",
+    "chemical_plant_building_3",
+    "press_garden_factory_ruins_1",
+    "press_garden_factory_ruins_2",
+    "press_garden_factory_ruins_3",
+    "scrap_brain_factory_building_1",
+    "scrap_brain_factory_building_2",
+    "scrap_brain_factory_building_3"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "sonicraft:blocks/death_egg_floor",
+    "bottom": "sonicraft:blocks/death_egg_floor",
+    "top": "sonicraft:blocks/death_egg_floor",
+    "side": "sonicraft:blocks/death_egg_floor_side"
+  }
+}

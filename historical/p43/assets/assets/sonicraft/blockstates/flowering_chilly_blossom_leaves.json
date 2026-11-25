@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "check_decay=false,decayable=false": {
+      "model": "sonicraft:flowering_chilly_blossom_leaves"
+    },
+    "check_decay=false,decayable=true": {
+      "model": "sonicraft:flowering_chilly_blossom_leaves"
+    },
+    "check_decay=true,decayable=false": {
+      "model": "sonicraft:flowering_chilly_blossom_leaves"
+    },
+    "check_decay=true,decayable=true": {
+      "model": "sonicraft:flowering_chilly_blossom_leaves"
+    }
+  }
+}

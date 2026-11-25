@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/seaside_hill_grass_top",
+    "bottom": "sonicraft:blocks/seaside_hill_grass_top",
+    "top": "sonicraft:blocks/seaside_hill_grass_top",
+    "side": "sonicraft:blocks/seaside_hill_grass_top"
+  }
+}

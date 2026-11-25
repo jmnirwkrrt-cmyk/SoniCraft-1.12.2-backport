@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:block/ice_cube_yellow_spring"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:block/ice_cube_yellow_spring_melting_blockstate_0"
+    }
+  }
+}

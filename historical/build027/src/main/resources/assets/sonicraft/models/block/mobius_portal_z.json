@@ -1,0 +1,7 @@
+{
+  "parent": "block/portal_ew",
+  "textures": {
+    "portal": "sonicraft:blocks/mobius_portal",
+    "particle": "sonicraft:blocks/mobius_portal"
+  }
+}

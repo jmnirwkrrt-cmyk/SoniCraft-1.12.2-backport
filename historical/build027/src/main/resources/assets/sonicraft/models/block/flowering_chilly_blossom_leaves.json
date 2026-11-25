@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/chillyblossom_leaves_flowering",
+    "particle": "sonicraft:blocks/chillyblossom_leaves_flowering"
+  }
+}

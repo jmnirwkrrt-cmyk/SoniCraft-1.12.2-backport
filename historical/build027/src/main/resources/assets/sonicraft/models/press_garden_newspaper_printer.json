@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/press_garden_newspaper_printer_top",
+    "up": "sonicraft:blocks/press_garden_newspaper_printer_top",
+    "north": "sonicraft:blocks/press_garden_newspaper_printer_bottom",
+    "east": "sonicraft:blocks/press_garden_newspaper_printer_side",
+    "south": "sonicraft:blocks/press_garden_newspaper_printer_bottom",
+    "west": "sonicraft:blocks/press_garden_newspaper_printer_side",
+    "particle": "sonicraft:blocks/press_garden_newspaper_printer_bottom"
+  }
+}

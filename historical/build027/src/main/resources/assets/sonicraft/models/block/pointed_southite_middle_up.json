@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sonicraft:blocks/pointed_southite_up_middle",
+    "particle": "sonicraft:blocks/pointed_southite_up_middle"
+  }
+}

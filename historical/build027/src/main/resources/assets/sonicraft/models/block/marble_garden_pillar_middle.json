@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:block/marble_garden_pillar_top",
+    "up": "sonicraft:block/marble_garden_pillar_top",
+    "north": "sonicraft:block/marble_garden_pillar_middle",
+    "east": "sonicraft:block/marble_garden_pillar_middle",
+    "south": "sonicraft:block/marble_garden_pillar_middle",
+    "west": "sonicraft:block/marble_garden_pillar_middle",
+    "particle": "sonicraft:block/marble_garden_pillar_top"
+  },
+  "render_type": "solid"
+}

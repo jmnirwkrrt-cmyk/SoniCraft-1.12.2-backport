@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/casino_night_drop_target",
+  "textures": {
+    "all": "sonicraft:blocks/casino_night_drop_target_green_side",
+    "particle": "sonicraft:blocks/casino_night_drop_target_green_side",
+    "side": "sonicraft:blocks/casino_night_drop_target_green_side",
+    "top": "sonicraft:blocks/casino_night_drop_target_green_top",
+    "bottom": "sonicraft:blocks/casino_night_drop_target_green_bottom"
+  }
+}

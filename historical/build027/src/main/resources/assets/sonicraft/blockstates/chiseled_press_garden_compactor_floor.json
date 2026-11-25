@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:chiseled_press_garden_compactor_floor"
+    },
+    "facing=east": {
+      "model": "sonicraft:chiseled_press_garden_compactor_floor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:chiseled_press_garden_compactor_floor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:chiseled_press_garden_compactor_floor",
+      "y": 270
+    }
+  }
+}

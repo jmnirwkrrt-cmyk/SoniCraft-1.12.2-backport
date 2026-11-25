@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "sonicraft:block/hydrocity_road_1"
+      },
+      {
+        "model": "sonicraft:block/hydrocity_road_2"
+      },
+      {
+        "model": "sonicraft:block/hydrocity_road_3"
+      },
+      {
+        "model": "sonicraft:block/hydrocity_road_4"
+      },
+      {
+        "model": "sonicraft:block/hydrocity_road_5"
+      },
+      {
+        "model": "sonicraft:block/hydrocity_road_6"
+      }
+    ]
+  }
+}

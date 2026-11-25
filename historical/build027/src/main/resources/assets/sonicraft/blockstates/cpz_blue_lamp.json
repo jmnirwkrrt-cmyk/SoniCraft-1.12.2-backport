@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "sonicraft:block/cpz_blue_lamp",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "sonicraft:block/cpz_blue_lamp"
+    },
+    "axis=z": {
+      "model": "sonicraft:block/cpz_blue_lamp",
+      "x": 90
+    }
+  }
+}

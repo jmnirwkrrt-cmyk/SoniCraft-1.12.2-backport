@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/neo_palm_bridge_anchor",
+  "textures": {
+    "all": "sonicraft:blocks/neo_palm_bridge_anchor",
+    "particle": "sonicraft:blocks/neo_palm_bridge_anchor",
+    "0": "sonicraft:blocks/neo_palm_bridge_anchor"
+  }
+}

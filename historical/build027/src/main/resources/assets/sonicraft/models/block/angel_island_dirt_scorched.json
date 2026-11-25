@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/angel_island_dirt_top_scorched",
+    "up": "sonicraft:blocks/angel_island_dirt_top_scorched",
+    "north": "sonicraft:blocks/angel_island_dirt_scorched",
+    "east": "sonicraft:blocks/angel_island_dirt_scorched",
+    "south": "sonicraft:blocks/angel_island_dirt_scorched",
+    "west": "sonicraft:blocks/angel_island_dirt_scorched",
+    "particle": "sonicraft:blocks/angel_island_dirt_top_scorched"
+  }
+}

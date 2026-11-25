@@ -1,0 +1,46 @@
+{
+  "variants": {
+    "face=floor,facing=north": {
+      "model": "sonicraft:chilly_blossom_post"
+    },
+    "face=floor,facing=east": {
+      "model": "sonicraft:chilly_blossom_post"
+    },
+    "face=floor,facing=south": {
+      "model": "sonicraft:chilly_blossom_post"
+    },
+    "face=floor,facing=west": {
+      "model": "sonicraft:chilly_blossom_post"
+    },
+    "face=wall,facing=north": {
+      "model": "sonicraft:chilly_blossom_post",
+      "x": 90
+    },
+    "face=wall,facing=east": {
+      "model": "sonicraft:chilly_blossom_post",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south": {
+      "model": "sonicraft:chilly_blossom_post",
+      "x": 90
+    },
+    "face=wall,facing=west": {
+      "model": "sonicraft:chilly_blossom_post",
+      "x": 90,
+      "y": 90
+    },
+    "face=ceiling,facing=north": {
+      "model": "sonicraft:chilly_blossom_post"
+    },
+    "face=ceiling,facing=east": {
+      "model": "sonicraft:chilly_blossom_post"
+    },
+    "face=ceiling,facing=south": {
+      "model": "sonicraft:chilly_blossom_post"
+    },
+    "face=ceiling,facing=west": {
+      "model": "sonicraft:chilly_blossom_post"
+    }
+  }
+}

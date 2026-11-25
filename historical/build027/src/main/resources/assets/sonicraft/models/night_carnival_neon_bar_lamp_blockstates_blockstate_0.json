@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/night_carnival_neon_bars_small_2",
+    "up": "sonicraft:blocks/night_carnival_lamp",
+    "north": "sonicraft:blocks/night_carnival_neon_bars_small_2",
+    "east": "sonicraft:blocks/night_carnival_neon_bars_small_6",
+    "south": "sonicraft:blocks/night_carnival_lamp",
+    "west": "sonicraft:blocks/night_carnival_neon_bars_small_7",
+    "particle": "sonicraft:blocks/night_carnival_neon_bars_small_2"
+  }
+}

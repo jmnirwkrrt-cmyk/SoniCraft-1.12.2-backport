@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/night_carnival_large_pillar_neon",
+  "textures": {
+    "all": "sonicraft:blocks/night_carnival_large_pillar_neon_bottom_1",
+    "particle": "sonicraft:blocks/night_carnival_large_pillar_neon_top_1",
+    "pink": "sonicraft:blocks/night_carnival_large_pillar_neon_bottom_2",
+    "green": "sonicraft:blocks/night_carnival_large_pillar_neon_bottom_1",
+    "top": "sonicraft:blocks/night_carnival_large_pillar_neon_blank"
+  }
+}

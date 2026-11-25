@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "sonicraft:blocks/ocean_palace_stone",
+    "particle": "sonicraft:blocks/ocean_palace_stone"
+  }
+}

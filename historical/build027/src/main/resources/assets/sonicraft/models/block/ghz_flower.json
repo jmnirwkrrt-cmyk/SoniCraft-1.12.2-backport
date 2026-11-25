@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sonicraft:blocks/green_hill_flower_top",
+    "particle": "sonicraft:blocks/green_hill_flower_top"
+  }
+}

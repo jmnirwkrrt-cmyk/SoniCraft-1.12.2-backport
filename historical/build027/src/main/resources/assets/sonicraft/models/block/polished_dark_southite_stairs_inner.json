@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/southite_polished_dark",
+    "bottom": "sonicraft:blocks/southite_polished_dark",
+    "top": "sonicraft:blocks/southite_polished_dark",
+    "side": "sonicraft:blocks/southite_polished_dark"
+  }
+}

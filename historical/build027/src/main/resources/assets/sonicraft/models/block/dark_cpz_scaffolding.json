@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/chemical_plant_gray_scaffolding",
+    "up": "sonicraft:blocks/chemical_plant_gray_scaffolding",
+    "north": "sonicraft:blocks/chemical_plant_gray_scaffolding_1",
+    "east": "sonicraft:blocks/chemical_plant_gray_scaffolding_2",
+    "south": "sonicraft:blocks/chemical_plant_gray_scaffolding_1",
+    "west": "sonicraft:blocks/chemical_plant_gray_scaffolding_2",
+    "particle": "sonicraft:blocks/chemical_plant_gray_scaffolding"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "sonicraft:blocks/crisis_city_concrete",
+    "bottom": "sonicraft:blocks/crisis_city_concrete",
+    "top": "sonicraft:blocks/crisis_city_concrete",
+    "side": "sonicraft:blocks/crisis_city_concrete"
+  }
+}

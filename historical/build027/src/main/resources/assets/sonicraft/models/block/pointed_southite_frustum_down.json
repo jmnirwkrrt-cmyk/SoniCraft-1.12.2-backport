@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sonicraft:blocks/pointed_southite_down_frustum",
+    "particle": "sonicraft:blocks/pointed_southite_down_frustum"
+  }
+}

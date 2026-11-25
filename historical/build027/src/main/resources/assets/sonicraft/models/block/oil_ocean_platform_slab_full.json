@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "sonicraft:blocks/oil_ocean_iron_block_purple_3",
+    "bottom": "sonicraft:blocks/oil_ocean_iron_block_purple_3",
+    "top": "sonicraft:blocks/oil_ocean_iron_block_purple_2",
+    "side": "sonicraft:blocks/oil_ocean_platform_side"
+  }
+}

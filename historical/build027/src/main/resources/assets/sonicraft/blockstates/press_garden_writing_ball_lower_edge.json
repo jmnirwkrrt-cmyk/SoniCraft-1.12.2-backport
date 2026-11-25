@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:press_garden_writing_ball_lower_edge"
+    },
+    "facing=east": {
+      "model": "sonicraft:press_garden_writing_ball_lower_edge",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:press_garden_writing_ball_lower_edge",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:press_garden_writing_ball_lower_edge",
+      "y": 270
+    }
+  }
+}

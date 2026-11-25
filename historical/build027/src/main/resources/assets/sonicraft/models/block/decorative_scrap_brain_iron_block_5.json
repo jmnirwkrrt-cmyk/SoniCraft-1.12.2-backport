@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/scrap_brain_iron_chiseled_5",
+    "particle": "sonicraft:blocks/scrap_brain_iron_chiseled_5"
+  }
+}

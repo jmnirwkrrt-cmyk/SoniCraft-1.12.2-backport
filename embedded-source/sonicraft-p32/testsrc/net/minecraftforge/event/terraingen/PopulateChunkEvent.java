@@ -1,0 +1,2 @@
+package net.minecraftforge.event.terraingen;
+import net.minecraft.world.World; public class PopulateChunkEvent { public static class Post { public World w;public int x,z;public World getWorld(){return w;}public int getChunkX(){return x;}public int getChunkZ(){return z;}}}

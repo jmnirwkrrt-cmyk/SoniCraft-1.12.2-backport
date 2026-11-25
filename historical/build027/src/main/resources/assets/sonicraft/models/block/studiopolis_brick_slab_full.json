@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "sonicraft:blocks/studiopolis_bricks",
+    "bottom": "sonicraft:blocks/studiopolis_bricks",
+    "top": "sonicraft:blocks/studiopolis_bricks",
+    "side": "sonicraft:blocks/studiopolis_bricks"
+  }
+}

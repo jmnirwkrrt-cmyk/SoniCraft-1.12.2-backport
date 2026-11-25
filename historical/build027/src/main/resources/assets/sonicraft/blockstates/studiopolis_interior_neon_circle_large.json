@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:studiopolis_interior_neon_circle_large"
+    },
+    "facing=east": {
+      "model": "sonicraft:studiopolis_interior_neon_circle_large",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:studiopolis_interior_neon_circle_large",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:studiopolis_interior_neon_circle_large",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "sonicraft:studiopolis_interior_neon_circle_large",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "sonicraft:studiopolis_interior_neon_circle_large",
+      "x": 90
+    }
+  }
+}

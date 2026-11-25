@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:sky_sanctuary_spinning_platform"
+    },
+    "type=top": {
+      "model": "sonicraft:sky_sanctuary_spinning_platform_top"
+    },
+    "type=double": {
+      "model": "sonicraft:sky_sanctuary_spinning_platform_full"
+    }
+  }
+}

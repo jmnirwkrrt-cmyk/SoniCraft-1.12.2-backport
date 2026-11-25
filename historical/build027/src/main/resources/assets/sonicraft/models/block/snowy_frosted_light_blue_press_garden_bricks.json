@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/press_garden_bricks_light_blue_frosted_cracked",
+    "up": "sonicraft:blocks/press_garden_grass_top_snow",
+    "north": "sonicraft:blocks/press_garden_bricks_light_blue_frosted_snowy_cracked",
+    "east": "sonicraft:blocks/press_garden_bricks_light_blue_frosted_snowy_cracked",
+    "south": "sonicraft:blocks/press_garden_bricks_light_blue_frosted_snowy_cracked",
+    "west": "sonicraft:blocks/press_garden_bricks_light_blue_frosted_snowy_cracked",
+    "particle": "sonicraft:blocks/press_garden_bricks_light_blue_frosted_cracked"
+  }
+}

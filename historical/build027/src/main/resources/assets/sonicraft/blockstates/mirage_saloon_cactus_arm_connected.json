@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/mirage_saloon_cactus_arm_connected"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/mirage_saloon_cactus_arm_connected",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/mirage_saloon_cactus_arm_connected",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/mirage_saloon_cactus_arm_connected",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/small_marble_mural",
+  "textures": {
+    "all": "sonicraft:blocks/marble_zone_window",
+    "particle": "sonicraft:blocks/marble_zone_stone_wall",
+    "0": "sonicraft:blocks/marble_zone_window"
+  }
+}

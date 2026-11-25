@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sonicraft:items/mirage_saloon_prickly_pear_cactus"
+  }
+}

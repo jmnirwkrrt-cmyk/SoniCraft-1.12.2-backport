@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sonicraft:blocks/chilly_blossom_flower",
+    "particle": "sonicraft:blocks/chilly_blossom_flower"
+  }
+}

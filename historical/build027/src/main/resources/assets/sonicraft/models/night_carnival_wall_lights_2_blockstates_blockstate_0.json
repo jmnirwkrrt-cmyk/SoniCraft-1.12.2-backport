@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/night_carnival_wall_lights",
+  "textures": {
+    "all": "sonicraft:blocks/night_carnival_wall_lights_4_1",
+    "particle": "sonicraft:blocks/night_carnival_wall_lights_4_1",
+    "texture": "sonicraft:blocks/night_carnival_wall_lights_2_2"
+  }
+}

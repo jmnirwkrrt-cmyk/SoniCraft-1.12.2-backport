@@ -1,0 +1,14 @@
+{
+  "parent": "sonicraft:custom/mirage_saloon_cactus_branch_connector",
+  "textures": {
+    "all": "sonicraft:blocks/mirage_saloon_cactus_branch_connector_side_2",
+    "particle": "sonicraft:blocks/mirage_saloon_cactus_branch_connector_side_2",
+    "side": "sonicraft:blocks/mirage_saloon_cactus_branch_side",
+    "connector_side_1": "sonicraft:blocks/mirage_saloon_cactus_branch_connector_side",
+    "top": "sonicraft:blocks/mirage_saloon_cactus_branch_top",
+    "connector_side_2": "sonicraft:blocks/mirage_saloon_cactus_branch_connector_side_2",
+    "bottom": "sonicraft:blocks/mirage_saloon_cactus_branch_bottom",
+    "spines": "sonicraft:blocks/mirage_saloon_cactus_branch_spines",
+    "connector_bottom": "sonicraft:blocks/mirage_saloon_cactus_branch_connector_bottom"
+  }
+}

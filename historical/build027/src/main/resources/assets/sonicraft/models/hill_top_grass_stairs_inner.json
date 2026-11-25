@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/hill_top_dirt_4",
+    "bottom": "sonicraft:blocks/hill_top_dirt_4",
+    "top": "sonicraft:blocks/emerald_hill_grass_block_top",
+    "side": "sonicraft:blocks/hill_top_grass_block_side"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/press_garden_bricks_light_blue",
+    "particle": "sonicraft:blocks/press_garden_bricks_light_blue"
+  }
+}

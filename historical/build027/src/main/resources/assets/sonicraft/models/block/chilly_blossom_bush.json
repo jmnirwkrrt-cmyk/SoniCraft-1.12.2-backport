@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/chilly_blossom_bush",
+  "textures": {
+    "all": "sonicraft:blocks/chilly_blossom_bush",
+    "particle": "sonicraft:blocks/chilly_blossom_bush",
+    "side": "sonicraft:blocks/chilly_blossom_bush_side",
+    "top": "sonicraft:blocks/chillyblossom_leaves_flowering",
+    "log": "sonicraft:blocks/chilly_blossom_post"
+  }
+}

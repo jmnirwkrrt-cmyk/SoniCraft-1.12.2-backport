@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:press_garden_compactor_floor_corner"
+    },
+    "facing=east": {
+      "model": "sonicraft:press_garden_compactor_floor_corner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:press_garden_compactor_floor_corner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:press_garden_compactor_floor_corner",
+      "y": 270
+    }
+  }
+}

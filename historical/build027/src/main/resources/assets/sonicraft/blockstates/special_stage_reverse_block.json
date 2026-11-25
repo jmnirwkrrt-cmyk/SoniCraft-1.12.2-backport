@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:special_stage_reverse_block"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:special_stage_reverse_block_used_blockstate_0"
+    }
+  }
+}

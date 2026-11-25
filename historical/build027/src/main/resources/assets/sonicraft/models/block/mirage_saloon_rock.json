@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/mirage_saloon_boulder_bottom",
+    "up": "sonicraft:blocks/mirage_saloon_boulder_top",
+    "north": "sonicraft:blocks/mirage_saloon_boulder_side",
+    "east": "sonicraft:blocks/mirage_saloon_boulder_side",
+    "south": "sonicraft:blocks/mirage_saloon_boulder_side",
+    "west": "sonicraft:blocks/mirage_saloon_boulder_side",
+    "particle": "sonicraft:blocks/mirage_saloon_boulder_bottom"
+  }
+}

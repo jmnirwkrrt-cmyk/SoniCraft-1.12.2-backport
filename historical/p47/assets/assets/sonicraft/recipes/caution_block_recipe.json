@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:gold_ring",
+      "data": 0
+    },
+    "b": {
+      "item": "minecraft:dye",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:caution_block",
+    "count": 2,
+    "data": 0
+  }
+}

@@ -1,0 +1,163 @@
+[
+  {
+    "key": "miragebar",
+    "biomes": [
+      "mirage_saloon_zone"
+    ],
+    "rule": [
+      10,
+      9,
+      1382979782
+    ]
+  },
+  {
+    "key": "chaogarden",
+    "biomes": [
+      "green_hill_zone",
+      "emerald_hill_zone",
+      "angel_island_jungle",
+      "mushroom_hill_zone",
+      "marble_garden_zone"
+    ],
+    "rule": [
+      60,
+      48,
+      921168784
+    ]
+  },
+  {
+    "key": "mackpool",
+    "biomes": [
+      "chemical_plant_zone"
+    ],
+    "rule": [
+      8,
+      6,
+      1476962428
+    ]
+  },
+  {
+    "key": "oceanpalace",
+    "biomes": [
+      "seaside_hill_zone"
+    ],
+    "rule": [
+      9,
+      8,
+      520965966
+    ]
+  },
+  {
+    "key": "hillmountain",
+    "biomes": [
+      "hill_top_zone"
+    ],
+    "rule": [
+      7,
+      6,
+      1088296121
+    ]
+  },
+  {
+    "key": "seasidelake",
+    "biomes": [
+      "seaside_hill_zone"
+    ],
+    "rule": [
+      6,
+      5,
+      921771000
+    ]
+  },
+  {
+    "key": "labyrinth",
+    "biomes": [
+      "green_hill_zone",
+      "marble_zone",
+      "spring_yard",
+      "star_light_zone"
+    ],
+    "rule": [
+      32,
+      20,
+      1474162779
+    ]
+  },
+  {
+    "key": "hydrocity",
+    "biomes": [
+      "angel_island_jungle"
+    ],
+    "rule": [
+      12,
+      6,
+      673344742
+    ]
+  },
+  {
+    "key": "metalpit",
+    "biomes": [
+      "chemical_plant_zone"
+    ],
+    "rule": [
+      16,
+      10,
+      140091
+    ]
+  },
+  {
+    "key": "bigarms",
+    "biomes": [
+      "angel_island_jungle"
+    ],
+    "rule": [
+      32,
+      20,
+      1453407575
+    ]
+  },
+  {
+    "key": "magnet",
+    "biomes": [
+      "aquatic_ruin_zone",
+      "casino_night_zone",
+      "chemical_plant_zone",
+      "emerald_hill_zone",
+      "green_hill_zone",
+      "marble_zone",
+      "night_carnival_zone",
+      "press_garden_zone",
+      "scrap_brain_zone",
+      "spring_yard",
+      "star_light_zone",
+      "studiopolis_zone"
+    ],
+    "rule": [
+      128,
+      12,
+      1102454470
+    ]
+  },
+  {
+    "key": "mysticbridge",
+    "biomes": [
+      "hill_top_zone"
+    ],
+    "rule": [
+      4,
+      3,
+      874851526
+    ]
+  },
+  {
+    "key": "aquatictemple",
+    "biomes": [
+      "aquatic_ruin_zone"
+    ],
+    "rule": [
+      6,
+      5,
+      397984357
+    ]
+  }
+]

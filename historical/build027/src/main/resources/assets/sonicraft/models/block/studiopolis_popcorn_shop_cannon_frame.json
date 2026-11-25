@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/studiopolis_popcorn_shop_cannon_frame_bottom",
+    "up": "sonicraft:blocks/studiopolis_popcorn_shop_cannon_frame_top",
+    "north": "sonicraft:blocks/studiopolis_popcorn_shop_cannon_frame",
+    "east": "sonicraft:blocks/studiopolis_popcorn_shop_cannon_frame",
+    "south": "sonicraft:blocks/studiopolis_popcorn_shop_cannon_frame",
+    "west": "sonicraft:blocks/studiopolis_popcorn_shop_cannon_frame",
+    "particle": "sonicraft:blocks/studiopolis_popcorn_shop_cannon_frame_bottom"
+  }
+}

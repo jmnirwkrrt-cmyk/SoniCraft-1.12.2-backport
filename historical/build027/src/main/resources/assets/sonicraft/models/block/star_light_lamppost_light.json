@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/star_light_lamppost_lamp",
+  "textures": {
+    "all": "sonicraft:blocks/star_light_lamppost_lamp",
+    "particle": "sonicraft:blocks/star_light_lamppost_lamp",
+    "lamp": "sonicraft:blocks/star_light_lamppost_lamp",
+    "pole": "sonicraft:blocks/star_light_lamppost_pole"
+  }
+}

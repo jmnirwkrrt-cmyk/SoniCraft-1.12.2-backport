@@ -1,0 +1,123 @@
+{
+  "roots": {
+    "casino": "casino_night_city_center",
+    "spring": "spring_yard_city"
+  },
+  "pools": [
+    {
+      "id": "sonicraft:casino_night_city",
+      "entries": [
+        {
+          "id": "casino_night_city_center",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:casino_night_city_bottom",
+      "entries": [
+        {
+          "id": "casino_night_city_center_bottom",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:casino_night_city_buildings",
+      "entries": [
+        {
+          "id": "casino_night_slot_machine",
+          "weight": 1
+        },
+        {
+          "id": "casino_night_city_building_1",
+          "weight": 1
+        },
+        {
+          "id": "casino_night_city_building_2",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:casino_night_city_road",
+      "entries": [
+        {
+          "id": "casino_night_city_road_1",
+          "weight": 9
+        },
+        {
+          "id": "casino_night_city_road_2",
+          "weight": 9
+        },
+        {
+          "id": "casino_night_city_road_3",
+          "weight": 9
+        },
+        {
+          "id": "casino_night_city_road_turn",
+          "weight": 10
+        },
+        {
+          "id": "casino_night_city_crossroad",
+          "weight": 6
+        },
+        {
+          "id": "casino_night_city_road_buildings",
+          "weight": 8
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:spring_yard_city",
+      "entries": [
+        {
+          "id": "spring_yard_city",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:spring_yard_city_bottom",
+      "entries": [
+        {
+          "id": "spring_yard_city_bottom",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:spring_yard_city_road",
+      "entries": [
+        {
+          "id": "spring_yard_road_1",
+          "weight": 20
+        },
+        {
+          "id": "spring_yard_road_2",
+          "weight": 20
+        },
+        {
+          "id": "spring_yard_road_3",
+          "weight": 20
+        },
+        {
+          "id": "spring_yard_road_4",
+          "weight": 20
+        },
+        {
+          "id": "spring_yard_road_5",
+          "weight": 20
+        },
+        {
+          "id": "spring_yard_road_corner_1",
+          "weight": 22
+        },
+        {
+          "id": "spring_yard_road_crossroad_1",
+          "weight": 23
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+package org.sonicraft.backport;
+import java.util.*;public class CityComplexWorldgen$Data {public Set<Long> done=new HashSet<>();public Map<Long,String> pending=new HashMap<>();public void func_76185_a(){}}

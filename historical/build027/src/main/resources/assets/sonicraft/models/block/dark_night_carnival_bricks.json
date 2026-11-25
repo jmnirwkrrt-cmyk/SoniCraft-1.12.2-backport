@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/night_carnival_bricks_dark",
+    "particle": "sonicraft:blocks/night_carnival_bricks_dark"
+  }
+}

@@ -1,0 +1,409 @@
+[
+  {
+    "key": "miragebar",
+    "biomes": [
+      "mirage_saloon_zone"
+    ],
+    "rule": [
+      10,
+      9,
+      1382979782
+    ]
+  },
+  {
+    "key": "chaogarden",
+    "biomes": [
+      "green_hill_zone",
+      "emerald_hill_zone",
+      "angel_island_jungle",
+      "mushroom_hill_zone",
+      "marble_garden_zone"
+    ],
+    "rule": [
+      60,
+      48,
+      921168784
+    ]
+  },
+  {
+    "key": "mackpool",
+    "biomes": [
+      "chemical_plant_zone"
+    ],
+    "rule": [
+      8,
+      6,
+      1476962428
+    ]
+  },
+  {
+    "key": "oceanpalace",
+    "biomes": [
+      "seaside_hill_zone"
+    ],
+    "rule": [
+      9,
+      8,
+      520965966
+    ]
+  },
+  {
+    "key": "hillmountain",
+    "biomes": [
+      "hill_top_zone"
+    ],
+    "rule": [
+      7,
+      6,
+      1088296121
+    ]
+  },
+  {
+    "key": "seasidelake",
+    "biomes": [
+      "seaside_hill_zone"
+    ],
+    "rule": [
+      6,
+      5,
+      921771000
+    ]
+  },
+  {
+    "key": "labyrinth",
+    "biomes": [
+      "green_hill_zone",
+      "marble_zone",
+      "spring_yard",
+      "star_light_zone"
+    ],
+    "rule": [
+      32,
+      20,
+      1474162779
+    ]
+  },
+  {
+    "key": "hydrocity",
+    "biomes": [
+      "angel_island_jungle"
+    ],
+    "rule": [
+      12,
+      6,
+      673344742
+    ]
+  },
+  {
+    "key": "metalpit",
+    "biomes": [
+      "chemical_plant_zone"
+    ],
+    "rule": [
+      16,
+      10,
+      140091
+    ]
+  },
+  {
+    "key": "bigarms",
+    "biomes": [
+      "angel_island_jungle"
+    ],
+    "rule": [
+      32,
+      20,
+      1453407575
+    ]
+  },
+  {
+    "key": "magnet",
+    "biomes": [
+      "aquatic_ruin_zone",
+      "casino_night_zone",
+      "chemical_plant_zone",
+      "emerald_hill_zone",
+      "green_hill_zone",
+      "marble_zone",
+      "night_carnival_zone",
+      "press_garden_zone",
+      "scrap_brain_zone",
+      "spring_yard",
+      "star_light_zone",
+      "studiopolis_zone"
+    ],
+    "rule": [
+      128,
+      12,
+      1102454470
+    ]
+  },
+  {
+    "key": "mysticbridge",
+    "biomes": [
+      "hill_top_zone"
+    ],
+    "rule": [
+      4,
+      3,
+      874851526
+    ]
+  },
+  {
+    "key": "aquatictemple",
+    "biomes": [
+      "aquatic_ruin_zone"
+    ],
+    "rule": [
+      6,
+      5,
+      397984357
+    ]
+  },
+  {
+    "key": "ghmountain",
+    "biomes": [
+      "green_hill_zone"
+    ],
+    "rule": [
+      18,
+      15,
+      1612021572
+    ]
+  },
+  {
+    "key": "studiobuilding1",
+    "biomes": [
+      "studiopolis_zone"
+    ],
+    "rule": [
+      8,
+      6,
+      13946001
+    ]
+  },
+  {
+    "key": "studiobuilding2",
+    "biomes": [
+      "studiopolis_zone"
+    ],
+    "rule": [
+      8,
+      6,
+      13946002
+    ]
+  },
+  {
+    "key": "studiobuilding3",
+    "biomes": [
+      "studiopolis_zone"
+    ],
+    "rule": [
+      8,
+      6,
+      13946003
+    ]
+  },
+  {
+    "key": "studiobuilding4",
+    "biomes": [
+      "studiopolis_zone"
+    ],
+    "rule": [
+      8,
+      6,
+      13946004
+    ]
+  },
+  {
+    "key": "bighouse",
+    "biomes": [
+      "green_hill_zone"
+    ],
+    "rule": [
+      14,
+      10,
+      1947001
+    ]
+  },
+  {
+    "key": "tailsworkshop",
+    "biomes": [
+      "green_hill_zone",
+      "emerald_hill_zone"
+    ],
+    "rule": [
+      16,
+      12,
+      1947002
+    ]
+  },
+  {
+    "key": "district48_casino_night_city_building_1",
+    "biomes": [
+      "casino_night_zone"
+    ],
+    "rule": [
+      12,
+      9,
+      641498266
+    ],
+    "height": -20
+  },
+  {
+    "key": "district48_casino_night_city_building_2",
+    "biomes": [
+      "casino_night_zone"
+    ],
+    "rule": [
+      12,
+      9,
+      1060449568
+    ],
+    "height": -20
+  },
+  {
+    "key": "district48_night_carnival_city_building_1",
+    "biomes": [
+      "night_carnival_zone"
+    ],
+    "rule": [
+      12,
+      9,
+      1850912821
+    ],
+    "height": -2
+  },
+  {
+    "key": "district48_star_light_building_1",
+    "biomes": [
+      "star_light_zone"
+    ],
+    "rule": [
+      12,
+      9,
+      981367242
+    ],
+    "height": -3
+  },
+  {
+    "key": "district48_star_light_building_2",
+    "biomes": [
+      "star_light_zone"
+    ],
+    "rule": [
+      12,
+      9,
+      595011696
+    ],
+    "height": -3
+  },
+  {
+    "key": "district48_chemical_plant_building_1",
+    "biomes": [
+      "chemical_plant_zone"
+    ],
+    "rule": [
+      12,
+      9,
+      2102654860
+    ],
+    "height": -16
+  },
+  {
+    "key": "district48_chemical_plant_building_2",
+    "biomes": [
+      "chemical_plant_zone"
+    ],
+    "rule": [
+      12,
+      9,
+      1683662390
+    ],
+    "height": -16
+  },
+  {
+    "key": "district48_chemical_plant_building_3",
+    "biomes": [
+      "chemical_plant_zone"
+    ],
+    "rule": [
+      12,
+      9,
+      324900512
+    ],
+    "height": -16
+  },
+  {
+    "key": "district48_press_garden_factory_ruins_1",
+    "biomes": [
+      "press_garden_zone"
+    ],
+    "rule": [
+      12,
+      9,
+      257956804
+    ],
+    "height": -9
+  },
+  {
+    "key": "district48_press_garden_factory_ruins_2",
+    "biomes": [
+      "press_garden_zone"
+    ],
+    "rule": [
+      12,
+      9,
+      375999102
+    ],
+    "height": -9
+  },
+  {
+    "key": "district48_press_garden_factory_ruins_3",
+    "biomes": [
+      "press_garden_zone"
+    ],
+    "rule": [
+      12,
+      9,
+      1634630376
+    ],
+    "height": -9
+  },
+  {
+    "key": "district48_scrap_brain_factory_building_1",
+    "biomes": [
+      "scrap_brain_zone"
+    ],
+    "rule": [
+      12,
+      9,
+      770229358
+    ],
+    "height": -19
+  },
+  {
+    "key": "district48_scrap_brain_factory_building_2",
+    "biomes": [
+      "scrap_brain_zone"
+    ],
+    "rule": [
+      12,
+      9,
+      887199188
+    ],
+    "height": -19
+  },
+  {
+    "key": "district48_scrap_brain_factory_building_3",
+    "biomes": [
+      "scrap_brain_zone"
+    ],
+    "rule": [
+      12,
+      9,
+      1139189058
+    ],
+    "height": -19
+  }
+]

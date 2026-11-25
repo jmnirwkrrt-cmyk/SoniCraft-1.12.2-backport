@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:oil_ocean_platform_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:oil_ocean_platform_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:oil_ocean_platform_slab_full"
+    }
+  }
+}

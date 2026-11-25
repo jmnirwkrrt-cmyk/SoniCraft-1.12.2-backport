@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:studiopolis_stone",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:studiopolis_bricks",
+    "count": 4,
+    "data": 0
+  }
+}

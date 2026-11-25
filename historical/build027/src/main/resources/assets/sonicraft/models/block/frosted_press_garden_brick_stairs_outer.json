@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/press_garden_bricks_frosted",
+    "bottom": "sonicraft:blocks/press_garden_bricks_frosted",
+    "top": "sonicraft:blocks/press_garden_bricks_frosted",
+    "side": "sonicraft:blocks/press_garden_bricks_frosted"
+  }
+}

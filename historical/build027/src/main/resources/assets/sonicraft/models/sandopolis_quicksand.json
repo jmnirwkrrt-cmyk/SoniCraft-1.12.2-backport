@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/powder_snow",
+  "textures": {
+    "all": "sonicraft:blocks/sandopolis_sand",
+    "particle": "sonicraft:blocks/sandopolis_sand",
+    "side": "sonicraft:blocks/sandopolis_sand_flow",
+    "top": "sonicraft:blocks/sandopolis_sand"
+  }
+}

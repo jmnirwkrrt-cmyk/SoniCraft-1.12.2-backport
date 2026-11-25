@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=single": {
+      "model": "sonicraft:block/studiopolis_clapperboard_platform_slab"
+    },
+    "half=top,variant=single": {
+      "model": "sonicraft:block/studiopolis_clapperboard_platform_slab_top"
+    }
+  }
+}

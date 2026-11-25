@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:launch_base_rocket_fire"
+    },
+    "facing=east": {
+      "model": "sonicraft:launch_base_rocket_fire",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:launch_base_rocket_fire",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:launch_base_rocket_fire",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/night_carnival_large_pillar_edge_light"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/night_carnival_large_pillar_edge_light",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/night_carnival_large_pillar_edge_light",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/night_carnival_large_pillar_edge_light",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "sonicraft:custom/casino_night_slot_machine",
+  "textures": {
+    "all": "sonicraft:blocks/casino_night_slot_machine_cabinet_frame",
+    "particle": "sonicraft:blocks/casino_night_stone",
+    "wheel_middle": "sonicraft:blocks/casino_night_slot_wheel_ring",
+    "wheel_right": "sonicraft:blocks/casino_night_slot_wheel_ring",
+    "cabinet": "sonicraft:blocks/casino_night_slot_machine_cabinet",
+    "wheel_left": "sonicraft:blocks/casino_night_slot_wheel_ring",
+    "frame": "sonicraft:blocks/casino_night_slot_machine_cabinet_frame"
+  }
+}

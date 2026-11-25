@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/studiopolis_popcorn_shop_glass",
+    "up": "sonicraft:blocks/studiopolis_popcorn_shop_glass",
+    "north": "sonicraft:blocks/studiopolis_popcorn_shop_glass_pillar",
+    "east": "sonicraft:blocks/studiopolis_popcorn_shop_glass_pillar",
+    "south": "sonicraft:blocks/studiopolis_popcorn_shop_glass_pillar",
+    "west": "sonicraft:blocks/studiopolis_popcorn_shop_glass_pillar",
+    "particle": "sonicraft:blocks/studiopolis_popcorn_shop_glass"
+  }
+}

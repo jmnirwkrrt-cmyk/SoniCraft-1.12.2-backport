@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/aquatic_ruin_platform_top",
+    "up": "sonicraft:blocks/aquatic_ruin_platform_top",
+    "north": "sonicraft:blocks/aquatic_ruin_bricks_cut",
+    "east": "sonicraft:blocks/aquatic_ruin_bricks_cut",
+    "south": "sonicraft:blocks/aquatic_ruin_bricks_cut",
+    "west": "sonicraft:blocks/aquatic_ruin_bricks_cut",
+    "particle": "sonicraft:blocks/aquatic_ruin_platform_top"
+  }
+}

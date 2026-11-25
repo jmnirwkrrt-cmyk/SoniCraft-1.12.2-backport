@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/mirage_saloon_wanted_poster",
+  "textures": {
+    "all": "sonicraft:blocks/mirage_saloon_wanted_poster_bean",
+    "particle": "sonicraft:blocks/mirage_saloon_wanted_poster_bean",
+    "back": "sonicraft:blocks/mirage_saloon_wanted_poster_back",
+    "front": "sonicraft:blocks/mirage_saloon_wanted_poster_bean"
+  }
+}

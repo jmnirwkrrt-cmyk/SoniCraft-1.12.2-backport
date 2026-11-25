@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/jump_panel_modern",
+  "textures": {
+    "all": "sonicraft:blocks/jump_panel_modern",
+    "particle": "sonicraft:blocks/jump_panel_modern",
+    "0": "sonicraft:blocks/jump_panel_modern"
+  }
+}

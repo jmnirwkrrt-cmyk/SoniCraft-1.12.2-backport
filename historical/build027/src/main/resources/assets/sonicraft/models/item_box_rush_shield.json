@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/item_box_rush",
+  "textures": {
+    "all": "sonicraft:blocks/item_box_rush_shield",
+    "particle": "sonicraft:blocks/item_box_rush_particle",
+    "item": "sonicraft:blocks/item_box_rush_shield",
+    "box": "sonicraft:blocks/item_box_rush"
+  }
+}

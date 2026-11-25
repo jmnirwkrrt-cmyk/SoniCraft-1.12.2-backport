@@ -1,0 +1,7 @@
+{
+  "parent": "sonicraft:custom/night_carnival_fence_post",
+  "textures": {
+    "texture": "sonicraft:blocks/night_carnival_fence",
+    "particle": "sonicraft:blocks/night_carnival_fence"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:green_hill_palm_planks"
+    }
+  },
+  "result": {
+    "item": "sonicraft:green_hill_palm_stairs",
+    "count": 4
+  }
+}

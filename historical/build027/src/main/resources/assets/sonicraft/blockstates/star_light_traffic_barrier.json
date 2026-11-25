@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/star_light_traffic_barrier"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/star_light_traffic_barrier",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/star_light_traffic_barrier",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/star_light_traffic_barrier",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_post",
+  "textures": {
+    "wall": "sonicraft:blocks/cobbled_chaostone",
+    "particle": "sonicraft:blocks/cobbled_chaostone"
+  }
+}

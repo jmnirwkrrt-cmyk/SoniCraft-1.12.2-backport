@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/sky_sanctuary_decorative_block_top",
+    "up": "sonicraft:blocks/sky_sanctuary_decorative_block_top",
+    "north": "sonicraft:blocks/sky_sanctuary_green_bricks",
+    "east": "sonicraft:blocks/sky_sanctuary_green_bricks",
+    "south": "sonicraft:blocks/sky_sanctuary_green_bricks",
+    "west": "sonicraft:blocks/sky_sanctuary_green_bricks",
+    "particle": "sonicraft:blocks/sky_sanctuary_decorative_block_top"
+  }
+}

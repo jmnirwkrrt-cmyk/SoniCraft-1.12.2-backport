@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/crisis_city_concrete_pillar_top_cracked",
+    "up": "sonicraft:blocks/crisis_city_concrete_pillar_top_cracked",
+    "north": "sonicraft:blocks/crisis_city_concrete_pillar_cracked",
+    "east": "sonicraft:blocks/crisis_city_concrete_pillar_cracked",
+    "south": "sonicraft:blocks/crisis_city_concrete_pillar_cracked",
+    "west": "sonicraft:blocks/crisis_city_concrete_pillar_cracked",
+    "particle": "sonicraft:blocks/crisis_city_concrete_pillar_top_cracked"
+  }
+}

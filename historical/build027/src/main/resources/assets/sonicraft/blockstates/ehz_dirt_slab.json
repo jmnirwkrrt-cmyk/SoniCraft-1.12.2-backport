@@ -1,0 +1,44 @@
+{
+  "variants": {
+    "half=bottom": [
+      {
+        "model": "sonicraft:ehz_dirt_slab_1"
+      },
+      {
+        "model": "sonicraft:ehz_dirt_slab_2"
+      },
+      {
+        "model": "sonicraft:ehz_dirt_slab_3"
+      },
+      {
+        "model": "sonicraft:ehz_dirt_slab_4"
+      },
+      {
+        "model": "sonicraft:ehz_dirt_slab_5"
+      },
+      {
+        "model": "sonicraft:ehz_dirt_slab_6"
+      }
+    ],
+    "half=top": [
+      {
+        "model": "sonicraft:ehz_dirt_slab_top_1"
+      },
+      {
+        "model": "sonicraft:ehz_dirt_slab_top_2"
+      },
+      {
+        "model": "sonicraft:ehz_dirt_slab_top_3"
+      },
+      {
+        "model": "sonicraft:ehz_dirt_slab_top_4"
+      },
+      {
+        "model": "sonicraft:ehz_dirt_slab_top_5"
+      },
+      {
+        "model": "sonicraft:ehz_dirt_slab_top_6"
+      }
+    ]
+  }
+}

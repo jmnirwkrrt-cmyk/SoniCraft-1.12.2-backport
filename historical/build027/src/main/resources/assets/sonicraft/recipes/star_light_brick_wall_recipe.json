@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:star_light_bricks"
+    }
+  },
+  "result": {
+    "item": "sonicraft:star_light_brick_wall",
+    "count": 6
+  }
+}

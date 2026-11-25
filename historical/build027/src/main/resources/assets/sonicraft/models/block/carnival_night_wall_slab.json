@@ -1,0 +1,9 @@
+{
+  "parent": "block/half_slab",
+  "textures": {
+    "particle": "sonicraft:blocks/carnival_night_road_top",
+    "bottom": "sonicraft:blocks/carnival_night_road_top",
+    "top": "sonicraft:blocks/carnival_night_road_top",
+    "side": "sonicraft:blocks/carnival_night_wall"
+  }
+}

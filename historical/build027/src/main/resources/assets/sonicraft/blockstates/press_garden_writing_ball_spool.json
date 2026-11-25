@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:press_garden_writing_ball_spool"
+    },
+    "facing=east": {
+      "model": "sonicraft:press_garden_writing_ball_spool",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:press_garden_writing_ball_spool",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:press_garden_writing_ball_spool",
+      "y": 270
+    }
+  }
+}

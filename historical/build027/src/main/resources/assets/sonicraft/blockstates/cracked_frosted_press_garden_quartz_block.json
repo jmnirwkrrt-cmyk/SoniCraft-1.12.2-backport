@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/cracked_frosted_press_garden_quartz_block"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/cracked_frosted_press_garden_quartz_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/cracked_frosted_press_garden_quartz_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/cracked_frosted_press_garden_quartz_block",
+      "y": 270
+    }
+  }
+}

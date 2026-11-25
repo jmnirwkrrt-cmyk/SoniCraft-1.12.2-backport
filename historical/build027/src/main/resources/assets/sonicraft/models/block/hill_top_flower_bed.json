@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/flowerbed_4",
+  "textures": {
+    "all": "sonicraft:blocks/hill_top_flowers",
+    "particle": "sonicraft:blocks/hill_top_flowers",
+    "flowerbed": "sonicraft:blocks/hill_top_flowers",
+    "stem": "sonicraft:blocks/emerald_hill_flowers_stem"
+  }
+}

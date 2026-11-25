@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/star_light_traffic_barrier",
+  "textures": {
+    "all": "sonicraft:blocks/star_light_traffic_barrier_particle",
+    "particle": "sonicraft:blocks/star_light_traffic_barrier_particle",
+    "0": "sonicraft:blocks/star_light_traffic_barrier"
+  }
+}

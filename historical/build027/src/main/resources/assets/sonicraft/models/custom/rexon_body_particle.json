@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/rexon_body.item",
+  "textures": {
+    "particle": "sonicraft:blocks/rexon"
+  }
+}

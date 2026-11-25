@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:studiopolis_spring_catapult"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:studiopolis_spring_catapult_charged_blockstate_0"
+    }
+  }
+}

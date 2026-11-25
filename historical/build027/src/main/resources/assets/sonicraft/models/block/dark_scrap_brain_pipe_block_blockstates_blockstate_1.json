@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/scrap_brain_iron_dark",
+    "up": "sonicraft:blocks/scrap_brain_iron_dark",
+    "north": "sonicraft:blocks/scrap_brain_iron_dark_pipe_3",
+    "east": "sonicraft:blocks/scrap_brain_iron_dark",
+    "south": "sonicraft:blocks/scrap_brain_iron_dark",
+    "west": "sonicraft:blocks/scrap_brain_iron_dark",
+    "particle": "sonicraft:blocks/scrap_brain_iron_dark"
+  }
+}

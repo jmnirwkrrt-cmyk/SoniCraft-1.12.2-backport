@@ -1,0 +1,11 @@
+{
+  "parent": "sonicraft:custom/night_carnival_large_pillar_edge_corner",
+  "textures": {
+    "all": "sonicraft:blocks/night_carnival_large_pillar_edge_side_6",
+    "particle": "sonicraft:blocks/night_carnival_large_pillar_edge_side_6",
+    "top": "sonicraft:blocks/night_carnival_large_pillar_edge_corner_top",
+    "side_dark": "sonicraft:blocks/night_carnival_large_pillar_edge_side_6",
+    "bottom": "sonicraft:blocks/night_carnival_large_pillar_edge_corner_bottom",
+    "side_light": "sonicraft:blocks/night_carnival_large_pillar_edge_side_1"
+  }
+}

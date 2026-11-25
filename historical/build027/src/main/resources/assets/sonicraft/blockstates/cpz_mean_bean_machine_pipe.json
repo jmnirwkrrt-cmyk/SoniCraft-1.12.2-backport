@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "sonicraft:block/cpz_mean_bean_machine_pipe",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "sonicraft:block/cpz_mean_bean_machine_pipe"
+    },
+    "axis=z": {
+      "model": "sonicraft:block/cpz_mean_bean_machine_pipe",
+      "x": 90
+    }
+  }
+}

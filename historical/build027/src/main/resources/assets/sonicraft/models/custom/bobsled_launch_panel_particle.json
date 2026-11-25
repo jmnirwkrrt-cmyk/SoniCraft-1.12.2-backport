@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/bobsled_dash_panel.item",
+  "textures": {
+    "particle": "sonicraft:blocks/spring_top"
+  }
+}

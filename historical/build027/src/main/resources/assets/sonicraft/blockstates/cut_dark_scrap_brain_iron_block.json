@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "sonicraft:cut_dark_scrap_brain_iron_block_1"
+      },
+      {
+        "model": "sonicraft:cut_dark_scrap_brain_iron_block_2"
+      },
+      {
+        "model": "sonicraft:cut_dark_scrap_brain_iron_block_3"
+      }
+    ]
+  }
+}

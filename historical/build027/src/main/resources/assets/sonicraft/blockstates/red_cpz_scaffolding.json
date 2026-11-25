@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/red_cpz_scaffolding"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/red_cpz_scaffolding",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/red_cpz_scaffolding",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/red_cpz_scaffolding",
+      "y": 270
+    }
+  }
+}

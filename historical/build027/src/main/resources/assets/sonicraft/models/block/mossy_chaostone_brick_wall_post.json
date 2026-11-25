@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_post",
+  "textures": {
+    "wall": "sonicraft:blocks/chaostone_bricks_mossy",
+    "particle": "sonicraft:blocks/chaostone_bricks_mossy"
+  }
+}

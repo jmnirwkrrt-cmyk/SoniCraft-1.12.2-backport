@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/capsule_bottom_edge"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/capsule_bottom_edge",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/capsule_bottom_edge",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/capsule_bottom_edge",
+      "y": 270
+    }
+  }
+}

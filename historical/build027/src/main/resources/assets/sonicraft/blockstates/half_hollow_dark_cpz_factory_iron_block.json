@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:half_hollow_dark_cpz_factory_iron_block"
+    },
+    "facing=east": {
+      "model": "sonicraft:half_hollow_dark_cpz_factory_iron_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:half_hollow_dark_cpz_factory_iron_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:half_hollow_dark_cpz_factory_iron_block",
+      "y": 270
+    }
+  }
+}

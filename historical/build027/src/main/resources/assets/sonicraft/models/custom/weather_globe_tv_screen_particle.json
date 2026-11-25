@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/weather_globe_tv_screen.item",
+  "textures": {
+    "particle": "sonicraft:blocks/weather_globe_tv_screen_standby"
+  }
+}

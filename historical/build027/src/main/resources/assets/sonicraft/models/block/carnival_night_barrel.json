@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/carnival_night_barrel_top",
+    "up": "sonicraft:blocks/carnival_night_barrel_top",
+    "north": "sonicraft:blocks/carnival_night_barrel",
+    "east": "sonicraft:blocks/carnival_night_barrel",
+    "south": "sonicraft:blocks/carnival_night_barrel",
+    "west": "sonicraft:blocks/carnival_night_barrel",
+    "particle": "sonicraft:blocks/carnival_night_barrel_top"
+  }
+}

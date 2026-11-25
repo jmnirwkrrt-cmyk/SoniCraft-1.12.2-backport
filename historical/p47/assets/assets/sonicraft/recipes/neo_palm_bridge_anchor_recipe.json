@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a ",
+    "bc"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:green_hill_palm_slab",
+      "data": 0
+    },
+    "b": {
+      "item": "sonicraft:green_hill_palm_log",
+      "data": 0
+    },
+    "c": {
+      "item": "minecraft:string",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:neo_palm_bridge_anchor",
+    "count": 4,
+    "data": 0
+  }
+}

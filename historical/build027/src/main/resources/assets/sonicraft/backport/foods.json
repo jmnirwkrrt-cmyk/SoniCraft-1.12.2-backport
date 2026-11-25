@@ -1,0 +1,142 @@
+[
+  {
+    "id": "blue_chao_fruit",
+    "hunger": 5,
+    "saturation": 0.3,
+    "stack": 64,
+    "source": "BlueChaoFruitItem.java"
+  },
+  {
+    "id": "bucket_of_popcorn",
+    "hunger": 4,
+    "saturation": 0.6,
+    "stack": 16,
+    "source": "BucketOfPopcornItem.java"
+  },
+  {
+    "id": "chili_dog",
+    "hunger": 6,
+    "saturation": 0.4,
+    "stack": 64,
+    "source": "ChiliDogItem.java"
+  },
+  {
+    "id": "chocolate_ice_cream",
+    "hunger": 2,
+    "saturation": 0.4,
+    "stack": 64,
+    "source": "ChocolateIceCreamItem.java"
+  },
+  {
+    "id": "grapes",
+    "hunger": 5,
+    "saturation": 0.3,
+    "stack": 64,
+    "source": "GrapesItem.java"
+  },
+  {
+    "id": "green_chao_fruit",
+    "hunger": 5,
+    "saturation": 0.3,
+    "stack": 64,
+    "source": "GreenChaoFruitItem.java"
+  },
+  {
+    "id": "ice_cream_cone",
+    "hunger": 1,
+    "saturation": 0.1,
+    "stack": 64,
+    "source": "IceCreamConeItem.java"
+  },
+  {
+    "id": "ice_cream_sundae",
+    "hunger": 3,
+    "saturation": 0.6,
+    "stack": 64,
+    "source": "IceCreamSundaeItem.java"
+  },
+  {
+    "id": "mint_candy",
+    "hunger": 1,
+    "saturation": 1.0,
+    "stack": 64,
+    "source": "MintCandyItem.java"
+  },
+  {
+    "id": "mint_ice_cream",
+    "hunger": 2,
+    "saturation": 0.4,
+    "stack": 64,
+    "source": "MintIceCreamItem.java"
+  },
+  {
+    "id": "neo_palm_fruit",
+    "hunger": 5,
+    "saturation": 0.3,
+    "stack": 64,
+    "source": "NeoPalmFruitItem.java"
+  },
+  {
+    "id": "orange_chao_fruit",
+    "hunger": 5,
+    "saturation": 0.3,
+    "stack": 64,
+    "source": "OrangeChaoFruitItem.java"
+  },
+  {
+    "id": "piece_of_popcorn",
+    "hunger": 1,
+    "saturation": 0.1,
+    "stack": 64,
+    "source": "PieceOfPopcornItem.java"
+  },
+  {
+    "id": "pink_chao_fruit",
+    "hunger": 5,
+    "saturation": 0.3,
+    "stack": 64,
+    "source": "PinkChaoFruitItem.java"
+  },
+  {
+    "id": "purple_chao_fruit",
+    "hunger": 5,
+    "saturation": 0.3,
+    "stack": 64,
+    "source": "PurpleChaoFruitItem.java"
+  },
+  {
+    "id": "red_chao_fruit",
+    "hunger": 5,
+    "saturation": 0.3,
+    "stack": 64,
+    "source": "RedChaoFruitItem.java"
+  },
+  {
+    "id": "soft_serve_ice_cream",
+    "hunger": 2,
+    "saturation": 0.2,
+    "stack": 64,
+    "source": "SoftServeIceCreamItem.java"
+  },
+  {
+    "id": "sonic_ice_cream",
+    "hunger": 2,
+    "saturation": 0.8,
+    "stack": 64,
+    "source": "SonicIceCreamItem.java"
+  },
+  {
+    "id": "strawberry_ice_cream",
+    "hunger": 2,
+    "saturation": 0.4,
+    "stack": 64,
+    "source": "StrawberryIceCreamItem.java"
+  },
+  {
+    "id": "yellow_chao_fruit",
+    "hunger": 5,
+    "saturation": 0.3,
+    "stack": 64,
+    "source": "YellowChaoFruitItem.java"
+  }
+]

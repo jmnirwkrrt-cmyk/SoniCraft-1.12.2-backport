@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:piece_of_popcorn",
+      "data": 0
+    },
+    "b": {
+      "item": "minecraft:bucket",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:bucket_of_popcorn",
+    "count": 1,
+    "data": 0
+  }
+}

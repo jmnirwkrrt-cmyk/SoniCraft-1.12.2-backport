@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sonicraft:blocks/hillpine_sapling",
+    "particle": "sonicraft:blocks/hillpine_sapling"
+  }
+}

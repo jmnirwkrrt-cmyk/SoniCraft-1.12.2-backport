@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:marble_zone_bricks",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:marble_zone_brick_stairs",
+    "count": 4,
+    "data": 0
+  }
+}

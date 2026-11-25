@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/woodrow_bomb_block.item",
+  "textures": {
+    "particle": "sonicraft:blocks/woodrow_bomb_particle"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/launch_base_bricks",
+    "up": "sonicraft:blocks/launch_base_road_top",
+    "north": "sonicraft:blocks/launch_base_road",
+    "east": "sonicraft:blocks/launch_base_road",
+    "south": "sonicraft:blocks/launch_base_road",
+    "west": "sonicraft:blocks/launch_base_road",
+    "particle": "sonicraft:blocks/launch_base_bricks"
+  }
+}

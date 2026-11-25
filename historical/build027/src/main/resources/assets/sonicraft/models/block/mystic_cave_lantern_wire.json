@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/mystic_cave_lantern_wire",
+  "textures": {
+    "all": "sonicraft:blocks/mystic_cave_lantern_wire",
+    "particle": "sonicraft:blocks/mystic_cave_lantern_wire",
+    "wire": "sonicraft:blocks/mystic_cave_lantern_wire"
+  }
+}

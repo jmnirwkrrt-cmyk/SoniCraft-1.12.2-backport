@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/bouncy_checkpoint_top.item",
+  "textures": {
+    "particle": "sonicraft:blocks/studiopolis_bouncy_checkpoint_particle"
+  }
+}

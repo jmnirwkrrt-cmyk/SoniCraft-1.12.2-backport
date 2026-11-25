@@ -1,0 +1,56 @@
+{
+  "variants": {
+    "facing=north,blockstate=0": {
+      "model": "sonicraft:block/mirage_saloon_barrel",
+      "x": 90
+    },
+    "facing=east,blockstate=0": {
+      "model": "sonicraft:block/mirage_saloon_barrel",
+      "x": 90,
+      "y": 90
+    },
+    "facing=south,blockstate=0": {
+      "model": "sonicraft:block/mirage_saloon_barrel",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west,blockstate=0": {
+      "model": "sonicraft:block/mirage_saloon_barrel",
+      "x": 90,
+      "y": 270
+    },
+    "facing=up,blockstate=0": {
+      "model": "sonicraft:block/mirage_saloon_barrel"
+    },
+    "facing=down,blockstate=0": {
+      "model": "sonicraft:block/mirage_saloon_barrel",
+      "x": 180
+    },
+    "facing=north,blockstate=1": {
+      "model": "sonicraft:block/mirage_saloon_barrel_open_blockstate_0",
+      "x": 90
+    },
+    "facing=east,blockstate=1": {
+      "model": "sonicraft:block/mirage_saloon_barrel_open_blockstate_0",
+      "x": 90,
+      "y": 90
+    },
+    "facing=south,blockstate=1": {
+      "model": "sonicraft:block/mirage_saloon_barrel_open_blockstate_0",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west,blockstate=1": {
+      "model": "sonicraft:block/mirage_saloon_barrel_open_blockstate_0",
+      "x": 90,
+      "y": 270
+    },
+    "facing=up,blockstate=1": {
+      "model": "sonicraft:block/mirage_saloon_barrel_open_blockstate_0"
+    },
+    "facing=down,blockstate=1": {
+      "model": "sonicraft:block/mirage_saloon_barrel_open_blockstate_0",
+      "x": 180
+    }
+  }
+}

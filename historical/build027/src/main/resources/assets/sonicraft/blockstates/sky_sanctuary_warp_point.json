@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/sky_sanctuary_warp_point"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/sky_sanctuary_warp_point",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/sky_sanctuary_warp_point",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/sky_sanctuary_warp_point",
+      "y": 270
+    }
+  }
+}

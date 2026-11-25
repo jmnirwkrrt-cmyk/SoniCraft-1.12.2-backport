@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/neo_palm_log_top",
+    "up": "sonicraft:blocks/neo_palm_log_top",
+    "north": "sonicraft:blocks/neo_palm_log_side",
+    "east": "sonicraft:blocks/neo_palm_log_side",
+    "south": "sonicraft:blocks/neo_palm_log_side",
+    "west": "sonicraft:blocks/neo_palm_log_side",
+    "particle": "sonicraft:blocks/neo_palm_log_top"
+  }
+}

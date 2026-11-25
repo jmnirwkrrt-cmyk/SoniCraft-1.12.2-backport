@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/chemical_plant_mega_mack_directional_controller_side_3",
+    "up": "sonicraft:blocks/chemical_plant_mega_mack_directional_controller_side_1",
+    "north": "sonicraft:blocks/chemical_plant_mega_mack_directional_controller_top_off",
+    "east": "sonicraft:blocks/chemical_plant_mega_mack_directional_controller_side_2",
+    "south": "sonicraft:blocks/chemical_plant_mega_mack_directional_controller_top_off",
+    "west": "sonicraft:blocks/chemical_plant_mega_mack_directional_controller_side_4",
+    "particle": "sonicraft:blocks/chemical_plant_mega_mack_directional_controller_side_3"
+  }
+}

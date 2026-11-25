@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/frosted_press_garden_brick_corner"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/frosted_press_garden_brick_corner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/frosted_press_garden_brick_corner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/frosted_press_garden_brick_corner",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "particle": "sonicraft:blocks/studiopolis_smooth_top_interior",
+    "texture": "sonicraft:blocks/studiopolis_smooth_top_interior"
+  }
+}

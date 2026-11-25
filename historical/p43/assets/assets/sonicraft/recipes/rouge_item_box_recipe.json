@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sonicraft:item_box"
+    },
+    {
+      "item": "sonicraft:red_star_ring"
+    },
+    [
+      {
+        "item": "minecraft:diamond"
+      },
+      {
+        "item": "minecraft:emerald"
+      }
+    ]
+  ],
+  "result": {
+    "item": "sonicraft:item_box_rouge",
+    "count": 1
+  }
+}

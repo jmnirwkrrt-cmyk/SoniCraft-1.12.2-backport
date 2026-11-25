@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sonicraft:blocks/mirage_saloon_prickly_pear_cactus",
+    "particle": "sonicraft:blocks/mirage_saloon_prickly_pear_cactus"
+  }
+}

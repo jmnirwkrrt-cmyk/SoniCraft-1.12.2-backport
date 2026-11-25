@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/studiopolis_microphone",
+  "textures": {
+    "all": "sonicraft:blocks/studiopolis_microphone",
+    "particle": "sonicraft:blocks/studiopolis_microphone",
+    "microphone": "sonicraft:blocks/studiopolis_microphone"
+  }
+}

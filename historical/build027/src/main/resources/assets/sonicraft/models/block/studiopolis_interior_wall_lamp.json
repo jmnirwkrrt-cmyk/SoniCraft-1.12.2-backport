@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/studiopolis_interior_wall_lamp",
+    "particle": "sonicraft:blocks/studiopolis_interior_wall_lamp"
+  }
+}

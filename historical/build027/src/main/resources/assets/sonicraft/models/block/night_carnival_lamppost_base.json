@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/night_carnival_lamppost_base",
+  "textures": {
+    "all": "sonicraft:blocks/night_carnival_lamppost_base",
+    "particle": "sonicraft:blocks/night_carnival_lamppost_base",
+    "0": "sonicraft:blocks/night_carnival_lamppost_base"
+  }
+}

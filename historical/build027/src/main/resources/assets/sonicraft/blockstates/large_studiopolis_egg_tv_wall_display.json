@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:custom/large_studiopolis_egg_tv_wall_display_particle"
+    },
+    "facing=east": {
+      "model": "sonicraft:custom/large_studiopolis_egg_tv_wall_display_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:custom/large_studiopolis_egg_tv_wall_display_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:custom/large_studiopolis_egg_tv_wall_display_particle",
+      "y": 270
+    }
+  }
+}

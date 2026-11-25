@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/black_market_shelf",
+  "textures": {
+    "all": "sonicraft:blocks/black_market_shelf_icon",
+    "particle": "sonicraft:blocks/black_market_shelf_particle",
+    "1": "sonicraft:blocks/black_market_shelf"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "sonicraft:ehz_dirt_slab_full_1"
+      },
+      {
+        "model": "sonicraft:ehz_dirt_slab_full_2"
+      },
+      {
+        "model": "sonicraft:ehz_dirt_slab_full_3"
+      },
+      {
+        "model": "sonicraft:ehz_dirt_slab_full_4"
+      },
+      {
+        "model": "sonicraft:ehz_dirt_slab_full_5"
+      },
+      {
+        "model": "sonicraft:ehz_dirt_slab_full_6"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/launch_base_pillar_top",
+    "up": "sonicraft:blocks/launch_base_pillar_top",
+    "north": "sonicraft:blocks/launch_base_pillar",
+    "east": "sonicraft:blocks/launch_base_pillar",
+    "south": "sonicraft:blocks/launch_base_pillar",
+    "west": "sonicraft:blocks/launch_base_pillar",
+    "particle": "sonicraft:blocks/launch_base_pillar_top"
+  }
+}

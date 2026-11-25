@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/ice_spring"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/ice_spring",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/ice_spring",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/ice_spring",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "sonicraft:block/ice_spring",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "sonicraft:block/ice_spring",
+      "x": 90
+    }
+  }
+}

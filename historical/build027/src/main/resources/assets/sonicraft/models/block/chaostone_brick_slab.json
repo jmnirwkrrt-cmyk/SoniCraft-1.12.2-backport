@@ -1,0 +1,9 @@
+{
+  "parent": "block/half_slab",
+  "textures": {
+    "particle": "sonicraft:blocks/chaostone_bricks",
+    "bottom": "sonicraft:blocks/chaostone_bricks",
+    "top": "sonicraft:blocks/chaostone_bricks",
+    "side": "sonicraft:blocks/chaostone_bricks"
+  }
+}

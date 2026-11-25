@@ -1,0 +1,11 @@
+{
+  "parent": "sonicraft:custom/chilly_blossom_post_corner",
+  "textures": {
+    "all": "sonicraft:blocks/chilly_blossom_post_corner_side_1",
+    "particle": "sonicraft:blocks/chilly_blossom_post",
+    "post_top": "sonicraft:blocks/chilly_blossom_post_inverted",
+    "post_side": "sonicraft:blocks/chilly_blossom_post",
+    "side_2": "sonicraft:blocks/chilly_blossom_post_corner_side_2",
+    "side_1": "sonicraft:blocks/chilly_blossom_post_corner_side_1"
+  }
+}

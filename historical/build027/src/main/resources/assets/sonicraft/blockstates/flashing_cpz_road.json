@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/flashing_cpz_road"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/flashing_cpz_road",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/flashing_cpz_road",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/flashing_cpz_road",
+      "y": 270
+    }
+  }
+}

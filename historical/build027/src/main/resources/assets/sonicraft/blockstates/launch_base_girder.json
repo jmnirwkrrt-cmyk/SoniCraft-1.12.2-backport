@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sonicraft:block/launch_base_girder"
+    }
+  }
+}

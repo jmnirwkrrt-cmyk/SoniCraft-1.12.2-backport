@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/chillyblossom_log_top",
+    "up": "sonicraft:blocks/chillyblossom_log_top",
+    "north": "sonicraft:blocks/chillyblossom_log_side",
+    "east": "sonicraft:blocks/chillyblossom_log_side",
+    "south": "sonicraft:blocks/chillyblossom_log_side",
+    "west": "sonicraft:blocks/chillyblossom_log_side",
+    "particle": "sonicraft:blocks/chillyblossom_log_top"
+  }
+}

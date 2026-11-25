@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sonicraft:blocks/night_carnival_switch_grind_rail_off_side"
+  }
+}

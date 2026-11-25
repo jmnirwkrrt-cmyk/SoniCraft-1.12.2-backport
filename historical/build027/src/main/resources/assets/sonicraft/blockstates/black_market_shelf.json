@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/black_market_shelf"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/black_market_shelf",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/black_market_shelf",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/black_market_shelf",
+      "y": 270
+    }
+  }
+}

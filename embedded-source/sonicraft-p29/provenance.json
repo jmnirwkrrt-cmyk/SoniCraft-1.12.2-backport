@@ -1,0 +1,12 @@
+{
+  "base": "sonicraft-legacy-1.12.2-0.1.27-p28-audio.jar",
+  "base_sha256": "303208b273f8c2b31f1efb6198d174baea9dfad8f1779962afbba3c863535573",
+  "patched_classes": [
+    "MarbleCaveBlocks$Spring",
+    "ZoneMachines$Dash"
+  ],
+  "spring_reset_ticks": 10,
+  "spring_meta": "direction in low 3 bits; active in bit 3",
+  "ice_spring": "first active frame only; melting not ported",
+  "minecraft_client_tested": false
+}

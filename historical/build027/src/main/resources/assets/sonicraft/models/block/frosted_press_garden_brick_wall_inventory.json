@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "sonicraft:blocks/press_garden_bricks_frosted",
+    "particle": "sonicraft:blocks/press_garden_bricks_frosted"
+  }
+}

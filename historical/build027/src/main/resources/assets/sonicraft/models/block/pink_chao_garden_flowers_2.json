@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/flowerbed_2",
+  "textures": {
+    "all": "sonicraft:blocks/chao_garden_flowers_pink_2",
+    "particle": "sonicraft:blocks/chao_garden_flowers_pink",
+    "flowerbed": "sonicraft:blocks/chao_garden_flowers_pink",
+    "stem": "sonicraft:blocks/chao_garden_flowers_stem"
+  }
+}

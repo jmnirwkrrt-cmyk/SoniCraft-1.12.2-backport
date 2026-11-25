@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_post",
+  "textures": {
+    "wall": "sonicraft:blocks/southite_polished_dark",
+    "particle": "sonicraft:blocks/southite_polished_dark"
+  }
+}

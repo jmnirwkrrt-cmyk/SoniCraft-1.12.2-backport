@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "sonicraft:blocks/spring_yard_lamp",
+    "bottom": "sonicraft:blocks/spring_yard_lamp",
+    "top": "sonicraft:blocks/spring_yard_lamp",
+    "side": "sonicraft:blocks/spring_yard_lamp_slab"
+  }
+}

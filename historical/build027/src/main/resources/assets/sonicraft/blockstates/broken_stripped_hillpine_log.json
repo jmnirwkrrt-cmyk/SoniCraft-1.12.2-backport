@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/broken_stripped_hillpine_log",
+      "x": 90
+    },
+    "facing=east": {
+      "model": "sonicraft:block/broken_stripped_hillpine_log",
+      "x": 90,
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/broken_stripped_hillpine_log",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/broken_stripped_hillpine_log",
+      "x": 90,
+      "y": 270
+    },
+    "facing=up": {
+      "model": "sonicraft:block/broken_stripped_hillpine_log"
+    },
+    "facing=down": {
+      "model": "sonicraft:block/broken_stripped_hillpine_log",
+      "x": 180
+    }
+  }
+}

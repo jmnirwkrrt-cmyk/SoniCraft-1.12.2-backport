@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:press_garden_brick_floor"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:press_garden_brick_floor_blockstates_blockstate_0"
+    }
+  }
+}

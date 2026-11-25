@@ -1,0 +1,11 @@
+{
+  "parent": "sonicraft:custom/capsule_lower_corner",
+  "textures": {
+    "all": "sonicraft:blocks/capsule_lower_corner_side",
+    "particle": "sonicraft:blocks/capsule_lower_corner_side",
+    "lower_corner_bottom": "sonicraft:blocks/capsule_lower_corner_bottom",
+    "top": "sonicraft:blocks/capsule_wall_top",
+    "support_pedestal": "sonicraft:blocks/capsule_support_pedestal",
+    "lower_corner_side": "sonicraft:blocks/capsule_lower_corner_side"
+  }
+}

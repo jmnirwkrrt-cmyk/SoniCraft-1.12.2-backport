@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:death_egg_magnet_button"
+    },
+    "facing=east": {
+      "model": "sonicraft:death_egg_magnet_button",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:death_egg_magnet_button",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:death_egg_magnet_button",
+      "y": 270
+    }
+  }
+}

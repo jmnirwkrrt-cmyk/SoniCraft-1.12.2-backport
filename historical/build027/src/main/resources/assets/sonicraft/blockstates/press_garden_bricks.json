@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "sonicraft:press_garden_bricks_1"
+      },
+      {
+        "model": "sonicraft:press_garden_bricks_2"
+      },
+      {
+        "model": "sonicraft:press_garden_bricks_3"
+      },
+      {
+        "model": "sonicraft:press_garden_bricks_4"
+      },
+      {
+        "model": "sonicraft:press_garden_bricks_5"
+      }
+    ]
+  }
+}

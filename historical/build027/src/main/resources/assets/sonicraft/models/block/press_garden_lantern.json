@@ -1,0 +1,12 @@
+{
+  "parent": "sonicraft:custom/press_garden_lantern",
+  "textures": {
+    "all": "sonicraft:blocks/press_garden_lantern",
+    "particle": "sonicraft:blocks/press_garden_lantern",
+    "wire_we": "sonicraft:blocks/nothing",
+    "top": "sonicraft:blocks/press_garden_lantern_top",
+    "bottom": "sonicraft:blocks/press_garden_lantern_bottom",
+    "wire_ns": "sonicraft:blocks/nothing",
+    "lantern": "sonicraft:blocks/press_garden_lantern"
+  }
+}

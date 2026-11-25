@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "b b",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick",
+      "data": 0
+    },
+    "b": {
+      "item": "sonicraft:hillpine_slab",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:hillpine_crate",
+    "count": 1,
+    "data": 0
+  }
+}

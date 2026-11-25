@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/chaostone_bricks_mossy",
+    "bottom": "sonicraft:blocks/chaostone_bricks_mossy",
+    "top": "sonicraft:blocks/chaostone_bricks_mossy",
+    "side": "sonicraft:blocks/chaostone_bricks_mossy"
+  }
+}

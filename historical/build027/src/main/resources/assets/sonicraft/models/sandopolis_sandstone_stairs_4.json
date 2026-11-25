@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/sandopolis_sandstone_4",
+    "bottom": "sonicraft:blocks/sandopolis_sandstone_4",
+    "top": "sonicraft:blocks/sandopolis_sandstone_4",
+    "side": "sonicraft:blocks/sandopolis_sandstone_4"
+  }
+}

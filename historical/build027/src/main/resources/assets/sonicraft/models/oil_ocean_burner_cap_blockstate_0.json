@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:custom/oil_ocean_burner_cap_particle",
+  "textures": {
+    "particle": "sonicraft:blocks/oil_ocean_iron_block_green"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/chemical_plant_pipe",
+  "textures": {
+    "all": "sonicraft:blocks/chemical_plant_pipe",
+    "particle": "sonicraft:blocks/chemical_plant_pipe",
+    "side": "sonicraft:blocks/chemical_plant_pipe",
+    "top": "sonicraft:blocks/chemical_plant_pipe_top"
+  }
+}

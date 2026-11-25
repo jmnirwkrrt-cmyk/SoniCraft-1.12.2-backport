@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:ehz_dirt_slab",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:ehz_dirt_pillar",
+    "count": 1,
+    "data": 0
+  }
+}

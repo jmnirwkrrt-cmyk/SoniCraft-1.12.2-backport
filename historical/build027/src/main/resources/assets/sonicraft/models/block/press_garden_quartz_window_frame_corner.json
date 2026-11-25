@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/press_garden_quartz_window_frame_side_7",
+    "up": "sonicraft:blocks/press_garden_bricks_frosted",
+    "north": "sonicraft:blocks/press_garden_quartz_window_frame_corner_front",
+    "east": "sonicraft:blocks/press_garden_quartz_window_frame_corner_side_1",
+    "south": "sonicraft:blocks/press_garden_quartz_window_frame_corner_front",
+    "west": "sonicraft:blocks/press_garden_quartz_window_frame_corner_side_2",
+    "particle": "sonicraft:blocks/press_garden_quartz_window_frame_side_7"
+  }
+}

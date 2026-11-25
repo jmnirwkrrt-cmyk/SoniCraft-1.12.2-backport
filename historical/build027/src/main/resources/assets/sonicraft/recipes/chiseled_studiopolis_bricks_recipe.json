@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:studiopolis_brick_slab"
+    }
+  },
+  "result": {
+    "item": "sonicraft:chiseled_studiopolis_bricks",
+    "count": 1
+  }
+}

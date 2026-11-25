@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:press_garden_wood_chipper_saws"
+    },
+    "facing=east": {
+      "model": "sonicraft:press_garden_wood_chipper_saws",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:press_garden_wood_chipper_saws",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:press_garden_wood_chipper_saws",
+      "y": 270
+    }
+  }
+}

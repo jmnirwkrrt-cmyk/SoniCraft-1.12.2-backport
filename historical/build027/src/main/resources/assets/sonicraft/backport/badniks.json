@@ -1,0 +1,676 @@
+[
+  {
+    "id": "motobug",
+    "javaClass": "Motobug",
+    "geo": "motobug",
+    "width": 0.9,
+    "height": 0.9,
+    "speed": 0.25,
+    "step": 1.1,
+    "health": 8,
+    "damage": 5,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": [
+      {
+        "biomes": "sonicraft:green_hill_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "rhinobot",
+    "javaClass": "Rhinobot",
+    "geo": null,
+    "width": 0.9,
+    "height": 0.9,
+    "speed": 0.25,
+    "step": 0.6,
+    "health": 8,
+    "damage": 5,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": [
+      {
+        "biomes": "sonicraft:test_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "burrobot",
+    "javaClass": "Burrobot",
+    "geo": "burrobot",
+    "width": 0.6,
+    "height": 1.1,
+    "speed": 0.15,
+    "step": 0.6,
+    "health": 8,
+    "damage": 5,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": []
+  },
+  {
+    "id": "crabmeat",
+    "javaClass": "Crabmeat",
+    "geo": "crabmeat",
+    "width": 0.9,
+    "height": 0.9,
+    "speed": 0.2,
+    "step": 0.6,
+    "health": 8,
+    "damage": 3,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": [
+      {
+        "biomes": "sonicraft:green_hill_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "caterkiller",
+    "javaClass": "Caterkiller",
+    "geo": "caterkiller",
+    "width": 0.9,
+    "height": 0.9,
+    "speed": 0.2,
+    "step": 0.6,
+    "health": 8,
+    "damage": 3,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": [
+      {
+        "biomes": "sonicraft:marble_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "biomes": "sonicraft:scrap_brain_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "spiny",
+    "javaClass": "Spiny",
+    "geo": "spiny",
+    "width": 0.8,
+    "height": 0.9,
+    "speed": 0.1,
+    "step": 0.6,
+    "health": 8,
+    "damage": 3,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": [
+      {
+        "biomes": "sonicraft:chemical_plant_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "splats",
+    "javaClass": "Splats",
+    "geo": "splats",
+    "width": 0.8,
+    "height": 0.9,
+    "speed": 0.2,
+    "step": 0.6,
+    "health": 8,
+    "damage": 3,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": [
+      {
+        "biomes": "sonicraft:test_zone",
+        "weight": 1,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "ball_hog",
+    "javaClass": "BallHog",
+    "geo": "ball_hog",
+    "width": 0.9,
+    "height": 0.9,
+    "speed": 0.1,
+    "step": 0.6,
+    "health": 8,
+    "damage": 5,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": [
+      {
+        "biomes": "sonicraft:scrap_brain_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "roller",
+    "javaClass": "Roller",
+    "geo": "roller",
+    "width": 0.9,
+    "height": 0.9,
+    "speed": 0.4,
+    "step": 0.6,
+    "health": 8,
+    "damage": 5,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": [
+      {
+        "biomes": "sonicraft:spring_yard",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "buzz_bomber",
+    "javaClass": "BuzzBomber",
+    "geo": "buzz_bomber",
+    "width": 0.9,
+    "height": 0.9,
+    "speed": 0.4,
+    "step": 0.6,
+    "health": 8,
+    "damage": 3,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": [
+      {
+        "biomes": "sonicraft:green_hill_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "biomes": "sonicraft:marble_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "biomes": "sonicraft:spring_yard",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "batbrain",
+    "javaClass": "Batbrain",
+    "geo": "batbrain",
+    "width": 0.8,
+    "height": 0.9,
+    "speed": 0.3,
+    "step": 0.6,
+    "health": 8,
+    "damage": 3,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": []
+  },
+  {
+    "id": "jaws_badnik",
+    "javaClass": "JawsBadnik",
+    "geo": "jaws_badnik",
+    "width": 0.9,
+    "height": 0.9,
+    "speed": 0.2,
+    "step": 0.6,
+    "health": 8,
+    "damage": 3,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": []
+  },
+  {
+    "id": "woodrow",
+    "javaClass": "Woodrow",
+    "geo": "woodrow",
+    "width": 0.9,
+    "height": 0.9,
+    "speed": 0.2,
+    "step": 0.6,
+    "health": 8,
+    "damage": 3,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": []
+  },
+  {
+    "id": "grabber",
+    "javaClass": "Grabber",
+    "geo": "grabber",
+    "width": 0.9,
+    "height": 0.9,
+    "speed": 0.2,
+    "step": 0.6,
+    "health": 8,
+    "damage": 3,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": []
+  },
+  {
+    "id": "grounder",
+    "javaClass": "Grounder",
+    "geo": "grounder",
+    "width": 0.9,
+    "height": 0.9,
+    "speed": 0.2,
+    "step": 0.6,
+    "health": 8,
+    "damage": 3,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": [
+      {
+        "biomes": "sonicraft:aquatic_ruin_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "coconuts",
+    "javaClass": "Coconuts",
+    "geo": "coconuts",
+    "width": 0.9,
+    "height": 0.9,
+    "speed": 0.2,
+    "step": 0.6,
+    "health": 8,
+    "damage": 3,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": [
+      {
+        "biomes": "sonicraft:emerald_hill_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "bumpalo",
+    "javaClass": "Bumpalo",
+    "geo": "bumpalo",
+    "width": 0.9,
+    "height": 0.9,
+    "speed": 0.2,
+    "step": 0.6,
+    "health": 8,
+    "damage": 3,
+    "armor": 0,
+    "follow": 16,
+    "knockback": 1.5,
+    "spawns": [
+      {
+        "biomes": "sonicraft:mirage_saloon_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "aquis",
+    "javaClass": "Aquis",
+    "geo": "aquis",
+    "width": 0.95,
+    "height": 0.9,
+    "speed": 0.22,
+    "step": 0.6,
+    "health": 10,
+    "damage": 3,
+    "armor": 0,
+    "follow": 18,
+    "knockback": 0,
+    "spawns": [
+      {
+        "biomes": "sonicraft:oil_ocean_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "buzzer",
+    "javaClass": "Buzzer",
+    "geo": "buzzer",
+    "width": 0.95,
+    "height": 0.9,
+    "speed": 0.22,
+    "step": 0.6,
+    "health": 10,
+    "damage": 3,
+    "armor": 0,
+    "follow": 18,
+    "knockback": 0,
+    "spawns": [
+      {
+        "biomes": "sonicraft:emerald_hill_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "bomb_badnik",
+    "javaClass": "BombBadnik",
+    "geo": "bomb_badnik",
+    "width": 0.8,
+    "height": 0.9,
+    "speed": 0.22,
+    "step": 0.6,
+    "health": 10,
+    "damage": 3,
+    "armor": 0,
+    "follow": 18,
+    "knockback": 0,
+    "spawns": []
+  },
+  {
+    "id": "crawl_badnik",
+    "javaClass": "CrawlBadnik",
+    "geo": "crawl_badnik",
+    "width": 0.8,
+    "height": 0.9,
+    "speed": 0.22,
+    "step": 0.6,
+    "health": 10,
+    "damage": 3,
+    "armor": 0,
+    "follow": 18,
+    "knockback": 0,
+    "spawns": [
+      {
+        "biomes": "sonicraft:casino_night_zone",
+        "weight": 10,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "egg_flapper",
+    "javaClass": "EggFlapper",
+    "geo": "egg_flapper",
+    "width": 0.95,
+    "height": 0.9,
+    "speed": 0.22,
+    "step": 0.6,
+    "health": 10,
+    "damage": 3,
+    "armor": 0,
+    "follow": 18,
+    "knockback": 0,
+    "spawns": []
+  },
+  {
+    "id": "flasher",
+    "javaClass": "Flasher",
+    "geo": "flasher",
+    "width": 0.8,
+    "height": 0.9,
+    "speed": 0.22,
+    "step": 0.6,
+    "health": 10,
+    "damage": 3,
+    "armor": 0,
+    "follow": 18,
+    "knockback": 0,
+    "spawns": [
+      {
+        "biomes": "sonicraft:hill_top_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "octus",
+    "javaClass": "Octus",
+    "geo": "octus",
+    "width": 0.95,
+    "height": 0.9,
+    "speed": 0.22,
+    "step": 0.6,
+    "health": 10,
+    "damage": 3,
+    "armor": 0,
+    "follow": 18,
+    "knockback": 0,
+    "spawns": [
+      {
+        "biomes": "sonicraft:oil_ocean_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "spikes_badnik",
+    "javaClass": "SpikesBadnik",
+    "geo": "spikes_badnik",
+    "width": 0.8,
+    "height": 0.9,
+    "speed": 0.22,
+    "step": 0.6,
+    "health": 10,
+    "damage": 3,
+    "armor": 0,
+    "follow": 18,
+    "knockback": 0,
+    "spawns": []
+  },
+  {
+    "id": "rattlekiller",
+    "javaClass": "Rattlekiller",
+    "geo": "rattlekiller",
+    "width": 0.8,
+    "height": 0.9,
+    "speed": 0.22,
+    "step": 0.6,
+    "health": 10,
+    "damage": 3,
+    "armor": 0,
+    "follow": 18,
+    "knockback": 0,
+    "spawns": [
+      {
+        "biomes": "sonicraft:mirage_saloon_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "rexon",
+    "javaClass": "Rexon",
+    "geo": "rexon",
+    "width": 0.8,
+    "height": 0.9,
+    "speed": 0.22,
+    "step": 0.6,
+    "health": 10,
+    "damage": 3,
+    "armor": 0,
+    "follow": 18,
+    "knockback": 0,
+    "spawns": []
+  },
+  {
+    "id": "shutterbug",
+    "javaClass": "Shutterbug",
+    "geo": "shutterbug",
+    "width": 0.95,
+    "height": 0.9,
+    "speed": 0.22,
+    "step": 0.6,
+    "health": 10,
+    "damage": 3,
+    "armor": 0,
+    "follow": 18,
+    "knockback": 0,
+    "spawns": [
+      {
+        "biomes": "sonicraft:studiopolis_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "iwamodoki",
+    "javaClass": "Iwamodoki",
+    "geo": "iwamodoki",
+    "width": 0.8,
+    "height": 0.9,
+    "speed": 0.22,
+    "step": 0.6,
+    "health": 10,
+    "damage": 3,
+    "armor": 0,
+    "follow": 18,
+    "knockback": 0,
+    "spawns": [
+      {
+        "biomes": "sonicraft:test_zone",
+        "weight": 1,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "newtron",
+    "javaClass": "Newtron",
+    "geo": "newtron",
+    "width": 0.8,
+    "height": 1.15,
+    "speed": 0.2,
+    "step": 0.6,
+    "health": 10,
+    "damage": 3,
+    "armor": 0,
+    "follow": 20,
+    "knockback": 0,
+    "spawns": []
+  },
+  {
+    "id": "tubinaut",
+    "javaClass": "Tubinaut",
+    "geo": "tubinaut",
+    "width": 0.95,
+    "height": 0.95,
+    "speed": 0.17,
+    "step": 0.6,
+    "health": 12,
+    "damage": 4,
+    "armor": 0,
+    "follow": 20,
+    "knockback": 0,
+    "spawns": [
+      {
+        "biomes": "sonicraft:studiopolis_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "gohla",
+    "javaClass": "Gohla",
+    "geo": "gohla",
+    "width": 0.85,
+    "height": 0.95,
+    "speed": 0.16,
+    "step": 0.6,
+    "health": 12,
+    "damage": 4,
+    "armor": 0,
+    "follow": 20,
+    "knockback": 0,
+    "spawns": [
+      {
+        "biomes": "sonicraft:hill_top_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  },
+  {
+    "id": "egg_pawn_bunny",
+    "javaClass": "EggPawnBunny",
+    "geo": "egg_pawn_bunny",
+    "width": 0.8,
+    "height": 1.25,
+    "speed": 0.19,
+    "step": 0.6,
+    "health": 12,
+    "damage": 3,
+    "armor": 0,
+    "follow": 20,
+    "knockback": 0,
+    "spawns": [
+      {
+        "biomes": "sonicraft:night_carnival_zone",
+        "weight": 8,
+        "min": 1,
+        "max": 1
+      }
+    ]
+  }
+]

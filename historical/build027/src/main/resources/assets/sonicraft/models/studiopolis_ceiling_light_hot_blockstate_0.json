@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/studiopolis_ceiling_light",
+  "textures": {
+    "all": "sonicraft:blocks/studiopolis_ceiling_light_hot",
+    "particle": "sonicraft:blocks/studiopolis_ceiling_light_particle",
+    "beam_side": "sonicraft:blocks/studiopolis_ceiling_light_beam_side",
+    "light": "sonicraft:blocks/studiopolis_ceiling_light_hot"
+  }
+}

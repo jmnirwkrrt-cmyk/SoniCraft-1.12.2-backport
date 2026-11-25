@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/black_market_floor",
+    "particle": "sonicraft:blocks/black_market_floor"
+  }
+}

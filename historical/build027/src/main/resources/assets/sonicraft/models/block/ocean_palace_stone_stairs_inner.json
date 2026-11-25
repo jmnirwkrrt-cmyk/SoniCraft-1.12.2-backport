@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/ocean_palace_stone",
+    "bottom": "sonicraft:blocks/ocean_palace_stone",
+    "top": "sonicraft:blocks/ocean_palace_stone",
+    "side": "sonicraft:blocks/ocean_palace_stone"
+  }
+}

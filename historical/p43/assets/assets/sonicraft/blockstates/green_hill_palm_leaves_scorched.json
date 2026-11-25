@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "check_decay=false,decayable=false": {
+      "model": "sonicraft:green_hill_palm_leaves_scorched"
+    },
+    "check_decay=false,decayable=true": {
+      "model": "sonicraft:green_hill_palm_leaves_scorched"
+    },
+    "check_decay=true,decayable=false": {
+      "model": "sonicraft:green_hill_palm_leaves_scorched"
+    },
+    "check_decay=true,decayable=true": {
+      "model": "sonicraft:green_hill_palm_leaves_scorched"
+    }
+  }
+}

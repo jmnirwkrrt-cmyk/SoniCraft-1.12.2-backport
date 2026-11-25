@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/star_light_brick",
+    "bottom": "sonicraft:blocks/star_light_brick",
+    "top": "sonicraft:blocks/star_light_brick",
+    "side": "sonicraft:blocks/star_light_brick"
+  }
+}

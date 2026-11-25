@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sonicraft:blocks/labyrinth_vine",
+    "particle": "sonicraft:blocks/labyrinth_vine"
+  }
+}

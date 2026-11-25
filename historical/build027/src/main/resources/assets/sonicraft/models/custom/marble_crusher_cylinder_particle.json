@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/marble_crusher_cylinder.item",
+  "textures": {
+    "particle": "sonicraft:blocks/nothing"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar",
+      "data": 0
+    },
+    {
+      "item": "sonicraft:mint_plant",
+      "data": 0
+    },
+    {
+      "item": "minecraft:paper",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "sonicraft:mint_candy",
+    "count": 2,
+    "data": 0
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/sky_sanctuary_bricks_5",
+    "particle": "sonicraft:blocks/sky_sanctuary_bricks_5"
+  }
+}

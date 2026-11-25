@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_noside",
+  "textures": {
+    "particle": "sonicraft:blocks/night_carnival_switch_grind_rail_off_side",
+    "pane": "sonicraft:blocks/night_carnival_switch_grind_rail_off_side"
+  }
+}

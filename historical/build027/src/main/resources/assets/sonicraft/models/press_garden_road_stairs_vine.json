@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/press_garden_road_top",
+    "bottom": "sonicraft:blocks/press_garden_road_top",
+    "top": "sonicraft:blocks/press_garden_road_top",
+    "side": "sonicraft:blocks/press_garden_road_top"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/route_signal",
+  "textures": {
+    "all": "sonicraft:blocks/route_signal_cart",
+    "particle": "sonicraft:blocks/route_signal_particle",
+    "sign": "sonicraft:blocks/route_signal_cart",
+    "main": "sonicraft:blocks/route_signal"
+  }
+}

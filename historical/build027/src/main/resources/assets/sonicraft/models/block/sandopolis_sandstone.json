@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/sandopolis_sandstone",
+    "particle": "sonicraft:blocks/sandopolis_sandstone"
+  }
+}

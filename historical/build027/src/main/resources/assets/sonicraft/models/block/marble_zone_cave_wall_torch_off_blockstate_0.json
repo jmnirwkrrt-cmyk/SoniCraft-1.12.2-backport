@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/marble_zone_wall_torch",
+  "textures": {
+    "all": "sonicraft:blocks/marble_zone_wall_torch",
+    "particle": "sonicraft:blocks/marble_zone_wall_torch",
+    "fire": "sonicraft:blocks/nothing",
+    "torch": "sonicraft:blocks/marble_zone_wall_torch"
+  }
+}

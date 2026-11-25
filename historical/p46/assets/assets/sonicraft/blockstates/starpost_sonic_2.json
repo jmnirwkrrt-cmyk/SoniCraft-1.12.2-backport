@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "blockstate=0,facing=north": {
+      "model": "sonicraft:checkpoint46"
+    },
+    "blockstate=0,facing=east": {
+      "model": "sonicraft:checkpoint46",
+      "y": 90
+    },
+    "blockstate=0,facing=south": {
+      "model": "sonicraft:checkpoint46",
+      "y": 180
+    },
+    "blockstate=0,facing=west": {
+      "model": "sonicraft:checkpoint46",
+      "y": 270
+    },
+    "blockstate=1,facing=north": {
+      "model": "sonicraft:checkpoint46"
+    },
+    "blockstate=1,facing=east": {
+      "model": "sonicraft:checkpoint46",
+      "y": 90
+    },
+    "blockstate=1,facing=south": {
+      "model": "sonicraft:checkpoint46",
+      "y": 180
+    },
+    "blockstate=1,facing=west": {
+      "model": "sonicraft:checkpoint46",
+      "y": 270
+    },
+    "blockstate=2,facing=north": {
+      "model": "sonicraft:checkpoint46_active"
+    },
+    "blockstate=2,facing=east": {
+      "model": "sonicraft:checkpoint46_active",
+      "y": 90
+    },
+    "blockstate=2,facing=south": {
+      "model": "sonicraft:checkpoint46_active",
+      "y": 180
+    },
+    "blockstate=2,facing=west": {
+      "model": "sonicraft:checkpoint46_active",
+      "y": 270
+    },
+    "blockstate=3,facing=north": {
+      "model": "sonicraft:checkpoint46_active"
+    },
+    "blockstate=3,facing=east": {
+      "model": "sonicraft:checkpoint46_active",
+      "y": 90
+    },
+    "blockstate=3,facing=south": {
+      "model": "sonicraft:checkpoint46_active",
+      "y": 180
+    },
+    "blockstate=3,facing=west": {
+      "model": "sonicraft:checkpoint46_active",
+      "y": 270
+    }
+  }
+}

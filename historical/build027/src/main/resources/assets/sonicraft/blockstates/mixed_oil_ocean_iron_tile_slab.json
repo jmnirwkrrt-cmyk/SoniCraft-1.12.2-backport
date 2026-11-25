@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:mixed_oil_ocean_iron_tile_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:mixed_oil_ocean_iron_tile_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:mixed_oil_ocean_iron_tile_slab_full"
+    }
+  }
+}

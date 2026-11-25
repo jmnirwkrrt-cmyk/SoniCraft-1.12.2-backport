@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/dash_panel_modern",
+  "textures": {
+    "all": "sonicraft:blocks/dash_panel_modern_orange",
+    "particle": "sonicraft:blocks/dash_panel_modern_orange",
+    "belt": "sonicraft:blocks/dash_panel_belt_modern_orange",
+    "base": "sonicraft:blocks/dash_panel_modern_orange"
+  }
+}

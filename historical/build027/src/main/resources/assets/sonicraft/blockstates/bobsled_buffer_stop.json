@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/bobsled_buffer_stop"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/bobsled_buffer_stop",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/bobsled_buffer_stop",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/bobsled_buffer_stop",
+      "y": 270
+    }
+  }
+}

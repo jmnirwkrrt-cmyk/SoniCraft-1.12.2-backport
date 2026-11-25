@@ -1,0 +1,111 @@
+package org.sonicraft.backport;
+import net.minecraft.client.model.*;
+import net.minecraft.entity.Entity;
+import net.minecraft.util.math.MathHelper;
+public final class PockyModel112 extends ModelBase {
+public ModelRenderer head,nose,legL,legR,armL,armR,bb_main;
+public PockyModel112(){
+textureWidth=32;textureHeight=32;
+head=new ModelRenderer(this);
+head.setRotationPoint(0.0f,19.9375f,0.0f);
+head.rotateAngleX=0;
+head.rotateAngleY=0;
+head.rotateAngleZ=0;
+head.setTextureOffset(0, 0);
+head.addBox(-2.5f,-4.6875f,-2.5f,5,5,5,-0.25f);
+head.setTextureOffset(0, 16);
+head.addBox(-2.25f,-7.4375f,-1.5f,2,3,1,0.0f);
+head.setTextureOffset(0, 16);
+head.addBox(0.25f,-7.4375f,-1.5f,2,3,1,0.0f);
+nose=new ModelRenderer(this);
+nose.setRotationPoint(-1.0f,2.0625f,-6.0f);
+nose.rotateAngleX=0.0f;
+nose.rotateAngleY=3.1416f;
+nose.rotateAngleZ=0.0f;
+head.addChild(nose);
+nose.setTextureOffset(0, 0);
+nose.addBox(-1.5f,-4.25f,-4.0f,1,1,1,0.0f);
+legL=new ModelRenderer(this);
+legL.setRotationPoint(1.0f,23.0f,0.0f);
+legL.rotateAngleX=0;
+legL.rotateAngleY=0;
+legL.rotateAngleZ=0;
+legL.setTextureOffset(7, 15);
+legL.addBox(-1.0f,0.0f,-2.0f,2,1,3,0.0f);
+legR=new ModelRenderer(this);
+legR.setRotationPoint(-1.0f,23.0f,0.0f);
+legR.rotateAngleX=0;
+legR.rotateAngleY=0;
+legR.rotateAngleZ=0;
+legR.setTextureOffset(7, 15);
+legR.addBox(-1.0f,0.0f,-2.0f,2,1,3,0.0f);
+armL=new ModelRenderer(this);
+armL.setRotationPoint(1.5f,20.5f,0.0f);
+armL.rotateAngleX=0;
+armL.rotateAngleY=0;
+armL.rotateAngleZ=0;
+armL.setTextureOffset(16, 0);
+armL.addBox(0.0f,-0.5f,-0.5f,1,2,1,0.0f);
+armR=new ModelRenderer(this);
+armR.setRotationPoint(-1.5f,20.5f,0.0f);
+armR.rotateAngleX=0;
+armR.rotateAngleY=0;
+armR.rotateAngleZ=0;
+armR.setTextureOffset(16, 0);
+armR.addBox(-1.0f,-0.5f,-0.5f,1,2,1,0.0f);
+bb_main=new ModelRenderer(this);
+bb_main.setRotationPoint(0.0f,24.0f,0.0f);
+bb_main.rotateAngleX=0;
+bb_main.rotateAngleY=0;
+bb_main.rotateAngleZ=0;
+bb_main.setTextureOffset(0, 11);
+bb_main.addBox(-1.5f,-4.0f,-1.0f,3,3,2,0.0f);
+}
+@Override public void render(Entity entity,float limbSwing,float limbSwingAmount,float ageInTicks,float netHeadYaw,float headPitch,float scale){
+setRotationAngles(limbSwing,limbSwingAmount,ageInTicks,netHeadYaw,headPitch,scale,entity);
+head.render(scale);
+legL.render(scale);
+legR.render(scale);
+armL.render(scale);
+armR.render(scale);
+bb_main.render(scale);
+}
+@Override public void setRotationAngles(float limbSwing,float limbSwingAmount,float ageInTicks,float netHeadYaw,float headPitch,float scale,Entity entity){
+head.setRotationPoint(0.0f,19.9375f,0.0f);
+head.rotateAngleX=0;
+head.rotateAngleY=0;
+head.rotateAngleZ=0;
+nose.setRotationPoint(-1.0f,2.0625f,-6.0f);
+nose.rotateAngleX=0.0f;
+nose.rotateAngleY=3.1416f;
+nose.rotateAngleZ=0.0f;
+legL.setRotationPoint(1.0f,23.0f,0.0f);
+legL.rotateAngleX=0;
+legL.rotateAngleY=0;
+legL.rotateAngleZ=0;
+legR.setRotationPoint(-1.0f,23.0f,0.0f);
+legR.rotateAngleX=0;
+legR.rotateAngleY=0;
+legR.rotateAngleZ=0;
+armL.setRotationPoint(1.5f,20.5f,0.0f);
+armL.rotateAngleX=0;
+armL.rotateAngleY=0;
+armL.rotateAngleZ=0;
+armR.setRotationPoint(-1.5f,20.5f,0.0f);
+armR.rotateAngleX=0;
+armR.rotateAngleY=0;
+armR.rotateAngleZ=0;
+bb_main.setRotationPoint(0.0f,24.0f,0.0f);
+bb_main.rotateAngleX=0;
+bb_main.rotateAngleY=0;
+bb_main.rotateAngleZ=0;
+
+        this.head.rotateAngleY = netHeadYaw / 57.295776f;
+        this.head.rotateAngleX = headPitch / 57.295776f;
+        this.legR.rotateAngleX = MathHelper.cos((float)(limbSwing * 1.0f)) * 1.0f * limbSwingAmount;
+        this.armR.rotateAngleX = MathHelper.cos((float)(limbSwing * 0.6662f + (float)Math.PI)) * limbSwingAmount;
+        this.legL.rotateAngleX = MathHelper.cos((float)(limbSwing * 1.0f)) * -1.0f * limbSwingAmount;
+        this.armL.rotateAngleX = MathHelper.cos((float)(limbSwing * 0.6662f)) * limbSwingAmount;
+    
+}
+}

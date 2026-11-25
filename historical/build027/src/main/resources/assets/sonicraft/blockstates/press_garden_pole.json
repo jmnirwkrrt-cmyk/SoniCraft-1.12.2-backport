@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "sonicraft:block/press_garden_pole",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "sonicraft:block/press_garden_pole"
+    },
+    "axis=z": {
+      "model": "sonicraft:block/press_garden_pole",
+      "x": 90
+    }
+  }
+}

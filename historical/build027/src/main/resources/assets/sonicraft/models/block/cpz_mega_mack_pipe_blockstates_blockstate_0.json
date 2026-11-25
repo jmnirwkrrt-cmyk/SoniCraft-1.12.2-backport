@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/chemical_plant_mega_mack_pipe_top",
+    "up": "sonicraft:blocks/chemical_plant_mega_mack_pipe_top",
+    "north": "sonicraft:blocks/chemical_plant_mega_mack_pipe_side_upper",
+    "east": "sonicraft:blocks/chemical_plant_mega_mack_pipe_side_upper",
+    "south": "sonicraft:blocks/chemical_plant_mega_mack_pipe_side_upper",
+    "west": "sonicraft:blocks/chemical_plant_mega_mack_pipe_side_upper",
+    "particle": "sonicraft:blocks/chemical_plant_mega_mack_pipe_top"
+  }
+}

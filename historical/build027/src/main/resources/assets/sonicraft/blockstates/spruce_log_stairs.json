@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:spruce_log_stairs"
+    },
+    "facing=east": {
+      "model": "sonicraft:spruce_log_stairs",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:spruce_log_stairs",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:spruce_log_stairs",
+      "y": 270
+    }
+  }
+}

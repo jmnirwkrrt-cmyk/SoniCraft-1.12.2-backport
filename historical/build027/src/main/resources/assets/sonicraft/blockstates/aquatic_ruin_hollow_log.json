@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "facing=north": [
+      {
+        "model": "sonicraft:block/aquatic_ruin_hollow_log"
+      },
+      {
+        "model": "sonicraft:block/aquatic_ruin_hollow_log_1"
+      },
+      {
+        "model": "sonicraft:block/aquatic_ruin_hollow_log_2"
+      }
+    ],
+    "facing=east": [
+      {
+        "model": "sonicraft:block/aquatic_ruin_hollow_log",
+        "y": 90
+      },
+      {
+        "model": "sonicraft:block/aquatic_ruin_hollow_log_1",
+        "y": 90
+      },
+      {
+        "model": "sonicraft:block/aquatic_ruin_hollow_log_2",
+        "y": 90
+      }
+    ],
+    "facing=south": [
+      {
+        "model": "sonicraft:block/aquatic_ruin_hollow_log",
+        "y": 180
+      },
+      {
+        "model": "sonicraft:block/aquatic_ruin_hollow_log_1",
+        "y": 180
+      },
+      {
+        "model": "sonicraft:block/aquatic_ruin_hollow_log_2",
+        "y": 180
+      }
+    ],
+    "facing=west": [
+      {
+        "model": "sonicraft:block/aquatic_ruin_hollow_log",
+        "y": 270
+      },
+      {
+        "model": "sonicraft:block/aquatic_ruin_hollow_log_1",
+        "y": 270
+      },
+      {
+        "model": "sonicraft:block/aquatic_ruin_hollow_log_2",
+        "y": 270
+      }
+    ]
+  }
+}

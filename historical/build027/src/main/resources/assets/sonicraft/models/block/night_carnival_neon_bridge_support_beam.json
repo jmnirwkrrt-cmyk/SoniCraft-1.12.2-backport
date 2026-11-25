@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/night_carnival_neon_bridge_support_beam",
+  "textures": {
+    "all": "sonicraft:blocks/night_carnival_beam_bridge_bottom_slab",
+    "particle": "sonicraft:blocks/night_carnival_beam_bridge_bottom_top",
+    "side": "sonicraft:blocks/night_carnival_beam_bridge_bottom_slab",
+    "top": "sonicraft:blocks/night_carnival_beam_bridge_bottom_top"
+  }
+}

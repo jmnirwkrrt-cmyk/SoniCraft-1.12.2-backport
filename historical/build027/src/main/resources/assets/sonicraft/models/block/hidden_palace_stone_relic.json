@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/super_emerald",
+  "textures": {
+    "all": "sonicraft:blocks/super_emerald_generic",
+    "particle": "sonicraft:blocks/super_emerald_generic",
+    "side": "sonicraft:blocks/super_emerald_generic",
+    "top": "sonicraft:blocks/super_emerald_generic_top",
+    "bottom": "sonicraft:blocks/super_emerald_generic_bottom"
+  }
+}

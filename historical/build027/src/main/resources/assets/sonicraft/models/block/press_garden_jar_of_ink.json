@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/press_garden_jar",
+  "textures": {
+    "all": "sonicraft:blocks/jar_of_ink",
+    "particle": "sonicraft:blocks/jar_of_ink",
+    "side": "sonicraft:blocks/jar_of_ink",
+    "top": "sonicraft:blocks/jar_of_ink_top"
+  }
+}

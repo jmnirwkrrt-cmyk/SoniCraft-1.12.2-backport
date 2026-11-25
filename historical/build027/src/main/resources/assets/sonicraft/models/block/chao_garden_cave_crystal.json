@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/labyrinth_crystal",
+  "textures": {
+    "all": "sonicraft:blocks/chao_garden_cave_crystal",
+    "particle": "sonicraft:blocks/chao_garden_cave_crystal",
+    "cross": "sonicraft:blocks/chao_garden_cave_crystal"
+  }
+}

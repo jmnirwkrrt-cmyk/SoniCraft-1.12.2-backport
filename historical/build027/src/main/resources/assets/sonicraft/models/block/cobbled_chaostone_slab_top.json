@@ -1,0 +1,9 @@
+{
+  "parent": "block/upper_slab",
+  "textures": {
+    "particle": "sonicraft:blocks/cobbled_chaostone",
+    "bottom": "sonicraft:blocks/cobbled_chaostone",
+    "top": "sonicraft:blocks/cobbled_chaostone",
+    "side": "sonicraft:blocks/cobbled_chaostone"
+  }
+}

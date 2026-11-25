@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/chemical_plant_road_front",
+    "bottom": "sonicraft:blocks/chemical_plant_road_stairs",
+    "top": "sonicraft:blocks/chemical_plant_road_stairs",
+    "side": "sonicraft:blocks/chemical_plant_road_stairs"
+  }
+}

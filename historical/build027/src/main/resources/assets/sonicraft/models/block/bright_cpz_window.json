@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/chemical_plant_window_glowing_bottom",
+    "up": "sonicraft:blocks/chemical_plant_window_glowing_top",
+    "north": "sonicraft:blocks/chemical_plant_window_glowing",
+    "east": "sonicraft:blocks/chemical_plant_window_glowing",
+    "south": "sonicraft:blocks/chemical_plant_window_glowing",
+    "west": "sonicraft:blocks/chemical_plant_window_glowing",
+    "particle": "sonicraft:blocks/chemical_plant_window_glowing"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/carnival_night_balloon",
+  "textures": {
+    "all": "sonicraft:blocks/yellow_balloon",
+    "particle": "sonicraft:blocks/yellow_balloon",
+    "balloon": "sonicraft:blocks/yellow_balloon",
+    "string": "sonicraft:blocks/balloon_string"
+  }
+}

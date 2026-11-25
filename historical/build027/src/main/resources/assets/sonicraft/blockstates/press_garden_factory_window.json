@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "sonicraft:block/press_garden_factory_window_1"
+      },
+      {
+        "model": "sonicraft:block/press_garden_factory_window_2"
+      },
+      {
+        "model": "sonicraft:block/press_garden_factory_window_3"
+      },
+      {
+        "model": "sonicraft:block/press_garden_factory_window_4"
+      }
+    ]
+  }
+}

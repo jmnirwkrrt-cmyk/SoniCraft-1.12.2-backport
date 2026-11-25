@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:southite",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:southite_wall",
+    "count": 6,
+    "data": 0
+  }
+}

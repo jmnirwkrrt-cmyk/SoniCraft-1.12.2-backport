@@ -1,0 +1,9 @@
+{
+  "parent": "block/half_slab",
+  "textures": {
+    "particle": "sonicraft:blocks/studiopolis_smooth_top",
+    "bottom": "sonicraft:blocks/studiopolis_smooth_top",
+    "top": "sonicraft:blocks/studiopolis_smooth_top",
+    "side": "sonicraft:blocks/studiopolis_pillar_slab"
+  }
+}

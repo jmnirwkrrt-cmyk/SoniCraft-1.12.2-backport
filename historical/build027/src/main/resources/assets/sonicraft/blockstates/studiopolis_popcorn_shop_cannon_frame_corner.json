@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/studiopolis_popcorn_shop_cannon_frame_corner"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/studiopolis_popcorn_shop_cannon_frame_corner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/studiopolis_popcorn_shop_cannon_frame_corner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/studiopolis_popcorn_shop_cannon_frame_corner",
+      "y": 270
+    }
+  }
+}

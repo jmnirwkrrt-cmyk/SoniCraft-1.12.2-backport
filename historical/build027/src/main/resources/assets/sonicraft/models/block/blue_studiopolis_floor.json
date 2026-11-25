@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/studiopolis_floor_bottom_blue",
+    "up": "sonicraft:blocks/studiopolis_smooth_top",
+    "north": "sonicraft:blocks/studiopolis_floor_side_blue",
+    "east": "sonicraft:blocks/studiopolis_floor_side_blue",
+    "south": "sonicraft:blocks/studiopolis_floor_side_blue",
+    "west": "sonicraft:blocks/studiopolis_floor_side_blue",
+    "particle": "sonicraft:blocks/studiopolis_floor_bottom_blue"
+  }
+}

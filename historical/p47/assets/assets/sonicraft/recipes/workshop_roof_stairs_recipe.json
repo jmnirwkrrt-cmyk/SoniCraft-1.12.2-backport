@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:workshop_roof_block",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:workshop_roof_stairs",
+    "count": 4,
+    "data": 0
+  }
+}

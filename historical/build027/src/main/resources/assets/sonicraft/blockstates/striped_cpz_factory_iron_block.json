@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:striped_cpz_factory_iron_block"
+    },
+    "facing=east": {
+      "model": "sonicraft:striped_cpz_factory_iron_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:striped_cpz_factory_iron_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:striped_cpz_factory_iron_block",
+      "y": 270
+    }
+  }
+}

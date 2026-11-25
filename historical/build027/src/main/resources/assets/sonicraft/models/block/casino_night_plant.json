@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sonicraft:blocks/casino_night_plant_1_top",
+    "particle": "sonicraft:blocks/casino_night_plant_1_top"
+  }
+}

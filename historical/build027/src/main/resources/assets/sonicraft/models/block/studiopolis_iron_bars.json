@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/studiopolis_iron_bars",
+    "particle": "sonicraft:blocks/studiopolis_iron_bars"
+  }
+}

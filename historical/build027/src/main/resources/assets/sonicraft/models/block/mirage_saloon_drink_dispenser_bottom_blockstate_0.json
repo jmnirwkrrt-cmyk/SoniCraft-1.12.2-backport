@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/mirage_saloon_drink_dispenser_bottom_half",
+  "textures": {
+    "all": "sonicraft:blocks/mirage_saloon_drink_dispenser_particle",
+    "particle": "sonicraft:blocks/mirage_saloon_drink_dispenser_particle",
+    "dispenser": "sonicraft:blocks/mirage_saloon_drink_dispenser"
+  }
+}

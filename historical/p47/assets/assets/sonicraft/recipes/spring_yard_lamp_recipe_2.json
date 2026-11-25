@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:spring_yard_lamp_slab",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:spring_yard_lamp",
+    "count": 1,
+    "data": 0
+  }
+}

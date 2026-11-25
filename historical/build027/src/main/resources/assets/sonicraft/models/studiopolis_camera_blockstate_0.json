@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:custom/studiopolis_camera_particle",
+  "textures": {
+    "particle": "sonicraft:blocks/studiopolis_camera"
+  }
+}

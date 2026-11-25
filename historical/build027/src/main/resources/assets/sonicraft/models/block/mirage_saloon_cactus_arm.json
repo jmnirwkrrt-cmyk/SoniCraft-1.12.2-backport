@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/mirage_saloon_cactus_branch",
+  "textures": {
+    "all": "sonicraft:blocks/mirage_saloon_cactus_branch_side",
+    "particle": "sonicraft:blocks/mirage_saloon_cactus_branch_side",
+    "side": "sonicraft:blocks/mirage_saloon_cactus_branch_side",
+    "top": "sonicraft:blocks/mirage_saloon_cactus_branch_top",
+    "bottom": "sonicraft:blocks/mirage_saloon_cactus_branch_bottom"
+  }
+}

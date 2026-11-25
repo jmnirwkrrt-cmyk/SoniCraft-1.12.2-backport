@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/garnet_block",
+    "particle": "sonicraft:blocks/garnet_block"
+  }
+}

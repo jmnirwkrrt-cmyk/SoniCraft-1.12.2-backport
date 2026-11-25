@@ -1,0 +1,10 @@
+package org.sonicraft.backport;
+import net.minecraft.item.Item;
+import net.minecraft.client.renderer.block.model.ModelResourceLocation;
+import net.minecraftforge.client.event.ModelRegistryEvent;
+import net.minecraftforge.client.model.ModelLoader;
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+import net.minecraftforge.fml.relauncher.Side;
+@Mod.EventBusSubscriber(modid=SonicraftLegacy.ID,value=Side.CLIENT)
+public class ClientModels {@SubscribeEvent public static void models(ModelRegistryEvent e){ShapeBlockModels.register();for(net.minecraft.block.Block b:Content.BLOCKS.values())if(b instanceof MarbleColumn&&((MarbleColumn)b).broken)ModelLoader.setCustomStateMapper(b,new net.minecraft.client.renderer.block.statemap.StateMap.Builder().ignore(MarbleColumn.AXIS).build());ModelLoader.setCustomModelResourceLocation(Badniks.SCRAP,0,new ModelResourceLocation(Badniks.SCRAP.getRegistryName(),"inventory"));for(net.minecraft.block.Block b:Content.BLOCKS.values()){if(b instanceof BulkBlocks.Gate)ModelLoader.setCustomStateMapper(b,new net.minecraft.client.renderer.block.statemap.StateMap.Builder().ignore(net.minecraft.block.BlockFenceGate.POWERED).build());if(b instanceof BulkBlocks.Door)ModelLoader.setCustomStateMapper(b,new net.minecraft.client.renderer.block.statemap.StateMap.Builder().ignore(net.minecraft.block.BlockDoor.POWERED).build());}ModelLoader.setCustomModelResourceLocation(MobiusPortal.IGNITER,0,new ModelResourceLocation(MobiusPortal.IGNITER.getRegistryName(),"inventory"));for(Content.BlockDef d:Content.BLOCK_DEFS)ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(Content.BLOCKS.get(d.id)),0,new ModelResourceLocation("sonicraft:"+d.id,"inventory"));for(Item item:EmeraldProgression.ITEMS.values())ModelLoader.setCustomModelResourceLocation(item,0,new ModelResourceLocation(item.getRegistryName(),"inventory"));for(Item item:FoodContent.ITEMS.values())ModelLoader.setCustomModelResourceLocation(item,0,new ModelResourceLocation(item.getRegistryName(),"inventory"));}}

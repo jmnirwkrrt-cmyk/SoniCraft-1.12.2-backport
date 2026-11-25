@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/ocean_palace_tile_dark",
+    "particle": "sonicraft:blocks/ocean_palace_tile_dark"
+  }
+}

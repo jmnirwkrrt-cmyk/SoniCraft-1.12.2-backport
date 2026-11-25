@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:mossy_chaostone_bricks",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:mossy_chaostone_brick_slab",
+    "count": 6,
+    "data": 0
+  }
+}

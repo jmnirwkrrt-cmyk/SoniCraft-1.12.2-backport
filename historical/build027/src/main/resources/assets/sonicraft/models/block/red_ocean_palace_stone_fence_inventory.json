@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "sonicraft:blocks/ocean_palace_stone_red",
+    "particle": "sonicraft:blocks/ocean_palace_stone_red"
+  }
+}

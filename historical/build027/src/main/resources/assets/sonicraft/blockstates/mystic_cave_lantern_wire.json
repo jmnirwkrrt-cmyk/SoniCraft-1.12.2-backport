@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/mystic_cave_lantern_wire"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/mystic_cave_lantern_wire",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/mystic_cave_lantern_wire",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/mystic_cave_lantern_wire",
+      "y": 270
+    }
+  }
+}

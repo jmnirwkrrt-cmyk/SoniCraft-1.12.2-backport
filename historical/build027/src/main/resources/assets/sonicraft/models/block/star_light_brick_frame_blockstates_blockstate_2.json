@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/star_light_brick",
+    "up": "sonicraft:blocks/star_light_brick_9",
+    "north": "sonicraft:blocks/star_light_brick_4",
+    "east": "sonicraft:blocks/star_light_brick_7",
+    "south": "sonicraft:blocks/star_light_brick_4",
+    "west": "sonicraft:blocks/star_light_brick_8",
+    "particle": "sonicraft:blocks/star_light_brick_10"
+  }
+}

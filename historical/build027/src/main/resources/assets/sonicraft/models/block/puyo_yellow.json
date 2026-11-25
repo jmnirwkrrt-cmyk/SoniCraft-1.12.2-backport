@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/puyo_yellow",
+  "textures": {
+    "all": "sonicraft:blocks/puyo_yellow_front",
+    "particle": "sonicraft:blocks/nothing",
+    "sides": "sonicraft:blocks/puyo_yellow_sides",
+    "front": "sonicraft:blocks/puyo_yellow_front"
+  }
+}

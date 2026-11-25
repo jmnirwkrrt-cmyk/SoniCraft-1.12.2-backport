@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/press_garden_fence_post",
+  "textures": {
+    "all": "sonicraft:blocks/press_garden_fence_post_particle",
+    "particle": "sonicraft:blocks/press_garden_fence_post_particle",
+    "post_top": "sonicraft:blocks/press_garden_fence_post_top",
+    "post_side": "sonicraft:blocks/press_garden_fence_post"
+  }
+}

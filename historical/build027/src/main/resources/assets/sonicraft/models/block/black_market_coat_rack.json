@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/black_market_coat_rack",
+  "textures": {
+    "all": "sonicraft:blocks/black_market_coat_rack_icon",
+    "particle": "sonicraft:blocks/black_market_coat_rack_particle",
+    "0": "sonicraft:blocks/black_market_coat_rack"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "sonicraft:blocks/genesis_oak_planks",
+    "bottom": "sonicraft:blocks/genesis_oak_planks",
+    "top": "sonicraft:blocks/genesis_oak_planks",
+    "side": "sonicraft:blocks/genesis_oak_planks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/hidden_palace_pillar_top",
+    "up": "sonicraft:blocks/hidden_palace_pillar_top",
+    "north": "sonicraft:blocks/hidden_palace_pillar_upper",
+    "east": "sonicraft:blocks/hidden_palace_pillar_upper",
+    "south": "sonicraft:blocks/hidden_palace_pillar_upper",
+    "west": "sonicraft:blocks/hidden_palace_pillar_upper",
+    "particle": "sonicraft:blocks/hidden_palace_pillar_top"
+  }
+}

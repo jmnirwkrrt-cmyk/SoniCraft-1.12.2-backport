@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:lightly_painted_ocean_palace_stone_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:lightly_painted_ocean_palace_stone_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:lightly_painted_ocean_palace_stone_slab_full"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/launch_base_rocket_arm",
+    "bottom": "sonicraft:blocks/launch_base_rocket_arm",
+    "top": "sonicraft:blocks/launch_base_rocket_arm",
+    "side": "sonicraft:blocks/launch_base_rocket_arm"
+  }
+}

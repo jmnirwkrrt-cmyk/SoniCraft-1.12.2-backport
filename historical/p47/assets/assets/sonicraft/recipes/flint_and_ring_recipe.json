@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a ",
+    " b"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:gold_ring",
+      "data": 0
+    },
+    "b": {
+      "item": "minecraft:flint",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:mobius",
+    "count": 1,
+    "data": 0
+  }
+}

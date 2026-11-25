@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/labyrinthblock_smooth",
+    "bottom": "sonicraft:blocks/labyrinthblock_smooth",
+    "top": "sonicraft:blocks/labyrinthblock_smooth",
+    "side": "sonicraft:blocks/labyrinthblock_2"
+  }
+}

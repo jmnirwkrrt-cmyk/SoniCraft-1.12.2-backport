@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=single": {
+      "model": "sonicraft:block/cpz_scaffolding_slab"
+    },
+    "half=top,variant=single": {
+      "model": "sonicraft:block/cpz_scaffolding_slab_top"
+    }
+  }
+}

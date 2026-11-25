@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/marble_zone_brick_chiseled_bottom",
+    "up": "sonicraft:blocks/marble_zone_brick_chiseled_top",
+    "north": "sonicraft:blocks/marble_zone_brick_roof",
+    "east": "sonicraft:blocks/marble_zone_brick_roof",
+    "south": "sonicraft:blocks/marble_zone_brick_roof",
+    "west": "sonicraft:blocks/marble_zone_brick_roof",
+    "particle": "sonicraft:blocks/marble_zone_brick_chiseled_bottom"
+  }
+}

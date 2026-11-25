@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/marble_zone_stone_flamethrower_on"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/marble_zone_stone_flamethrower_on",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/marble_zone_stone_flamethrower_on",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/marble_zone_stone_flamethrower_on",
+      "y": 270
+    }
+  }
+}

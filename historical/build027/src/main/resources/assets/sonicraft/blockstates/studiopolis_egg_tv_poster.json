@@ -1,0 +1,240 @@
+{
+  "variants": {
+    "face=floor,facing=north": [
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster"
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_2"
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_3"
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_4"
+      }
+    ],
+    "face=floor,facing=east": [
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster",
+        "y": 90
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_2",
+        "y": 90
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_3",
+        "y": 90
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_4",
+        "y": 90
+      }
+    ],
+    "face=floor,facing=south": [
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster",
+        "y": 180
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_2",
+        "y": 180
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_3",
+        "y": 180
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_4",
+        "y": 180
+      }
+    ],
+    "face=floor,facing=west": [
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster",
+        "y": 270
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_2",
+        "y": 270
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_3",
+        "y": 270
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_4",
+        "y": 270
+      }
+    ],
+    "face=wall,facing=north": [
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster",
+        "x": 90
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_2",
+        "x": 90
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_3",
+        "x": 90
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_4",
+        "x": 90
+      }
+    ],
+    "face=wall,facing=east": [
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_2",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_3",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_4",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "face=wall,facing=south": [
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_2",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_3",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_4",
+        "x": 90,
+        "y": 180
+      }
+    ],
+    "face=wall,facing=west": [
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster",
+        "x": 90,
+        "y": 270
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_2",
+        "x": 90,
+        "y": 270
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_3",
+        "x": 90,
+        "y": 270
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_4",
+        "x": 90,
+        "y": 270
+      }
+    ],
+    "face=ceiling,facing=north": [
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster",
+        "x": 180,
+        "y": 180
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_2",
+        "x": 180,
+        "y": 180
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_3",
+        "x": 180,
+        "y": 180
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_4",
+        "x": 180,
+        "y": 180
+      }
+    ],
+    "face=ceiling,facing=east": [
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster",
+        "x": 180,
+        "y": 270
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_2",
+        "x": 180,
+        "y": 270
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_3",
+        "x": 180,
+        "y": 270
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_4",
+        "x": 180,
+        "y": 270
+      }
+    ],
+    "face=ceiling,facing=south": [
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster",
+        "x": 180
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_2",
+        "x": 180
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_3",
+        "x": 180
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_4",
+        "x": 180
+      }
+    ],
+    "face=ceiling,facing=west": [
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster",
+        "x": 180,
+        "y": 90
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_2",
+        "x": 180,
+        "y": 90
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_3",
+        "x": 180,
+        "y": 90
+      },
+      {
+        "model": "sonicraft:block/studiopolis_egg_tv_poster_4",
+        "x": 180,
+        "y": 90
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/no_way",
+  "textures": {
+    "all": "sonicraft:blocks/night_carnival_archway",
+    "particle": "sonicraft:blocks/night_carnival_archway",
+    "0": "sonicraft:blocks/night_carnival_archway"
+  }
+}

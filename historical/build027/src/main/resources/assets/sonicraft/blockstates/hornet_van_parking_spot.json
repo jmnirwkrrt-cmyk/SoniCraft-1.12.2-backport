@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:hornet_van_parking_spot"
+    },
+    "facing=east": {
+      "model": "sonicraft:hornet_van_parking_spot",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:hornet_van_parking_spot",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:hornet_van_parking_spot",
+      "y": 270
+    }
+  }
+}

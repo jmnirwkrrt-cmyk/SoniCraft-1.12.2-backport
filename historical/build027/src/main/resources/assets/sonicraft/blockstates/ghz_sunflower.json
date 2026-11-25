@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "sonicraft:ghz_sunflower_bottom"
+    },
+    "half=upper": {
+      "model": "sonicraft:ghz_sunflower"
+    }
+  }
+}

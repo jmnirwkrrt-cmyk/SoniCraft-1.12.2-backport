@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "axis=x,blockstate=0": {
+      "model": "sonicraft:chiseled_frosted_press_garden_quartz_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,blockstate=0": {
+      "model": "sonicraft:chiseled_frosted_press_garden_quartz_pillar"
+    },
+    "axis=z,blockstate=0": {
+      "model": "sonicraft:chiseled_frosted_press_garden_quartz_pillar",
+      "x": 90
+    },
+    "axis=x,blockstate=1": {
+      "model": "sonicraft:chiseled_frosted_press_garden_quartz_pillar_blockstates_blockstate_0",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,blockstate=1": {
+      "model": "sonicraft:chiseled_frosted_press_garden_quartz_pillar_blockstates_blockstate_0"
+    },
+    "axis=z,blockstate=1": {
+      "model": "sonicraft:chiseled_frosted_press_garden_quartz_pillar_blockstates_blockstate_0",
+      "x": 90
+    },
+    "axis=x,blockstate=2": {
+      "model": "sonicraft:chiseled_frosted_press_garden_quartz_pillar_blockstates_blockstate_1",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,blockstate=2": {
+      "model": "sonicraft:chiseled_frosted_press_garden_quartz_pillar_blockstates_blockstate_1"
+    },
+    "axis=z,blockstate=2": {
+      "model": "sonicraft:chiseled_frosted_press_garden_quartz_pillar_blockstates_blockstate_1",
+      "x": 90
+    },
+    "axis=x,blockstate=3": {
+      "model": "sonicraft:chiseled_frosted_press_garden_quartz_pillar_blockstates_blockstate_2",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,blockstate=3": {
+      "model": "sonicraft:chiseled_frosted_press_garden_quartz_pillar_blockstates_blockstate_2"
+    },
+    "axis=z,blockstate=3": {
+      "model": "sonicraft:chiseled_frosted_press_garden_quartz_pillar_blockstates_blockstate_2",
+      "x": 90
+    }
+  }
+}

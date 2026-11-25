@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/chemical_plant_puyo_sign_blank",
+    "up": "sonicraft:blocks/chemical_plant_puyo_sign_b",
+    "north": "sonicraft:blocks/chemical_plant_puyo_sign_e",
+    "east": "sonicraft:blocks/chemical_plant_puyo_sign_m",
+    "south": "sonicraft:blocks/chemical_plant_puyo_sign_n",
+    "west": "sonicraft:blocks/chemical_plant_puyo_sign_a",
+    "particle": "sonicraft:blocks/chemical_plant_puyo_sign_blank"
+  }
+}

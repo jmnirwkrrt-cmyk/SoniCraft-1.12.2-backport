@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/chao_garden_bush",
+  "textures": {
+    "all": "sonicraft:blocks/chao_garden_bush",
+    "particle": "sonicraft:blocks/chao_garden_bush",
+    "flower": "sonicraft:blocks/chao_garden_bush"
+  }
+}

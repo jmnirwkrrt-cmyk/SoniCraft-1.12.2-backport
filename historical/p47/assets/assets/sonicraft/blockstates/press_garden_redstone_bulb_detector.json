@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector_blockstates_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    },
+    "blockstate=3": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    },
+    "blockstate=4": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    },
+    "blockstate=5": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    },
+    "blockstate=6": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    },
+    "blockstate=7": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    },
+    "blockstate=8": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    },
+    "blockstate=9": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    },
+    "blockstate=10": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    },
+    "blockstate=11": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    },
+    "blockstate=12": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    },
+    "blockstate=13": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    },
+    "blockstate=14": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    },
+    "blockstate=15": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    }
+  }
+}

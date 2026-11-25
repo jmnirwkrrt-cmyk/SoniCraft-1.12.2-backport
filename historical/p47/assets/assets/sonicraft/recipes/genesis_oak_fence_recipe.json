@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_fence",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:genesis_oak_planks",
+      "data": 0
+    },
+    "b": {
+      "item": "minecraft:stick",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:genesis_oak_fence",
+    "count": 3,
+    "data": 0
+  }
+}

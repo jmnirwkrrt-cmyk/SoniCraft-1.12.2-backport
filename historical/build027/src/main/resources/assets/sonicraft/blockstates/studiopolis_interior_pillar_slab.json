@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:studiopolis_interior_pillar_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:studiopolis_interior_pillar_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:studiopolis_interior_pillar_slab_full"
+    }
+  }
+}

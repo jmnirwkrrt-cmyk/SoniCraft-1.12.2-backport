@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/crisis_city_lamppost_light",
+  "textures": {
+    "all": "sonicraft:blocks/crisis_city_lamppost_light",
+    "particle": "sonicraft:blocks/crisis_city_lamppost_pole",
+    "light": "sonicraft:blocks/crisis_city_lamppost_light",
+    "pole": "sonicraft:blocks/crisis_city_lamppost_pole"
+  }
+}

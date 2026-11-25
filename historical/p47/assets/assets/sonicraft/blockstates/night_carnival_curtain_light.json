@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "blockstate=0,facing=north": {
+      "model": "sonicraft:night_carnival_curtain_light"
+    },
+    "blockstate=0,facing=east": {
+      "model": "sonicraft:night_carnival_curtain_light",
+      "y": 90
+    },
+    "blockstate=0,facing=south": {
+      "model": "sonicraft:night_carnival_curtain_light",
+      "y": 180
+    },
+    "blockstate=0,facing=west": {
+      "model": "sonicraft:night_carnival_curtain_light",
+      "y": 270
+    },
+    "blockstate=1,facing=north": {
+      "model": "sonicraft:night_carnival_curtain_light_blockstates_blockstate_0"
+    },
+    "blockstate=1,facing=east": {
+      "model": "sonicraft:night_carnival_curtain_light_blockstates_blockstate_0",
+      "y": 90
+    },
+    "blockstate=1,facing=south": {
+      "model": "sonicraft:night_carnival_curtain_light_blockstates_blockstate_0",
+      "y": 180
+    },
+    "blockstate=1,facing=west": {
+      "model": "sonicraft:night_carnival_curtain_light_blockstates_blockstate_0",
+      "y": 270
+    },
+    "blockstate=2,facing=north": {
+      "model": "sonicraft:night_carnival_curtain_light"
+    },
+    "blockstate=3,facing=north": {
+      "model": "sonicraft:night_carnival_curtain_light"
+    },
+    "blockstate=2,facing=east": {
+      "model": "sonicraft:night_carnival_curtain_light",
+      "y": 90
+    },
+    "blockstate=3,facing=east": {
+      "model": "sonicraft:night_carnival_curtain_light",
+      "y": 90
+    },
+    "blockstate=2,facing=south": {
+      "model": "sonicraft:night_carnival_curtain_light",
+      "y": 180
+    },
+    "blockstate=3,facing=south": {
+      "model": "sonicraft:night_carnival_curtain_light",
+      "y": 180
+    },
+    "blockstate=2,facing=west": {
+      "model": "sonicraft:night_carnival_curtain_light",
+      "y": 270
+    },
+    "blockstate=3,facing=west": {
+      "model": "sonicraft:night_carnival_curtain_light",
+      "y": 270
+    }
+  }
+}

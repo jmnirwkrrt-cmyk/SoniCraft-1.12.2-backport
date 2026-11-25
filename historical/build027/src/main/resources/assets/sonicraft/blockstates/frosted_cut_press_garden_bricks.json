@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:block/frosted_cut_press_garden_bricks"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:block/frosted_cut_press_garden_bricks_blockstates_blockstate_0"
+    }
+  }
+}

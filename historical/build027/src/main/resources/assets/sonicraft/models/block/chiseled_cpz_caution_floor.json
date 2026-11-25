@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/chemical_plant_iron_block",
+    "up": "sonicraft:blocks/chemical_plant_floor_top",
+    "north": "sonicraft:blocks/chemical_plant_caution_floor_side_2",
+    "east": "sonicraft:blocks/chemical_plant_caution_floor_side_2",
+    "south": "sonicraft:blocks/chemical_plant_caution_floor_side_2",
+    "west": "sonicraft:blocks/chemical_plant_caution_floor_side_2",
+    "particle": "sonicraft:blocks/chemical_plant_iron_block"
+  }
+}

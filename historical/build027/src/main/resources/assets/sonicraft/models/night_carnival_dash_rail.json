@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/dash_panel_classic",
+  "textures": {
+    "all": "sonicraft:blocks/dash_panel_night_carnival_grind_rail",
+    "particle": "sonicraft:blocks/dash_panel_night_carnival_grind_rail",
+    "classic": "sonicraft:blocks/dash_panel_night_carnival_grind_rail",
+    "belt": "sonicraft:blocks/nothing"
+  }
+}

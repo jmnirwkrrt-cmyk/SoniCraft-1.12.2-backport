@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot",
+      "data": 0
+    },
+    "b": {
+      "item": "minecraft:glass",
+      "data": 0
+    },
+    "c": {
+      "item": "minecraft:iron_nugget",
+      "data": 0
+    },
+    "d": {
+      "item": "sonicraft:badnik_scrap",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:item_box",
+    "count": 1,
+    "data": 0
+  }
+}

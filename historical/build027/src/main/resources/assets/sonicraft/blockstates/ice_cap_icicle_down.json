@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/ice_cap_icicle_down"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/ice_cap_icicle_down"
+    },
+    "facing=south": {
+      "model": "sonicraft:block/ice_cap_icicle_down"
+    },
+    "facing=west": {
+      "model": "sonicraft:block/ice_cap_icicle_down"
+    },
+    "facing=up": {
+      "model": "sonicraft:block/ice_cap_icicle_down"
+    },
+    "facing=down": {
+      "model": "sonicraft:block/ice_cap_icicle_down"
+    }
+  }
+}

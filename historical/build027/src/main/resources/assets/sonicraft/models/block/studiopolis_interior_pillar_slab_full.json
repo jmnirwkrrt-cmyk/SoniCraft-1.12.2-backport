@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "sonicraft:blocks/studiopolis_smooth_top_interior",
+    "bottom": "sonicraft:blocks/studiopolis_smooth_top_interior",
+    "top": "sonicraft:blocks/studiopolis_smooth_top_interior",
+    "side": "sonicraft:blocks/studiopolis_interior_pillar_slab"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/hydrocity_bricks_1",
+    "bottom": "sonicraft:blocks/hydrocity_bricks_1",
+    "top": "sonicraft:blocks/hydrocity_bricks_1",
+    "side": "sonicraft:blocks/hydrocity_bricks_1"
+  }
+}

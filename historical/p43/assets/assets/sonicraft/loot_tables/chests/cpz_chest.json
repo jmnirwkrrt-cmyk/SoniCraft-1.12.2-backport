@@ -1,0 +1,385 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 4,
+        "max": 6
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 3,
+                "max": 8
+              }
+            }
+          ],
+          "entryName": "source_entry_0"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_nugget",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "entryName": "source_entry_1"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:redstone",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ],
+          "entryName": "source_entry_2"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_ingot",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_3"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:gold_ring",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 10
+              }
+            }
+          ],
+          "entryName": "source_entry_4"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_5",
+          "weight": 8
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_6",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_7"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_chestplate",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            },
+            {
+              "function": "enchant_with_levels",
+              "treasure": true,
+              "levels": {
+                "min": 0,
+                "max": 3
+              }
+            }
+          ],
+          "entryName": "source_entry_8"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_leggings",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            },
+            {
+              "function": "enchant_with_levels",
+              "treasure": true,
+              "levels": {
+                "min": 0,
+                "max": 3
+              }
+            }
+          ],
+          "entryName": "source_entry_9"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_boots",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            },
+            {
+              "function": "enchant_with_levels",
+              "treasure": true,
+              "levels": {
+                "min": 0,
+                "max": 3
+              }
+            }
+          ],
+          "entryName": "source_entry_10"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_helmet",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            },
+            {
+              "function": "enchant_with_levels",
+              "treasure": true,
+              "levels": {
+                "min": 0,
+                "max": 3
+              }
+            }
+          ],
+          "entryName": "source_entry_11"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:coal",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 4
+              }
+            }
+          ],
+          "entryName": "source_entry_12"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:dye",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 5
+              }
+            },
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ],
+          "entryName": "source_entry_13"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:special_stage_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_14"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:repeater",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 4
+              }
+            }
+          ],
+          "entryName": "source_entry_15"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:lever",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 4
+              }
+            }
+          ],
+          "entryName": "source_entry_16"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:glass",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 10
+              }
+            }
+          ],
+          "entryName": "source_entry_17"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:comparator",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ],
+          "entryName": "source_entry_18"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_19",
+          "weight": 6
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_20",
+          "weight": 6
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_21",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:classic_sonic_plushie",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_22"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_23",
+          "weight": 3
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_24",
+          "weight": 2
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_25",
+          "weight": 2
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_26",
+          "weight": 2
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_27",
+          "weight": 2
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_28",
+          "weight": 2
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_29",
+          "weight": 2
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_30",
+          "weight": 2
+        }
+      ],
+      "name": "source_pool_0"
+    }
+  ],
+  "random_sequence": "sonicraft:chests/cpz_chest"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/labyrinth_crystal",
+  "textures": {
+    "all": "sonicraft:blocks/press_garden_copper_pillar_topper",
+    "particle": "sonicraft:blocks/press_garden_copper_pillar_topper",
+    "cross": "sonicraft:blocks/press_garden_copper_pillar_topper"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/chao_garden_stone_top",
+    "up": "sonicraft:blocks/chao_garden_stone_top",
+    "north": "sonicraft:blocks/chao_garden_stone",
+    "east": "sonicraft:blocks/chao_garden_stone",
+    "south": "sonicraft:blocks/chao_garden_stone",
+    "west": "sonicraft:blocks/chao_garden_stone",
+    "particle": "sonicraft:blocks/chao_garden_stone_top"
+  }
+}

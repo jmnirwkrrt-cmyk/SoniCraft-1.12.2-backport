@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "sonicraft:weather_globe_spawn_trigger"
+    }
+  }
+}

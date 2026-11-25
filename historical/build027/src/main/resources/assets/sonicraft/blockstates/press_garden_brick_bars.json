@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:press_garden_brick_bars"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:press_garden_brick_bars_blockstates_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "sonicraft:press_garden_brick_bars_blockstates_blockstate_1"
+    }
+  }
+}

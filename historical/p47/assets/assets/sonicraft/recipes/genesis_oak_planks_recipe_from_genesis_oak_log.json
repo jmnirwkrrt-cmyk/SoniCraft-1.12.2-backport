@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "sonicraft:genesis_oak_log",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "sonicraft:genesis_oak_planks",
+    "count": 4,
+    "data": 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "sonicraft:blocks/spring_yard_platform_top",
+    "bottom": "sonicraft:blocks/spring_yard_platform_top",
+    "top": "sonicraft:blocks/spring_yard_platform_top",
+    "side": "sonicraft:blocks/spring_yard_platform_slab"
+  }
+}

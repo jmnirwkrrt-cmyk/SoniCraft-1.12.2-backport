@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:genesis_oak_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:genesis_oak_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:genesis_oak_slab_full"
+    }
+  }
+}

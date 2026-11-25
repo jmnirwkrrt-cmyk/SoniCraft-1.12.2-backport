@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "aca",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:marble_zone_brick_pillar",
+      "data": 0
+    },
+    "b": {
+      "item": "sonicraft:marble_zone_iron_block",
+      "data": 0
+    },
+    "c": {
+      "item": "minecraft:glass",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:marble_crusher_cylinder",
+    "count": 1,
+    "data": 0
+  }
+}

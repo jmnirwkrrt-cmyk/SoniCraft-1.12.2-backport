@@ -1,0 +1,386 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 4,
+        "max": 6
+      },
+      "bonus_rolls": {
+        "min": 2,
+        "max": 4
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "sonicraft:gold_ring",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 16
+              }
+            }
+          ],
+          "entryName": "source_entry_0"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ],
+          "entryName": "source_entry_1"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_2",
+          "weight": 9
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:bucket_of_popcorn",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ],
+          "entryName": "source_entry_3"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_4"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:studiopolis_microphone",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "entryName": "source_entry_5"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_6",
+          "weight": 9
+        },
+        {
+          "type": "item",
+          "name": "minecraft:concrete",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            },
+            {
+              "function": "set_data",
+              "data": 5
+            }
+          ],
+          "entryName": "source_entry_7"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:redstone_torch",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ],
+          "entryName": "source_entry_8"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:redstone_lamp",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ],
+          "entryName": "source_entry_9"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:redstone",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ],
+          "entryName": "source_entry_10"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:studiopolis_bricks",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ],
+          "entryName": "source_entry_11"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:classic_sonic_plushie",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_12"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_13",
+          "weight": 7
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:bouncy_checkpoint",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "entryName": "source_entry_14"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:studiopolis_tv",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_15"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:bumper_sonic_1",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "entryName": "source_entry_16"
+        }
+      ],
+      "name": "source_pool_0"
+    },
+    {
+      "rolls": {
+        "min": 3,
+        "max": 5
+      },
+      "entries": [
+        {
+          "type": "empty",
+          "entryName": "source_entry_0",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_1",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_2",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_3",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_4",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_5",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_6",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_7",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_8",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_9",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_10",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_11",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_12",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_13",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_14",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_15",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_16",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_17",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_18",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_19",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_20",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_21",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_22",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_23",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_24",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_25",
+          "weight": 1
+        }
+      ],
+      "name": "source_pool_1"
+    }
+  ],
+  "random_sequence": "sonicraft:chests/studiopolis_chest"
+}

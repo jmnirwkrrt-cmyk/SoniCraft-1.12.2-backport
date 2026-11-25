@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/ocean_palace_flag.item",
+  "textures": {
+    "particle": "sonicraft:blocks/ocean_palace_stone"
+  }
+}

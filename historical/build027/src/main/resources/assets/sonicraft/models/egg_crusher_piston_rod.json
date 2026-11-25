@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/egg_crusher_piston_rod",
+  "textures": {
+    "all": "sonicraft:blocks/egg_crusher_piston_rod",
+    "particle": "sonicraft:blocks/egg_crusher_piston_rod",
+    "side": "sonicraft:blocks/egg_crusher_piston_rod",
+    "top": "sonicraft:blocks/egg_crusher_piston_rod_top"
+  }
+}

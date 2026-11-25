@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/bobsled_buffer_stop",
+  "textures": {
+    "all": "sonicraft:blocks/bobsled_buffer_stop",
+    "particle": "sonicraft:blocks/bobsled_buffer_stop",
+    "front": "sonicraft:blocks/bobsled_buffer_stop_front",
+    "base": "sonicraft:blocks/bobsled_buffer_stop"
+  }
+}

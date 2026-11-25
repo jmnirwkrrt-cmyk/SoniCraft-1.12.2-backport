@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "sonicraft:block/crisis_city_concrete_pillar_cracked",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "sonicraft:block/crisis_city_concrete_pillar_cracked"
+    },
+    "axis=z": {
+      "model": "sonicraft:block/crisis_city_concrete_pillar_cracked",
+      "x": 90
+    }
+  }
+}

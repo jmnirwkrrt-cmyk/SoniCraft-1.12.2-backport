@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/casino_night_palm_trees",
+  "textures": {
+    "all": "sonicraft:blocks/casino_night_palm_trees",
+    "particle": "sonicraft:blocks/casino_night_palm_trees",
+    "tree": "sonicraft:blocks/casino_night_palm_tree"
+  }
+}

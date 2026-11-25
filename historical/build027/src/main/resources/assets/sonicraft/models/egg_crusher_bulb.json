@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/scrap_brain_bulb",
+  "textures": {
+    "all": "sonicraft:blocks/scrap_brain_bulb",
+    "particle": "sonicraft:blocks/scrap_brain_bulb_particle",
+    "0": "sonicraft:blocks/scrap_brain_bulb"
+  }
+}

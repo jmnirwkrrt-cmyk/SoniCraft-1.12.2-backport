@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/oil_ocean_cannon_cork_top",
+    "up": "sonicraft:blocks/oil_ocean_cannon_cork_top",
+    "north": "sonicraft:blocks/oil_ocean_cannon_cork_side",
+    "east": "sonicraft:blocks/oil_ocean_cannon_cork_side",
+    "south": "sonicraft:blocks/oil_ocean_cannon_cork_side",
+    "west": "sonicraft:blocks/oil_ocean_cannon_cork_side",
+    "particle": "sonicraft:blocks/oil_ocean_cannon_cork_side"
+  }
+}

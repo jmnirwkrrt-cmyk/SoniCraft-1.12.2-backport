@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/press_garden_road_top",
+    "up": "sonicraft:blocks/press_garden_road_top",
+    "north": "sonicraft:blocks/press_garden_road_side",
+    "east": "sonicraft:blocks/press_garden_road_side",
+    "south": "sonicraft:blocks/press_garden_road_side",
+    "west": "sonicraft:blocks/press_garden_road_side",
+    "particle": "sonicraft:blocks/press_garden_road_top"
+  }
+}

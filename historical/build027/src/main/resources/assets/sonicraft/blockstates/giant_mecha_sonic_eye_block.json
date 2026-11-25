@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:giant_mecha_sonic_eye_block"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:giant_mecha_sonic_eye_block_on_blockstate_0"
+    }
+  }
+}

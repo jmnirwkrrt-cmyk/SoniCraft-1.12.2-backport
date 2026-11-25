@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:block/switch_marble"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:block/switch_marble"
+    },
+    "blockstate=2": {
+      "model": "sonicraft:block/switch_marble"
+    },
+    "blockstate=3": {
+      "model": "sonicraft:block/switch_marble"
+    }
+  }
+}

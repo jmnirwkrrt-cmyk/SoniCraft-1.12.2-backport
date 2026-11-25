@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "sonicraft:block/marble_chain",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "sonicraft:block/marble_chain"
+    },
+    "axis=z": {
+      "model": "sonicraft:block/marble_chain",
+      "x": 90
+    }
+  }
+}

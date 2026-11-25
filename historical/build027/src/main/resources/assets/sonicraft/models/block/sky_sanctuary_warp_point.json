@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/sky_sanctuary_warp_point",
+  "textures": {
+    "all": "sonicraft:blocks/sky_sanctuary_warp_point_side",
+    "particle": "sonicraft:blocks/sky_sanctuary_warp_point_side",
+    "side": "sonicraft:blocks/sky_sanctuary_warp_point_side",
+    "top": "sonicraft:blocks/sky_sanctuary_warp_point_top",
+    "orb": "sonicraft:blocks/sky_sanctuary_warp_point_orb_off"
+  }
+}

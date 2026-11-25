@@ -1,0 +1,9 @@
+{
+  "parent": "block/upper_slab",
+  "textures": {
+    "particle": "sonicraft:blocks/southite_checkered",
+    "bottom": "sonicraft:blocks/southite_checkered",
+    "top": "sonicraft:blocks/southite_checkered",
+    "side": "sonicraft:blocks/southite_checkered"
+  }
+}

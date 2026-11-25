@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sonicraft:blocks/press_garden_vines_3",
+    "particle": "sonicraft:blocks/press_garden_vines_3"
+  }
+}

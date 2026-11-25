@@ -1,0 +1,14 @@
+{
+  "source": "SoniCraft 1.20.1",
+  "new_ids": [
+    "egg_crusher_piston_rod",
+    "egg_crusher_shaft_frame",
+    "press_garden_newspaper_printer",
+    "press_garden_newspaper_sonic_printer",
+    "press_garden_newspaper_ruby_printer",
+    "press_garden_compactor_screw",
+    "press_garden_conveyor_belt",
+    "egg_crusher_bulb"
+  ],
+  "machine_behavior": "not ported; decorative original architecture only"
+}

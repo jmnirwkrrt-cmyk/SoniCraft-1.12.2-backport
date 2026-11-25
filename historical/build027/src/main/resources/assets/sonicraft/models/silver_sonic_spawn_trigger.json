@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/nothing",
+    "particle": "sonicraft:blocks/death_egg_arena_floor_bottom"
+  }
+}

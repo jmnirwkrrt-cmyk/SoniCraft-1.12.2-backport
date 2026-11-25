@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/chemical_plant_factory_dark_iron_block_top",
+    "up": "sonicraft:blocks/chemical_plant_factory_dark_iron_block_top",
+    "north": "sonicraft:blocks/chemical_plant_factory_pillar_large_dark_lower_2",
+    "east": "sonicraft:blocks/chemical_plant_factory_pillar_large_dark_lower_1",
+    "south": "sonicraft:blocks/chemical_plant_factory_pillar_large_dark_lower_2",
+    "west": "sonicraft:blocks/chemical_plant_factory_pillar_large_dark_lower_1",
+    "particle": "sonicraft:blocks/chemical_plant_factory_dark_iron_block_top"
+  }
+}

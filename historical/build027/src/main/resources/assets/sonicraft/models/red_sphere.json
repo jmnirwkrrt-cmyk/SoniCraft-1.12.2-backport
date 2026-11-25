@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/blue_sphere",
+  "textures": {
+    "all": "sonicraft:blocks/sphere_red_item",
+    "particle": "sonicraft:blocks/sphere_red_item",
+    "sphere": "sonicraft:blocks/sphere_red"
+  }
+}

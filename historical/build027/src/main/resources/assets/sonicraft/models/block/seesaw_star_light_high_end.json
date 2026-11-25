@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/custom_azalea_bush",
+  "textures": {
+    "all": "sonicraft:blocks/seesaw_star_light_back",
+    "particle": "sonicraft:blocks/seesaw_star_light_particle",
+    "side": "sonicraft:blocks/nothing",
+    "top": "sonicraft:blocks/nothing",
+    "plant": "sonicraft:blocks/nothing"
+  }
+}

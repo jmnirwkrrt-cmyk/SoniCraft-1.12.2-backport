@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "blockstate=0,facing=north": {
+      "model": "sonicraft:camera46"
+    },
+    "blockstate=0,facing=east": {
+      "model": "sonicraft:camera46",
+      "y": 90
+    },
+    "blockstate=0,facing=south": {
+      "model": "sonicraft:camera46",
+      "y": 180
+    },
+    "blockstate=0,facing=west": {
+      "model": "sonicraft:camera46",
+      "y": 270
+    },
+    "blockstate=0,facing=up": {
+      "model": "sonicraft:camera46",
+      "x": 270
+    },
+    "blockstate=0,facing=down": {
+      "model": "sonicraft:camera46",
+      "x": 90
+    },
+    "blockstate=1,facing=north": {
+      "model": "sonicraft:camera46_upside_down"
+    },
+    "blockstate=1,facing=east": {
+      "model": "sonicraft:camera46_upside_down",
+      "y": 90
+    },
+    "blockstate=1,facing=south": {
+      "model": "sonicraft:camera46_upside_down",
+      "y": 180
+    },
+    "blockstate=1,facing=west": {
+      "model": "sonicraft:camera46_upside_down",
+      "y": 270
+    },
+    "blockstate=1,facing=up": {
+      "model": "sonicraft:camera46_upside_down",
+      "x": 270
+    },
+    "blockstate=1,facing=down": {
+      "model": "sonicraft:camera46_upside_down",
+      "x": 90
+    }
+  }
+}

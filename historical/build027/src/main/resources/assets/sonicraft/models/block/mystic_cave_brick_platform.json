@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/mystic_cave_bricks",
+    "up": "sonicraft:blocks/mystic_cave_brick_platform_top",
+    "north": "sonicraft:blocks/mystic_cave_brick_platform_side",
+    "east": "sonicraft:blocks/mystic_cave_brick_platform_side",
+    "south": "sonicraft:blocks/mystic_cave_brick_platform_side",
+    "west": "sonicraft:blocks/mystic_cave_brick_platform_side",
+    "particle": "sonicraft:blocks/mystic_cave_bricks"
+  }
+}

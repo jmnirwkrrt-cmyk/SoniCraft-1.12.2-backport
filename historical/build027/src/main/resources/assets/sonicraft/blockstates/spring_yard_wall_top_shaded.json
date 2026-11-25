@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/spring_yard_wall_top_shaded"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/spring_yard_wall_top_shaded",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/spring_yard_wall_top_shaded",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/spring_yard_wall_top_shaded",
+      "y": 270
+    }
+  }
+}

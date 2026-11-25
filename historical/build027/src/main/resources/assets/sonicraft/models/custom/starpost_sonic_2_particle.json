@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/starpost.item",
+  "textures": {
+    "particle": "sonicraft:blocks/starpost_sonic_2"
+  }
+}

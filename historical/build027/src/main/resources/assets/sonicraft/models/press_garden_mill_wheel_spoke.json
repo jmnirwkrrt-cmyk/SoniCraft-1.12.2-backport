@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/custom_8x8_pole",
+  "textures": {
+    "all": "sonicraft:blocks/press_garden_mill_wheel_spoke",
+    "particle": "sonicraft:blocks/press_garden_mill_wheel_spoke",
+    "0": "sonicraft:blocks/press_garden_mill_wheel_spoke"
+  }
+}

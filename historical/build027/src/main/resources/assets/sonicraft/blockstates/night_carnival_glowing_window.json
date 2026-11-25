@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:night_carnival_glowing_window"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:night_carnival_glowing_window_blockstates_blockstate_0"
+    }
+  }
+}

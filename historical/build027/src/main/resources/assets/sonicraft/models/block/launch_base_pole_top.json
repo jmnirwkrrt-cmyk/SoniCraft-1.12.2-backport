@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/launch_base_tower_top",
+  "textures": {
+    "all": "sonicraft:blocks/launch_base_pillar_top",
+    "particle": "sonicraft:blocks/launch_base_pillar_top",
+    "pole": "sonicraft:blocks/launch_base_pillar",
+    "base": "sonicraft:blocks/launch_base_pillar_top"
+  }
+}

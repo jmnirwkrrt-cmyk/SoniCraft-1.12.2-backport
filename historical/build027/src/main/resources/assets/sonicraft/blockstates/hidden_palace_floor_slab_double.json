@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=single": {
+      "model": "sonicraft:block/hidden_palace_floor_slab_full"
+    },
+    "half=top,variant=single": {
+      "model": "sonicraft:block/hidden_palace_floor_slab_full"
+    }
+  }
+}

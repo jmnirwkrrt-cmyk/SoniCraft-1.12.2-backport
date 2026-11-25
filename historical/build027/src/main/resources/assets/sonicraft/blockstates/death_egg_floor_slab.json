@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom": {
+      "model": "sonicraft:death_egg_floor_slab"
+    },
+    "half=top": {
+      "model": "sonicraft:death_egg_floor_slab_top"
+    }
+  }
+}

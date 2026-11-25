@@ -1,0 +1,9 @@
+{
+  "parent": "block/half_slab",
+  "textures": {
+    "particle": "sonicraft:blocks/ocean_palace_stone",
+    "bottom": "sonicraft:blocks/ocean_palace_stone",
+    "top": "sonicraft:blocks/ocean_palace_slab_painted_top",
+    "side": "sonicraft:blocks/ocean_palace_slab_painted"
+  }
+}

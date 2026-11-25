@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "sonicraft:block/decorative_scrap_brain_iron_block_1"
+      },
+      {
+        "model": "sonicraft:block/decorative_scrap_brain_iron_block_2"
+      },
+      {
+        "model": "sonicraft:block/decorative_scrap_brain_iron_block_3"
+      },
+      {
+        "model": "sonicraft:block/decorative_scrap_brain_iron_block_4"
+      },
+      {
+        "model": "sonicraft:block/decorative_scrap_brain_iron_block_5"
+      },
+      {
+        "model": "sonicraft:block/decorative_scrap_brain_iron_block_6"
+      },
+      {
+        "model": "sonicraft:block/decorative_scrap_brain_iron_block_7"
+      }
+    ]
+  }
+}

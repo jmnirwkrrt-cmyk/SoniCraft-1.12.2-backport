@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "sonicraft:blocks/marble_zone_brick_chiseled_bottom",
+    "bottom": "sonicraft:blocks/marble_zone_brick_chiseled_bottom",
+    "top": "sonicraft:blocks/marble_zone_brick_chiseled_top",
+    "side": "sonicraft:blocks/marble_zone_brick_roof_slab"
+  }
+}

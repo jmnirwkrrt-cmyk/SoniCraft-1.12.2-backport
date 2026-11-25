@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/smoke_emitter_bottom",
+    "up": "sonicraft:blocks/smoke_emitter_top",
+    "north": "sonicraft:blocks/smoke_emitter_side",
+    "east": "sonicraft:blocks/smoke_emitter_side",
+    "south": "sonicraft:blocks/smoke_emitter_side",
+    "west": "sonicraft:blocks/smoke_emitter_side",
+    "particle": "sonicraft:blocks/smoke_emitter_bottom"
+  }
+}

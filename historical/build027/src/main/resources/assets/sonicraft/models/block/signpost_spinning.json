@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/signpost",
+  "textures": {
+    "all": "sonicraft:blocks/signpost_spinning_new",
+    "particle": "sonicraft:blocks/signpost_particle",
+    "sign": "sonicraft:blocks/signpost_spinning"
+  }
+}

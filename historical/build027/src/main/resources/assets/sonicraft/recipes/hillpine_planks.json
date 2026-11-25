@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sonicraft:hillpine_log"
+    }
+  ],
+  "result": {
+    "item": "sonicraft:hillpine_planks",
+    "count": 4
+  }
+}

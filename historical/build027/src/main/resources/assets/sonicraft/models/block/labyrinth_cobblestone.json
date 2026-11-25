@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/labyrinth_cobblestone_2",
+    "up": "sonicraft:blocks/labyrinth_cobblestone_2",
+    "north": "sonicraft:blocks/labyrinth_cobblestone_3",
+    "east": "sonicraft:blocks/labyrinth_cobblestone_1",
+    "south": "sonicraft:blocks/labyrinth_cobblestone_3",
+    "west": "sonicraft:blocks/labyrinth_cobblestone_1",
+    "particle": "sonicraft:blocks/labyrinth_cobblestone_2"
+  }
+}

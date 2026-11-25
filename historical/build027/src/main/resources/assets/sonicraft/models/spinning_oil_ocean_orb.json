@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/oil_ocean_obelisk_tower_orb_spinning",
+  "textures": {
+    "all": "sonicraft:blocks/oil_ocean_obelisk_tower_orb_spinning",
+    "particle": "sonicraft:blocks/oil_ocean_obelisk_tower_orb_spinning_particle",
+    "center": "sonicraft:blocks/oil_ocean_obelisk_tower_orb_spinning_center",
+    "outer": "sonicraft:blocks/oil_ocean_obelisk_tower_orb_spinning_outer"
+  }
+}

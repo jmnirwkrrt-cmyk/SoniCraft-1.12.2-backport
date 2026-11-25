@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:spring_yard_road"
+    }
+  },
+  "result": {
+    "item": "sonicraft:spring_yard_road_stairs",
+    "count": 4
+  }
+}

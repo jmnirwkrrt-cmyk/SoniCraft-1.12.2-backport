@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:casino_night_stone_slab",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:chiseled_casino_night_stone",
+    "count": 4,
+    "data": 0
+  }
+}

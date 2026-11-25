@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,blockstate=0": {
+      "model": "sonicraft:studiopolis_ceiling_light"
+    },
+    "facing=east,blockstate=0": {
+      "model": "sonicraft:studiopolis_ceiling_light",
+      "y": 90
+    },
+    "facing=south,blockstate=0": {
+      "model": "sonicraft:studiopolis_ceiling_light",
+      "y": 180
+    },
+    "facing=west,blockstate=0": {
+      "model": "sonicraft:studiopolis_ceiling_light",
+      "y": 270
+    },
+    "facing=north,blockstate=1": {
+      "model": "sonicraft:studiopolis_ceiling_light_hot_blockstate_0"
+    },
+    "facing=east,blockstate=1": {
+      "model": "sonicraft:studiopolis_ceiling_light_hot_blockstate_0",
+      "y": 90
+    },
+    "facing=south,blockstate=1": {
+      "model": "sonicraft:studiopolis_ceiling_light_hot_blockstate_0",
+      "y": 180
+    },
+    "facing=west,blockstate=1": {
+      "model": "sonicraft:studiopolis_ceiling_light_hot_blockstate_0",
+      "y": 270
+    }
+  }
+}

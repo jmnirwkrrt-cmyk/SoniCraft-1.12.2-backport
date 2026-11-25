@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/studiopolis_popcorn_shop_pillar_chiseled_bottom",
+    "up": "sonicraft:blocks/studiopolis_popcorn_shop_pillar_top",
+    "north": "sonicraft:blocks/studiopolis_popcorn_shop_pillar_chiseled_side",
+    "east": "sonicraft:blocks/studiopolis_popcorn_shop_pillar_chiseled_side",
+    "south": "sonicraft:blocks/studiopolis_popcorn_shop_pillar_chiseled_side",
+    "west": "sonicraft:blocks/studiopolis_popcorn_shop_pillar_chiseled_side",
+    "particle": "sonicraft:blocks/studiopolis_popcorn_shop_pillar_chiseled_bottom"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/chemical_plant_platform_corner",
+  "textures": {
+    "all": "sonicraft:blocks/chemical_plant_platform_corner_particle",
+    "particle": "sonicraft:blocks/chemical_plant_platform_corner_particle",
+    "0": "sonicraft:blocks/chemical_plant_platform_corner"
+  }
+}

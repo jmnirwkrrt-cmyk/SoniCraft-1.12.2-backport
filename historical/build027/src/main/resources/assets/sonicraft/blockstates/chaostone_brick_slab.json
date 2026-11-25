@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:chaostone_brick_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:chaostone_brick_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:chaostone_brick_slab_full"
+    }
+  }
+}

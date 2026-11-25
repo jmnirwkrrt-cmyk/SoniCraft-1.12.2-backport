@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/scrap_brain_iron_dark_chiseled_7",
+    "up": "sonicraft:blocks/scrap_brain_iron_dark_chiseled_6",
+    "north": "sonicraft:blocks/scrap_brain_iron_dark_chiseled_2",
+    "east": "sonicraft:blocks/scrap_brain_iron_dark_chiseled_1",
+    "south": "sonicraft:blocks/scrap_brain_iron_dark_chiseled_5",
+    "west": "sonicraft:blocks/scrap_brain_iron_dark_chiseled_3",
+    "particle": "sonicraft:blocks/scrap_brain_iron_dark_chiseled_7"
+  }
+}

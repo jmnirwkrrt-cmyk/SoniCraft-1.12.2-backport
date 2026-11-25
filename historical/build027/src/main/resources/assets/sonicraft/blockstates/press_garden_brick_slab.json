@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:press_garden_brick_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:press_garden_brick_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:press_garden_brick_slab_full"
+    }
+  }
+}

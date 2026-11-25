@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a ",
+    " b ",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond",
+      "data": 0
+    },
+    "b": {
+      "item": "minecraft:iron_ingot",
+      "data": 0
+    },
+    "c": {
+      "item": "sonicraft:scrap_brain_iron_slab",
+      "data": 0
+    },
+    "d": {
+      "item": "minecraft:redstone",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:scrap_brain_sparking_conduit",
+    "count": 1,
+    "data": 0
+  }
+}

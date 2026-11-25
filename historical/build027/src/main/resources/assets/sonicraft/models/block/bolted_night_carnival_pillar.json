@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/night_carnival_bolted_pillar_top",
+    "up": "sonicraft:blocks/night_carnival_bolted_pillar_top",
+    "north": "sonicraft:blocks/night_carnival_bolted_pillar_side",
+    "east": "sonicraft:blocks/night_carnival_bolted_pillar_side",
+    "south": "sonicraft:blocks/night_carnival_bolted_pillar_side",
+    "west": "sonicraft:blocks/night_carnival_bolted_pillar_side",
+    "particle": "sonicraft:blocks/night_carnival_bolted_pillar_top"
+  }
+}

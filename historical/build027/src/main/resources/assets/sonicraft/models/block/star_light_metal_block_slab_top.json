@@ -1,0 +1,9 @@
+{
+  "parent": "block/upper_slab",
+  "textures": {
+    "particle": "sonicraft:blocks/star_light_road_bottom",
+    "bottom": "sonicraft:blocks/star_light_road_bottom",
+    "top": "sonicraft:blocks/star_light_road_bottom",
+    "side": "sonicraft:blocks/star_light_road_bottom"
+  }
+}

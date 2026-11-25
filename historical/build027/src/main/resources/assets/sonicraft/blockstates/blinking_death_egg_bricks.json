@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:blinking_death_egg_bricks"
+    },
+    "facing=east": {
+      "model": "sonicraft:blinking_death_egg_bricks",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:blinking_death_egg_bricks",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:blinking_death_egg_bricks",
+      "y": 270
+    }
+  }
+}

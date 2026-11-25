@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/formation_signal",
+  "textures": {
+    "all": "sonicraft:blocks/formation_signal_fly",
+    "particle": "sonicraft:blocks/formation_signal_particle",
+    "sign": "sonicraft:blocks/formation_signal_fly",
+    "main": "sonicraft:blocks/formation_signal"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/cpz_blue_tube"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/cpz_blue_tube",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/cpz_blue_tube",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/cpz_blue_tube",
+      "y": 270
+    }
+  }
+}

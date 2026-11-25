@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:blaze_powder",
+      "data": 0
+    },
+    "b": {
+      "item": "minecraft:glass",
+      "data": 0
+    },
+    "c": {
+      "item": "sonicraft:item_box",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:item_box_flame_shield",
+    "count": 1,
+    "data": 0
+  }
+}

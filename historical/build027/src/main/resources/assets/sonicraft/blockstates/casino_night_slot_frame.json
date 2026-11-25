@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:casino_night_slot_frame"
+    },
+    "facing=east": {
+      "model": "sonicraft:casino_night_slot_frame",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:casino_night_slot_frame",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:casino_night_slot_frame",
+      "y": 270
+    }
+  }
+}

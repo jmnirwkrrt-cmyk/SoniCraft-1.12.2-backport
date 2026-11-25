@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "sonicraft:blocks/southite_dark",
+    "particle": "sonicraft:blocks/southite_dark"
+  }
+}

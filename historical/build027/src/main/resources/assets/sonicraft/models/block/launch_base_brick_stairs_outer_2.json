@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/launch_base_bricks_2",
+    "bottom": "sonicraft:blocks/launch_base_bricks_2",
+    "top": "sonicraft:blocks/launch_base_bricks_2",
+    "side": "sonicraft:blocks/launch_base_bricks_2"
+  }
+}

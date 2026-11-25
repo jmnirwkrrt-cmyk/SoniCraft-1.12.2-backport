@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "particle": "sonicraft:blocks/chillyblossom_planks",
+    "texture": "sonicraft:blocks/chillyblossom_planks"
+  }
+}

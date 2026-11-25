@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/segasonic_popcorn_shop_machine.item",
+  "textures": {
+    "particle": "sonicraft:blocks/segasonic_popcorn_shop_machine_particle"
+  }
+}

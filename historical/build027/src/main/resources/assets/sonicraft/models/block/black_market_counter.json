@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/black_market_counter",
+  "textures": {
+    "all": "sonicraft:blocks/black_market_counter_icon",
+    "particle": "sonicraft:blocks/black_market_counter_particle",
+    "1": "sonicraft:blocks/black_market_counter"
+  }
+}

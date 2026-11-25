@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/diagonal_mill_wheel_spoke",
+  "textures": {
+    "all": "sonicraft:blocks/press_garden_mill_wheel_spoke",
+    "particle": "sonicraft:blocks/press_garden_mill_wheel_spoke",
+    "spoke": "sonicraft:blocks/press_garden_mill_wheel_spoke"
+  }
+}

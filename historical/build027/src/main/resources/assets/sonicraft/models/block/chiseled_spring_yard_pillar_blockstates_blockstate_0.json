@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/chiseled_spring_yard_pillar_top",
+  "textures": {
+    "all": "sonicraft:blocks/spring_yard_pillar_chiseled_upper",
+    "particle": "sonicraft:blocks/spring_yard_pillar_chiseled",
+    "side_upper": "sonicraft:blocks/spring_yard_pillar_chiseled_upper",
+    "top": "sonicraft:blocks/spring_yard_pillar_top"
+  }
+}

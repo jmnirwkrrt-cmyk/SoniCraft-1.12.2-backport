@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "sonicraft:blocks/aquatic_ruin_bricks_4",
+    "bottom": "sonicraft:blocks/aquatic_ruin_bricks_4",
+    "top": "sonicraft:blocks/aquatic_ruin_bricks_4",
+    "side": "sonicraft:blocks/aquatic_ruin_bricks_4"
+  }
+}

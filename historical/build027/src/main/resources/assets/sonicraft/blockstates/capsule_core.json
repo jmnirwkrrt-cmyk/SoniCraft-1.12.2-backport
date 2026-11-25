@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:block/capsule_core"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:block/capsule_core_blockstates_blockstate_0"
+    }
+  }
+}

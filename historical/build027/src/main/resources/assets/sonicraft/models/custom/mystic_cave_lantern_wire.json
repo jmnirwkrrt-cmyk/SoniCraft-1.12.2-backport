@@ -1,0 +1,295 @@
+{
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "from": [
+        7,
+        12,
+        15
+      ],
+      "to": [
+        9,
+        16,
+        16
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          7,
+          12,
+          16
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            5,
+            10,
+            4,
+            14
+          ],
+          "texture": "#wire"
+        },
+        "east": {
+          "uv": [
+            5,
+            10,
+            4,
+            14
+          ],
+          "texture": "#wire"
+        },
+        "south": {
+          "uv": [
+            5,
+            10,
+            4,
+            14
+          ],
+          "texture": "#wire"
+        },
+        "west": {
+          "uv": [
+            5,
+            10,
+            4,
+            14
+          ],
+          "texture": "#wire"
+        },
+        "up": {
+          "uv": [
+            4,
+            11,
+            5,
+            10
+          ],
+          "texture": "#wire"
+        },
+        "down": {
+          "uv": [
+            4,
+            14,
+            5,
+            13
+          ],
+          "texture": "#wire"
+        }
+      }
+    },
+    {
+      "from": [
+        8,
+        10,
+        0
+      ],
+      "to": [
+        8,
+        17,
+        16
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          18,
+          4
+        ]
+      },
+      "faces": {
+        "east": {
+          "uv": [
+            0,
+            9,
+            16,
+            16
+          ],
+          "texture": "#wire"
+        },
+        "west": {
+          "uv": [
+            16,
+            9,
+            0,
+            16
+          ],
+          "texture": "#wire"
+        }
+      }
+    },
+    {
+      "from": [
+        7,
+        12,
+        11
+      ],
+      "to": [
+        9,
+        16,
+        12
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          7,
+          12,
+          12
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            5,
+            10,
+            4,
+            14
+          ],
+          "texture": "#wire"
+        },
+        "east": {
+          "uv": [
+            5,
+            10,
+            4,
+            14
+          ],
+          "texture": "#wire"
+        },
+        "south": {
+          "uv": [
+            5,
+            10,
+            4,
+            14
+          ],
+          "texture": "#wire"
+        },
+        "west": {
+          "uv": [
+            5,
+            10,
+            4,
+            14
+          ],
+          "texture": "#wire"
+        },
+        "up": {
+          "uv": [
+            4,
+            11,
+            5,
+            10
+          ],
+          "texture": "#wire"
+        },
+        "down": {
+          "uv": [
+            4,
+            14,
+            5,
+            13
+          ],
+          "texture": "#wire"
+        }
+      }
+    },
+    {
+      "from": [
+        7,
+        12,
+        13
+      ],
+      "to": [
+        9,
+        16,
+        14
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          7,
+          12,
+          14
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            5,
+            10,
+            4,
+            14
+          ],
+          "texture": "#wire"
+        },
+        "east": {
+          "uv": [
+            5,
+            10,
+            4,
+            14
+          ],
+          "texture": "#wire"
+        },
+        "south": {
+          "uv": [
+            5,
+            10,
+            4,
+            14
+          ],
+          "texture": "#wire"
+        },
+        "west": {
+          "uv": [
+            5,
+            10,
+            4,
+            14
+          ],
+          "texture": "#wire"
+        },
+        "up": {
+          "uv": [
+            4,
+            11,
+            5,
+            10
+          ],
+          "texture": "#wire"
+        },
+        "down": {
+          "uv": [
+            4,
+            14,
+            5,
+            13
+          ],
+          "texture": "#wire"
+        }
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "wire",
+      "origin": [
+        7,
+        12,
+        -14
+      ],
+      "color": 0,
+      "children": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "textures": {}
+}

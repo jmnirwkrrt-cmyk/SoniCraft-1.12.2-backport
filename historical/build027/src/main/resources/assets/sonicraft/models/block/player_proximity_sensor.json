@@ -1,0 +1,11 @@
+{
+  "parent": "sonicraft:custom/player_proximity_sensor",
+  "textures": {
+    "all": "sonicraft:blocks/player_proximity_sensor_light_off",
+    "particle": "sonicraft:blocks/player_proximity_sensor_bottom",
+    "top": "sonicraft:blocks/player_proximity_sensor_top",
+    "light": "sonicraft:blocks/player_proximity_sensor_light_off",
+    "bottom": "sonicraft:blocks/player_proximity_sensor_bottom",
+    "torch": "sonicraft:blocks/player_proximity_sensor_torch_off"
+  }
+}

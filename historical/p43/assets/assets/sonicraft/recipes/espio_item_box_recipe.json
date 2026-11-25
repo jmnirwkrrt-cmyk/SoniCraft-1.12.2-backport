@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sonicraft:item_box"
+    },
+    {
+      "item": "sonicraft:red_star_ring"
+    },
+    {
+      "item": "minecraft:arrow"
+    }
+  ],
+  "result": {
+    "item": "sonicraft:item_box_espio",
+    "count": 1
+  }
+}

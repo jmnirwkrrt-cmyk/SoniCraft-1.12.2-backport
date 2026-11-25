@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:custom/mirage_saloon_piano_book_particle"
+    },
+    "facing=east": {
+      "model": "sonicraft:custom/mirage_saloon_piano_book_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:custom/mirage_saloon_piano_book_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:custom/mirage_saloon_piano_book_particle",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "sonicraft:block/player_proximity_sensor_on"
+    },
+    "powered=true": {
+      "model": "sonicraft:block/player_proximity_sensor_on"
+    }
+  }
+}

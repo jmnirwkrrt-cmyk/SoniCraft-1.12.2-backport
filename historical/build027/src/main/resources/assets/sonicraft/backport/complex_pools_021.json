@@ -1,0 +1,348 @@
+{
+  "roots": {
+    "casino": "casino_night_city_center",
+    "spring": "spring_yard_city",
+    "chemical": "chemical_plant_city",
+    "tailslab": "tails_lab",
+    "labyrinth": "labyrinth_zone_spawner",
+    "hydrocity": "hydrocity_1_spawner",
+    "hidden": "hidden_palace_spawner"
+  },
+  "pools": [
+    {
+      "id": "sonicraft:casino_night_city",
+      "entries": [
+        {
+          "id": "casino_night_city_center",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:casino_night_city_bottom",
+      "entries": [
+        {
+          "id": "casino_night_city_center_bottom",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:casino_night_city_buildings",
+      "entries": [
+        {
+          "id": "casino_night_slot_machine",
+          "weight": 1
+        },
+        {
+          "id": "casino_night_city_building_1",
+          "weight": 1
+        },
+        {
+          "id": "casino_night_city_building_2",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:casino_night_city_road",
+      "entries": [
+        {
+          "id": "casino_night_city_road_1",
+          "weight": 9
+        },
+        {
+          "id": "casino_night_city_road_2",
+          "weight": 9
+        },
+        {
+          "id": "casino_night_city_road_3",
+          "weight": 9
+        },
+        {
+          "id": "casino_night_city_road_turn",
+          "weight": 10
+        },
+        {
+          "id": "casino_night_city_crossroad",
+          "weight": 6
+        },
+        {
+          "id": "casino_night_city_road_buildings",
+          "weight": 8
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:chemical_plant_city",
+      "entries": [
+        {
+          "id": "chemical_plant_city",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:chemical_plant_city_bottom",
+      "entries": [
+        {
+          "id": "chemical_plant_city_bottom",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:chemical_plant_city_building",
+      "entries": [
+        {
+          "id": "mean_bean_machine",
+          "weight": 12
+        },
+        {
+          "id": "chemical_plant_building_1",
+          "weight": 15
+        },
+        {
+          "id": "chemical_plant_building_2",
+          "weight": 15
+        },
+        {
+          "id": "chemical_plant_building_3",
+          "weight": 15
+        },
+        {
+          "id": "chemical_plant_city_metal_sonic_arena",
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:chemical_plant_city_building_1_extension",
+      "entries": [
+        {
+          "id": "chemical_plant_building_1_extension",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:chemical_plant_city_road",
+      "entries": [
+        {
+          "id": "chemical_plant_city_path_1",
+          "weight": 22
+        },
+        {
+          "id": "chemical_plant_city_path_2",
+          "weight": 22
+        },
+        {
+          "id": "chemical_plant_city_path_3",
+          "weight": 22
+        },
+        {
+          "id": "chemical_plant_city_path_4",
+          "weight": 22
+        },
+        {
+          "id": "chemical_plant_city_road_1",
+          "weight": 18
+        },
+        {
+          "id": "chemical_plant_city_road_buildings",
+          "weight": 20
+        },
+        {
+          "id": "chemical_plant_city_road_corner",
+          "weight": 18
+        },
+        {
+          "id": "chemical_plant_city_road_crossroad",
+          "weight": 19
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:chemical_plant_city_road_straight",
+      "entries": [
+        {
+          "id": "chemical_plant_city_road_straight",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:hidden_palace",
+      "entries": [
+        {
+          "id": "hidden_palace_spawner",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:hidden_palace_dungeon",
+      "entries": [
+        {
+          "id": "hidden_palace",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:hydrocity_1",
+      "entries": [
+        {
+          "id": "hydrocity_1_spawner",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:hydrocity_1_dungeon",
+      "entries": [
+        {
+          "id": "hydrocity_1",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:labyrinth_zone",
+      "entries": [
+        {
+          "id": "labyrinth_zone_spawner",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:labyrinth_zone_dungeon",
+      "entries": [
+        {
+          "id": "labyrinth_zone_center",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:labyrinth_zone_path",
+      "entries": [
+        {
+          "id": "labyrinth_zone_path_1",
+          "weight": 9
+        },
+        {
+          "id": "labyrinth_zone_path_2",
+          "weight": 9
+        },
+        {
+          "id": "labyrinth_zone_path_3",
+          "weight": 9
+        },
+        {
+          "id": "labyrinth_zone_path_4",
+          "weight": 9
+        },
+        {
+          "id": "labyrinth_zone_path_crossroad_1",
+          "weight": 5
+        },
+        {
+          "id": "labyrinth_zone_path_crossroad_2",
+          "weight": 5
+        },
+        {
+          "id": "labyrinth_zone_path_corner_1",
+          "weight": 5
+        },
+        {
+          "id": "labyrinth_zone_path_corner_2",
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:labyrinth_zone_path_start",
+      "entries": [
+        {
+          "id": "labyrinth_zone_path_start_1",
+          "weight": 1
+        },
+        {
+          "id": "labyrinth_zone_path_start_2",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:spring_yard_city",
+      "entries": [
+        {
+          "id": "spring_yard_city",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:spring_yard_city_bottom",
+      "entries": [
+        {
+          "id": "spring_yard_city_bottom",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:spring_yard_city_road",
+      "entries": [
+        {
+          "id": "spring_yard_road_1",
+          "weight": 20
+        },
+        {
+          "id": "spring_yard_road_2",
+          "weight": 20
+        },
+        {
+          "id": "spring_yard_road_3",
+          "weight": 20
+        },
+        {
+          "id": "spring_yard_road_4",
+          "weight": 20
+        },
+        {
+          "id": "spring_yard_road_5",
+          "weight": 20
+        },
+        {
+          "id": "spring_yard_road_corner_1",
+          "weight": 22
+        },
+        {
+          "id": "spring_yard_road_crossroad_1",
+          "weight": 23
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:tails_lab",
+      "entries": [
+        {
+          "id": "tails_lab",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "sonicraft:tails_lab_runway",
+      "entries": [
+        {
+          "id": "tails_lab_runway",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

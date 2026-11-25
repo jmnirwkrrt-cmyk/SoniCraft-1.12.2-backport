@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=single": {
+      "model": "sonicraft:block/chao_garden_stone_slab"
+    },
+    "half=top,variant=single": {
+      "model": "sonicraft:block/chao_garden_stone_slab_top"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/oil_ocean_pillar_top_yellow",
+    "up": "sonicraft:blocks/oil_ocean_pillar_top",
+    "north": "sonicraft:blocks/oil_ocean_pillar_mixed_inverted_side",
+    "east": "sonicraft:blocks/oil_ocean_pillar_mixed_inverted_side",
+    "south": "sonicraft:blocks/oil_ocean_pillar_mixed_inverted_side",
+    "west": "sonicraft:blocks/oil_ocean_pillar_mixed_inverted_side",
+    "particle": "sonicraft:blocks/oil_ocean_pillar_top_yellow"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:studiopolis_clapperboard_spring"
+    },
+    "facing=east": {
+      "model": "sonicraft:studiopolis_clapperboard_spring",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:studiopolis_clapperboard_spring",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:studiopolis_clapperboard_spring",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "rolls": {"min": 3, "max": 6},
+      "entries": [
+        {"type":"item","name":"sonicraft:gold_ring","weight":24,"functions":[{"function":"set_count","count":{"min":4,"max":12}}]},
+        {"type":"item","name":"sonicraft:chili_dog","weight":14,"functions":[{"function":"set_count","count":{"min":2,"max":6}}]},
+        {"type":"item","name":"sonicraft:grapes","weight":9,"functions":[{"function":"set_count","count":{"min":3,"max":8}}]},
+        {"type":"item","name":"sonicraft:mint_candy","weight":6,"functions":[{"function":"set_count","count":{"min":3,"max":6}}]},
+        {"type":"item","name":"sonicraft:bubblegum","weight":5,"functions":[{"function":"set_count","count":{"min":3,"max":6}}]},
+        {"type":"item","name":"sonicraft:piko_piko_hammer","weight":2},
+        {"type":"item","name":"sonicraft:special_stage_key","weight":2},
+        {"type":"item","name":"minecraft:iron_ingot","weight":14,"functions":[{"function":"set_count","count":{"min":2,"max":6}}]},
+        {"type":"item","name":"minecraft:redstone","weight":12,"functions":[{"function":"set_count","count":{"min":1,"max":7}}]},
+        {"type":"item","name":"minecraft:gold_ingot","weight":10,"functions":[{"function":"set_count","count":{"min":2,"max":4}}]},
+        {"type":"item","name":"minecraft:iron_nugget","weight":5,"functions":[{"function":"set_count","count":{"min":1,"max":9}}]}
+      ]
+    }
+  ]
+}

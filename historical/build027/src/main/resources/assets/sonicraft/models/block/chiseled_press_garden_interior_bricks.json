@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/press_garden_factory_bricks_gray_chiseled_top",
+    "up": "sonicraft:blocks/press_garden_factory_bricks_gray_chiseled_top",
+    "north": "sonicraft:blocks/press_garden_factory_bricks_gray_chiseled",
+    "east": "sonicraft:blocks/press_garden_factory_bricks_gray_chiseled",
+    "south": "sonicraft:blocks/press_garden_factory_bricks_gray_chiseled",
+    "west": "sonicraft:blocks/press_garden_factory_bricks_gray_chiseled",
+    "particle": "sonicraft:blocks/press_garden_factory_bricks_gray_chiseled_top"
+  }
+}

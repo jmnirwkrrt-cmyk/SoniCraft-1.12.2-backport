@@ -1,0 +1,2 @@
+package org.sonicraft.backport;import java.nio.file.*;import net.minecraft.block.Block;
+public class Test {public static void main(String[] args)throws Exception {int n=0;for(String line:Files.readAllLines(Paths.get(args[0]))){String[] fields=line.split(" ");Content.BlockDef d=new Content.BlockDef();d.id=fields[0];d.material="rock";Block b=new Block();BulkBlocks.configure(b,d);if(b.light!=Integer.parseInt(fields[1]))throw new AssertionError(line+" actual="+b.light);n++;}System.out.println("PASS: "+n+" light cases in extracted P33 configure bytecode");}}

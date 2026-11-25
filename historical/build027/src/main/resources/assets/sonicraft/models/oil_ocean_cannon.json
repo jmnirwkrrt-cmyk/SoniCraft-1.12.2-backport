@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/oil_ocean_cannon",
+  "textures": {
+    "all": "sonicraft:blocks/oil_ocean_cannon_icon",
+    "particle": "sonicraft:blocks/oil_ocean_cannon_particle",
+    "0": "sonicraft:blocks/oil_ocean_cannon"
+  }
+}

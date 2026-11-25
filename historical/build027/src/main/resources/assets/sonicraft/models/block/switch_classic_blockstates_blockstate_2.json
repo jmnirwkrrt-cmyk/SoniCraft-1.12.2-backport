@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/switch_classic_used",
+  "textures": {
+    "all": "sonicraft:blocks/switch_classic_side",
+    "particle": "sonicraft:blocks/switch_classic_side",
+    "side": "sonicraft:blocks/switch_classic_side",
+    "top": "sonicraft:blocks/switch_classic_top"
+  }
+}

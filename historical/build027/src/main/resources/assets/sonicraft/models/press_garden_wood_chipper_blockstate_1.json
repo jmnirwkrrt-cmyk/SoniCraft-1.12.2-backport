@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:custom/press_garden_wood_chipper_particle",
+  "textures": {
+    "particle": "sonicraft:blocks/segasonic_popcorn_shop_machine_particle"
+  }
+}

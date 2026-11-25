@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/chiseled_hidden_palace_bricks",
+    "particle": "sonicraft:blocks/chiseled_hidden_palace_bricks"
+  }
+}

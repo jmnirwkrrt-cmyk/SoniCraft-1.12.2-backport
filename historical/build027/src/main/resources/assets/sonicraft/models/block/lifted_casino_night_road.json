@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/casino_night_road_lifted",
+  "textures": {
+    "all": "sonicraft:blocks/casino_night_road_lifted_side",
+    "particle": "sonicraft:blocks/casino_night_road_lifted_side",
+    "side": "sonicraft:blocks/casino_night_road_lifted_side",
+    "top": "sonicraft:blocks/casino_night_road_top",
+    "bottom": "sonicraft:blocks/casino_night_stone_top"
+  }
+}

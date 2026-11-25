@@ -1,0 +1,87 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.burrobot",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "body",
+					"parent": "root",
+					"pivot": [0, 3, 0],
+					"cubes": [
+						{"origin": [-2, 1, -2], "size": [4, 8, 4], "uv": [28, 31]},
+						{"origin": [-5, 1.5, -1.5], "size": [10, 3, 3], "uv": [20, 0]},
+						{"origin": [-4, 6, -3], "size": [8, 8, 6], "uv": [26, 12]}
+					]
+				},
+				{
+					"name": "right_tread",
+					"parent": "body",
+					"pivot": [0, 3, -1],
+					"cubes": [
+						{"origin": [-6.5, 0, -6], "size": [4, 6, 12], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "left_tread",
+					"parent": "body",
+					"pivot": [0, 3, -1],
+					"cubes": [
+						{"origin": [2.5, 0, -6], "size": [4, 6, 12], "uv": [0, 0], "mirror": true}
+					]
+				},
+				{
+					"name": "head",
+					"parent": "body",
+					"pivot": [0, 14, 0],
+					"cubes": [
+						{"origin": [-4, 14, -4], "size": [8, 9, 8], "uv": [0, 18]},
+						{"origin": [-4, 21, -7], "size": [8, 0, 3], "uv": [17, 6]}
+					]
+				},
+				{
+					"name": "nose",
+					"parent": "head",
+					"pivot": [0, 16.05, -4.25],
+					"cubes": [
+						{"origin": [-2, 14.05, -5.25], "size": [4, 4, 2], "uv": [0, 0]},
+						{"origin": [-1.5, 14.55, -6.5], "size": [3, 3, 2], "uv": [0, 6]},
+						{"origin": [-1, 15.05, -7.75], "size": [2, 2, 2], "uv": [32, 26]},
+						{"origin": [-0.5, 15.55, -9], "size": [1, 1, 2], "uv": [20, 9]}
+					]
+				},
+				{
+					"name": "right_arm",
+					"parent": "body",
+					"pivot": [-4, 13, 0],
+					"rotation": [-47.5, 0, 0],
+					"cubes": [
+						{"origin": [-7, 11, -2], "size": [3, 4, 4], "uv": [0, 35]},
+						{"origin": [-6.5, 5, -1], "size": [2, 6, 2], "uv": [0, 18]}
+					]
+				},
+				{
+					"name": "left_arm",
+					"parent": "body",
+					"pivot": [4, 13, 0],
+					"rotation": [-47.5, 0, 0],
+					"cubes": [
+						{"origin": [4, 11, -2], "size": [3, 4, 4], "uv": [0, 35], "mirror": true},
+						{"origin": [4.5, 5, -1], "size": [2, 6, 2], "uv": [0, 18], "mirror": true}
+					]
+				}
+			]
+		}
+	]
+}

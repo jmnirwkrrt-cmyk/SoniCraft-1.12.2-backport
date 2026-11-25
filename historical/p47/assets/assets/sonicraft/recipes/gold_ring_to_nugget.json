@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:gold_ring",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "minecraft:gold_nugget",
+    "count": 1,
+    "data": 0
+  }
+}

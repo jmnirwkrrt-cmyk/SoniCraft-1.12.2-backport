@@ -1,0 +1,11 @@
+{
+  "parent": "sonicraft:custom/chemical_plant_trapdoor_spring_used",
+  "textures": {
+    "all": "sonicraft:blocks/chemical_plant_trapdoor_spring_icon",
+    "particle": "sonicraft:blocks/chemical_plant_trapdoor_spring_base_top",
+    "spring": "sonicraft:blocks/chemical_plant_trapdoor_spring",
+    "top": "sonicraft:blocks/chemical_plant_trapdoor_spring_top",
+    "base_bottom": "sonicraft:blocks/chemical_plant_trapdoor_spring_base_bottom",
+    "base_top": "sonicraft:blocks/chemical_plant_trapdoor_spring_base_top"
+  }
+}

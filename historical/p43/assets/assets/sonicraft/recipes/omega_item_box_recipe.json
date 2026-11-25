@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sonicraft:item_box"
+    },
+    {
+      "item": "sonicraft:red_star_ring"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    },
+    {
+      "item": "minecraft:iron_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "sonicraft:badnik_scrap"
+    }
+  ],
+  "result": {
+    "item": "sonicraft:item_box_omega",
+    "count": 1
+  }
+}

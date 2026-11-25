@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/arrowed_ocean_palace_stone"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/arrowed_ocean_palace_stone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/arrowed_ocean_palace_stone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/arrowed_ocean_palace_stone",
+      "y": 270
+    }
+  }
+}

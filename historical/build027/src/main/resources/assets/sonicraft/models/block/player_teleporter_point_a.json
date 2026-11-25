@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/custom_azalea_bush",
+  "textures": {
+    "all": "sonicraft:blocks/player_teleporter_a",
+    "particle": "sonicraft:blocks/player_teleporter_a",
+    "side": "sonicraft:blocks/nothing",
+    "top": "sonicraft:blocks/nothing",
+    "plant": "sonicraft:blocks/nothing"
+  }
+}

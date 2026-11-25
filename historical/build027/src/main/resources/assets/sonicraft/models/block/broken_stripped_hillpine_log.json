@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/broken_log",
+  "textures": {
+    "all": "sonicraft:blocks/hillpine_log_side_stripped_broken",
+    "particle": "sonicraft:blocks/hillpine_log_top_stripped",
+    "side": "sonicraft:blocks/hillpine_log_side_stripped_broken",
+    "top": "sonicraft:blocks/hillpine_log_top_stripped"
+  }
+}

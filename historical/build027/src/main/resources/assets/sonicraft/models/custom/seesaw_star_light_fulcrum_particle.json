@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/seesaw.item",
+  "textures": {
+    "particle": "sonicraft:blocks/seesaw_star_light_particle"
+  }
+}

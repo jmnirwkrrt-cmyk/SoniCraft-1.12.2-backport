@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/studiopolis_cable_side",
+    "bottom": "sonicraft:blocks/studiopolis_cable_side",
+    "top": "sonicraft:blocks/studiopolis_cable_side",
+    "side": "sonicraft:blocks/studiopolis_cable_side"
+  }
+}

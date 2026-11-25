@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:block/blue_spring_yard_pillar"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:block/blue_spring_yard_pillar_blockstates_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "sonicraft:block/blue_spring_yard_pillar_blockstates_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "sonicraft:block/blue_spring_yard_pillar_blockstates_blockstate_2"
+    }
+  }
+}

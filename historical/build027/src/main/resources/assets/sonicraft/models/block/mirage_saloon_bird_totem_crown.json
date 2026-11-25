@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/mirage_saloon_bird_totem_crown",
+  "textures": {
+    "all": "sonicraft:blocks/mirage_saloon_bird_totem_crown_side",
+    "particle": "sonicraft:blocks/mirage_saloon_bird_totem_crown_bottom",
+    "side": "sonicraft:blocks/mirage_saloon_bird_totem_crown_side",
+    "top": "sonicraft:blocks/mirage_saloon_bird_totem_crown_top",
+    "bottom": "sonicraft:blocks/mirage_saloon_bird_totem_crown_bottom"
+  }
+}

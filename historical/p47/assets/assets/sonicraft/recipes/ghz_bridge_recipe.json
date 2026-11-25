@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:green_hill_palm_log",
+      "data": 0
+    },
+    "b": {
+      "item": "minecraft:string",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:ghz_bridge",
+    "count": 6,
+    "data": 0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "SoniCraft original 1.20.1",
+  "new_ids": [
+    "ice_cap_trampoline",
+    "bumper_sonic_3",
+    "studiopolis_spring_catapult",
+    "cpz_factory_conveyor_belt",
+    "dash_ring",
+    "sandopolis_quicksand",
+    "launch_base_blockade_trapdoor"
+  ],
+  "adaptations": {
+    "ice_cap_trampoline": "upward bounce",
+    "bumper_sonic_3": "horizontal radial bounce and 1.12 blockstate cooldown",
+    "studiopolis_spring_catapult": "upward forward launch and cooldown",
+    "cpz_factory_conveyor_belt": "directional horizontal transport; two source texture states",
+    "dash_ring": "directional acceleration with per-entity cooldown",
+    "sandopolis_quicksand": "entity sinking and movement drag",
+    "launch_base_blockade_trapdoor": "1.12 redstone trapdoor adapter (source locking logic deferred)"
+  },
+  "limitations": [
+    "source physics not yet replicated exactly",
+    "no particles, sound or boss event behavior"
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "sonicraft",
+    "name": "SoniCraft Legacy",
+    "version": "0.1.21",
+    "mcversion": "1.12.2",
+    "description": "Experimental Forge 1.12.2 port: original SoniCraft geometry, characters, 33 badniks, 1314 blocks, 361 original NBT files, and operator-controlled Casino Night/Spring Yard jigsaw previews. Mechanics and game launch not yet verified. Requires GeckoLib.",
+    "authorList": [
+      "Original SoniCraft: EnderPreston",
+      "Adaptation: OpenAI Codex"
+    ],
+    "requiredMods": [
+      "geckolib3"
+    ]
+  }
+]

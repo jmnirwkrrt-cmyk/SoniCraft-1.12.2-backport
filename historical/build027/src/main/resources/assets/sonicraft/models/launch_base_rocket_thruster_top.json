@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/launch_base_rocket_thruster_top",
+    "bottom": "sonicraft:blocks/launch_base_rocket_thruster_top",
+    "top": "sonicraft:blocks/launch_base_rocket_thruster_top",
+    "side": "sonicraft:blocks/launch_base_rocket_thruster_top"
+  }
+}

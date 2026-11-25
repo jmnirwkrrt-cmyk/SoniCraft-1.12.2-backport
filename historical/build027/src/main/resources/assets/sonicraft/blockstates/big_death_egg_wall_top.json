@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:big_death_egg_wall_top"
+    },
+    "facing=east": {
+      "model": "sonicraft:big_death_egg_wall_top",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:big_death_egg_wall_top",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:big_death_egg_wall_top",
+      "y": 270
+    }
+  }
+}

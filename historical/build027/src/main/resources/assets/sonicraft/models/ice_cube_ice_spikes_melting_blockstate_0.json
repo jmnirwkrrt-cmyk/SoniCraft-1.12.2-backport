@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/press_garden_ice_cube_spikes",
+  "textures": {
+    "all": "sonicraft:blocks/press_garden_ice_block_melting",
+    "particle": "sonicraft:blocks/nothing",
+    "1": "sonicraft:blocks/press_garden_ice_block_melting",
+    "spikes": "sonicraft:blocks/spikes_ice"
+  }
+}

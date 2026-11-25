@@ -1,0 +1,11 @@
+{
+  "parent": "sonicraft:custom/marble_pillar_broken_lower",
+  "textures": {
+    "all": "sonicraft:blocks/marble_zone_pillar_broken_side_lower",
+    "particle": "sonicraft:blocks/marble_zone_square_pillar_top",
+    "broken_top": "sonicraft:blocks/marble_zone_pillar_broken",
+    "broken_side": "sonicraft:blocks/marble_zone_pillar_broken_side",
+    "top": "sonicraft:blocks/marble_zone_square_pillar_top",
+    "side_lower": "sonicraft:blocks/marble_zone_pillar_lower"
+  }
+}

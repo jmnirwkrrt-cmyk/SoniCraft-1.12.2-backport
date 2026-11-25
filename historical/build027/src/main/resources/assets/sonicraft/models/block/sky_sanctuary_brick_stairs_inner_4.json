@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/sky_sanctuary_bricks_4",
+    "bottom": "sonicraft:blocks/sky_sanctuary_bricks_4",
+    "top": "sonicraft:blocks/sky_sanctuary_bricks_4",
+    "side": "sonicraft:blocks/sky_sanctuary_bricks_4"
+  }
+}

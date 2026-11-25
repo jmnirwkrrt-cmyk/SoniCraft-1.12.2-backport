@@ -1,0 +1,689 @@
+{
+  "mob.sonicidle": {
+    "sounds": [
+      {
+        "name": "sonicraft:sonic.idle1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:sonic.idle2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:sonic.idle3",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:sonic.idle4",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:sonic.idle5",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:sonic.idle6",
+        "stream": false
+      }
+    ]
+  },
+  "mob.sonichurt": {
+    "sounds": [
+      {
+        "name": "sonicraft:sonic.hurt1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:sonic.hurt2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:sonic.hurt3",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:sonic.hurt4",
+        "stream": false
+      }
+    ]
+  },
+  "mob.sonicdie": {
+    "sounds": [
+      {
+        "name": "sonicraft:sonic.die1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:sonic.die2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:sonic.die3",
+        "stream": false
+      }
+    ]
+  },
+  "mob.tailsidle": {
+    "sounds": [
+      {
+        "name": "sonicraft:entity.tails.idle1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.tails.idle2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.tails.idle3",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.tails.idle4",
+        "stream": false
+      }
+    ]
+  },
+  "mob.tailshurt": {
+    "sounds": [
+      {
+        "name": "sonicraft:entity.tails.hurt",
+        "stream": false
+      }
+    ]
+  },
+  "mob.tailsdie": {
+    "sounds": [
+      {
+        "name": "sonicraft:entity.tails.die",
+        "stream": false
+      }
+    ]
+  },
+  "mob.knucklesidle": {
+    "sounds": [
+      {
+        "name": "sonicraft:entity.knuckles.idle1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.knuckles.idle2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.knuckles.idle3",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.knuckles.idle4",
+        "stream": false
+      }
+    ]
+  },
+  "mob.knuckleshurt": {
+    "subtitle": "subtitles.mob.knuckleshurt",
+    "sounds": [
+      {
+        "name": "sonicraft:entity.knuckles.hurt",
+        "stream": false
+      }
+    ]
+  },
+  "mob.knucklesdie": {
+    "subtitle": "subtitles.mob.knucklesdie",
+    "sounds": [
+      {
+        "name": "sonicraft:entity.knuckles.die",
+        "stream": false
+      }
+    ]
+  },
+  "mob.amyidle": {
+    "sounds": [
+      {
+        "name": "sonicraft:entity.amy.idle1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.amy.idle2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.amy.idle3",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.amy.idle4",
+        "stream": false
+      }
+    ]
+  },
+  "mob.amyhurt": {
+    "sounds": [
+      {
+        "name": "sonicraft:entity.amy.hurt",
+        "stream": false
+      }
+    ]
+  },
+  "mob.amydie": {
+    "sounds": [
+      {
+        "name": "sonicraft:entity.amy.die",
+        "stream": false
+      }
+    ]
+  },
+  "mob.rougeidle": {
+    "sounds": [
+      {
+        "name": "sonicraft:entity.rouge.idle1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.rouge.idle2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.rouge.idle3",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.rouge.idle4",
+        "stream": false
+      }
+    ]
+  },
+  "mob.rougehurt": {
+    "sounds": [
+      {
+        "name": "sonicraft:entity.rouge.hurt1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.rouge.hurt2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.rouge.hurt3",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.rouge.hurt4",
+        "stream": false
+      }
+    ]
+  },
+  "mob.rougedie": {
+    "sounds": [
+      {
+        "name": "sonicraft:entity.rouge.die",
+        "stream": false
+      }
+    ]
+  },
+  "mob.shadowidle": {
+    "sounds": [
+      {
+        "name": "sonicraft:entity.shadow.idle1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.shadow.idle2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.shadow.idle3",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.shadow.idle4",
+        "stream": false
+      }
+    ]
+  },
+  "mob.shadowhurt": {
+    "sounds": [
+      {
+        "name": "sonicraft:entity.shadow.hurt",
+        "stream": false
+      }
+    ]
+  },
+  "mob.shadowdie": {
+    "sounds": [
+      {
+        "name": "sonicraft:entity.shadow.die",
+        "stream": false
+      }
+    ]
+  },
+  "mob.silveridle": {
+    "sounds": [
+      {
+        "name": "sonicraft:silver.idle1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:silver.idle2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:silver.idle3",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:silver.idle4",
+        "stream": false
+      }
+    ]
+  },
+  "mob.silverhurt": {
+    "sounds": [
+      {
+        "name": "sonicraft:silver.hurt1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:silver.hurt2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:silver.hurt3",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:silver.hurt4",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:silver.hurt5",
+        "stream": false
+      }
+    ]
+  },
+  "mob.silverdie": {
+    "sounds": [
+      {
+        "name": "sonicraft:silver.death",
+        "stream": false
+      }
+    ]
+  },
+  "mob.bighurt": {
+    "sounds": [
+      {
+        "name": "sonicraft:big.hurt1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:big.hurt2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:big.hurt3",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:big.hurt4",
+        "stream": false
+      }
+    ]
+  },
+  "mob.bigdie": {
+    "sounds": [
+      {
+        "name": "sonicraft:big.death",
+        "stream": false
+      }
+    ]
+  },
+  "mob.vectoridle": {
+    "sounds": [
+      {
+        "name": "sonicraft:vector.idle1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:vector.idle2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:vector.idle3",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:vector.idle4",
+        "stream": false
+      }
+    ]
+  },
+  "mob.vectorhurt": {
+    "sounds": [
+      {
+        "name": "sonicraft:vector.hurt1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:vector.hurt2",
+        "stream": false
+      }
+    ]
+  },
+  "mob.vectordie": {
+    "sounds": [
+      {
+        "name": "sonicraft:vector.die",
+        "stream": false
+      }
+    ]
+  },
+  "mob.metalsonicidle": {
+    "sounds": [
+      {
+        "name": "sonicraft:entity.metalsonic.idle1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.metalsonic.idle2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.metalsonic.idle3",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:entity.metalsonic.idle4",
+        "stream": false
+      }
+    ]
+  },
+  "badnik.hurt": {
+    "sounds": [
+      {
+        "name": "sonicraft:badnik.hurt",
+        "stream": false
+      }
+    ]
+  },
+  "mob.metalsonicdie": {
+    "sounds": [
+      {
+        "name": "sonicraft:entity.metalsonic.die",
+        "stream": false
+      }
+    ]
+  },
+  "mob.infiniteidle": {
+    "sounds": [
+      {
+        "name": "sonicraft:infinite.idle1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:infinite.idle2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:infinite.idle3",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:infinite.idle4",
+        "stream": false
+      }
+    ]
+  },
+  "mob.infinitehurt": {
+    "sounds": [
+      {
+        "name": "sonicraft:infinite.hurt",
+        "stream": false
+      }
+    ]
+  },
+  "ring.collect": {
+    "subtitle": "subtitles.ring.collect",
+    "sounds": [
+      {
+        "name": "sonicraft:ring",
+        "stream": false
+      }
+    ]
+  },
+  "ring.place": {
+    "sounds": [
+      {
+        "name": "sonicraft:ring.place1",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:ring.place2",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:ring.place3",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:ring.place4",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:ring.place5",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:ring.place6",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:ring.place7",
+        "stream": false
+      },
+      {
+        "name": "sonicraft:ring.place8",
+        "stream": false
+      }
+    ]
+  },
+  "pikopikohammer.attack": {
+    "sounds": [
+      {
+        "name": "sonicraft:pikopikohammer",
+        "stream": false
+      }
+    ]
+  },
+  "greenhill.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:green_hill",
+        "stream": true
+      }
+    ]
+  },
+  "emeraldhill.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:emerald_hill",
+        "stream": true
+      }
+    ]
+  },
+  "hill_top.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:hill_top",
+        "stream": true
+      }
+    ]
+  },
+  "marble.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:marble_zone",
+        "stream": true
+      }
+    ]
+  },
+  "aquaticruin.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:aquatic_ruin",
+        "stream": true
+      }
+    ]
+  },
+  "seaside_hill.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:seaside_hill",
+        "stream": true
+      }
+    ]
+  },
+  "angel_island.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:angel_island",
+        "stream": true
+      }
+    ]
+  },
+  "ice_cap.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:ice_cap",
+        "stream": true
+      }
+    ]
+  },
+  "mushroom_hill.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:mushroom_hill",
+        "stream": true
+      }
+    ]
+  },
+  "sandopolis.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:sandopolis",
+        "stream": true
+      }
+    ]
+  },
+  "mirage_saloon.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:mirage_saloon",
+        "stream": true
+      }
+    ]
+  },
+  "pressgarden.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:press_garden",
+        "stream": true
+      }
+    ]
+  },
+  "springyard.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:spring_yard",
+        "stream": true
+      }
+    ]
+  },
+  "starlight.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:star_light",
+        "stream": true
+      }
+    ]
+  },
+  "scrapbrain.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:scrap_brain",
+        "stream": true
+      }
+    ]
+  },
+  "chemicalplant.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:chemical_plant",
+        "stream": true
+      }
+    ]
+  },
+  "casinonight.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:casino_night",
+        "stream": true
+      }
+    ]
+  },
+  "oil_ocean.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:oil_ocean",
+        "stream": true
+      }
+    ]
+  },
+  "studiopolis.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:studiopolis",
+        "stream": true
+      }
+    ]
+  },
+  "night_carnival.music": {
+    "sounds": [
+      {
+        "name": "sonicraft:night_carnival",
+        "stream": true
+      }
+    ]
+  },
+  "signpost.spin": {
+    "sounds": [
+      {
+        "name": "sonicraft:signpost",
+        "stream": false
+      }
+    ]
+  },
+  "chaosemerald.collect": {
+    "sounds": [
+      {
+        "name": "sonicraft:chaosemerald",
+        "stream": false
+      }
+    ]
+  },
+  "monitor.destroy": {
+    "sounds": [
+      {
+        "name": "sonicraft:destroy",
+        "stream": false
+      }
+    ]
+  },
+  "animal.tweet": {
+    "sounds": [
+      {
+        "name": "sonicraft:animal.tweet",
+        "stream": false
+      }
+    ]
+  }
+}

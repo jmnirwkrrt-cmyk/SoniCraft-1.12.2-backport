@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "sonicraft:chiseled_dark_scrap_brain_iron_block_1"
+      },
+      {
+        "model": "sonicraft:chiseled_dark_scrap_brain_iron_block_2"
+      },
+      {
+        "model": "sonicraft:chiseled_dark_scrap_brain_iron_block_3"
+      },
+      {
+        "model": "sonicraft:chiseled_dark_scrap_brain_iron_block_4"
+      },
+      {
+        "model": "sonicraft:chiseled_dark_scrap_brain_iron_block_5"
+      },
+      {
+        "model": "sonicraft:chiseled_dark_scrap_brain_iron_block_6"
+      },
+      {
+        "model": "sonicraft:chiseled_dark_scrap_brain_iron_block_7"
+      }
+    ]
+  }
+}

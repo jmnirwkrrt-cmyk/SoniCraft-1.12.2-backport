@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/puyo_control_panel",
+  "textures": {
+    "all": "sonicraft:blocks/chemical_plant_puyo_control_panel",
+    "particle": "sonicraft:blocks/chemical_plant_puyo_control_panel",
+    "panel": "sonicraft:blocks/chemical_plant_puyo_control_panel"
+  }
+}

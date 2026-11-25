@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "sonicraft:blocks/studiopolis_clapperboard_platform_side_slab",
+    "bottom": "sonicraft:blocks/studiopolis_clapperboard_platform_bottom",
+    "top": "sonicraft:blocks/studiopolis_clapperboard_platform_top",
+    "side": "sonicraft:blocks/studiopolis_clapperboard_platform_side_slab"
+  }
+}

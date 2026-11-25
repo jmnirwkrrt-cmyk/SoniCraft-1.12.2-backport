@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/null_grid",
+  "textures": {
+    "all": "sonicraft:blocks/null_grid",
+    "particle": "sonicraft:blocks/null_grid",
+    "grid": "sonicraft:blocks/null_grid"
+  }
+}

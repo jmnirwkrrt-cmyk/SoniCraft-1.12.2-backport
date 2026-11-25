@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/press_garden_quartz_block_frosted_smooth",
+    "up": "sonicraft:blocks/press_garden_grass_top_snow",
+    "north": "sonicraft:blocks/press_garden_grass_side_snow",
+    "east": "sonicraft:blocks/press_garden_grass_side_snow",
+    "south": "sonicraft:blocks/press_garden_grass_side_snow",
+    "west": "sonicraft:blocks/press_garden_grass_side_snow",
+    "particle": "sonicraft:blocks/press_garden_quartz_block_frosted_smooth"
+  }
+}

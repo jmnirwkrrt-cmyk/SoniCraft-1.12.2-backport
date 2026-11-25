@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:southite"
+    }
+  },
+  "result": {
+    "item": "sonicraft:southite_slab",
+    "count": 6
+  }
+}

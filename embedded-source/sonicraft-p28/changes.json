@@ -1,0 +1,254 @@
+[
+  {
+    "path": "assets/sonicraft/sounds/pikopikohammer.ogg",
+    "rate": 44100,
+    "frames": 9922,
+    "correlation": 0.99948
+  },
+  {
+    "path": "assets/sonicraft/sounds/silver.hurt4.ogg",
+    "rate": 44100,
+    "frames": 12764,
+    "correlation": 0.99867
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.knuckles.idle3.ogg",
+    "rate": 44100,
+    "frames": 17984,
+    "correlation": 0.99891
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.metalsonic.idle2.ogg",
+    "rate": 22050,
+    "frames": 27968,
+    "correlation": 0.9949
+  },
+  {
+    "path": "assets/sonicraft/sounds/silver.idle4.ogg",
+    "rate": 44100,
+    "frames": 17938,
+    "correlation": 0.99721
+  },
+  {
+    "path": "assets/sonicraft/sounds/neon_spring.use.ogg",
+    "rate": 65456,
+    "frames": 157883,
+    "correlation": 0.99491
+  },
+  {
+    "path": "assets/sonicraft/sounds/silver.idle2.ogg",
+    "rate": 44100,
+    "frames": 20697,
+    "correlation": 0.99977
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.tails.die.ogg",
+    "rate": 44100,
+    "frames": 42848,
+    "correlation": 0.99832
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.shadow.idle1.ogg",
+    "rate": 44100,
+    "frames": 10944,
+    "correlation": 0.99806
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.metalsonic.idle3.ogg",
+    "rate": 22050,
+    "frames": 22848,
+    "correlation": 0.99302
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.amy.idle4.ogg",
+    "rate": 32000,
+    "frames": 13739,
+    "correlation": 0.99989
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.tails.idle4.ogg",
+    "rate": 44100,
+    "frames": 12000,
+    "correlation": 0.99852
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.amy.idle3.ogg",
+    "rate": 44100,
+    "frames": 10880,
+    "correlation": 0.99956
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.tails.hurt.ogg",
+    "rate": 44100,
+    "frames": 28384,
+    "correlation": 0.99906
+  },
+  {
+    "path": "assets/sonicraft/sounds/silver.idle3.ogg",
+    "rate": 44100,
+    "frames": 24492,
+    "correlation": 0.99913
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.amy.hurt.ogg",
+    "rate": 44100,
+    "frames": 24128,
+    "correlation": 0.9998
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.shadow.hurt.ogg",
+    "rate": 44100,
+    "frames": 15296,
+    "correlation": 0.99785
+  },
+  {
+    "path": "assets/sonicraft/sounds/silver.hurt1.ogg",
+    "rate": 44100,
+    "frames": 21733,
+    "correlation": 0.99852
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.amy.idle2.ogg",
+    "rate": 44100,
+    "frames": 14592,
+    "correlation": 0.99912
+  },
+  {
+    "path": "assets/sonicraft/sounds/silver.death.ogg",
+    "rate": 44100,
+    "frames": 35531,
+    "correlation": 0.9993
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.shadow.idle4.ogg",
+    "rate": 44100,
+    "frames": 14240,
+    "correlation": 0.99886
+  },
+  {
+    "path": "assets/sonicraft/sounds/silver.hurt5.ogg",
+    "rate": 44100,
+    "frames": 14834,
+    "correlation": 0.99889
+  },
+  {
+    "path": "assets/sonicraft/sounds/silver.hurt2.ogg",
+    "rate": 44100,
+    "frames": 30011,
+    "correlation": 0.99981
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.shadow.idle3.ogg",
+    "rate": 44100,
+    "frames": 17920,
+    "correlation": 0.99874
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.tails.idle3.ogg",
+    "rate": 44100,
+    "frames": 44256,
+    "correlation": 0.99805
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.amy.die.ogg",
+    "rate": 44100,
+    "frames": 26784,
+    "correlation": 0.99987
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.shadow.die.ogg",
+    "rate": 32000,
+    "frames": 21504,
+    "correlation": 0.99823
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.knuckles.idle1.ogg",
+    "rate": 44100,
+    "frames": 17504,
+    "correlation": 0.99874
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.knuckles.die.ogg",
+    "rate": 44100,
+    "frames": 38464,
+    "correlation": 0.99941
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.tails.idle2.ogg",
+    "rate": 44100,
+    "frames": 18944,
+    "correlation": 0.99646
+  },
+  {
+    "path": "assets/sonicraft/sounds/slotmachineactive.ogg",
+    "rate": 44100,
+    "frames": 187503,
+    "correlation": 0.99991
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.metalsonic.die.ogg",
+    "rate": 22050,
+    "frames": 28864,
+    "correlation": 0.99634
+  },
+  {
+    "path": "assets/sonicraft/sounds/silver.idle1.ogg",
+    "rate": 44100,
+    "frames": 33116,
+    "correlation": 0.99517
+  },
+  {
+    "path": "assets/sonicraft/sounds/silver.hurt3.ogg",
+    "rate": 44100,
+    "frames": 27942,
+    "correlation": 0.99953
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.amy.idle1.ogg",
+    "rate": 44100,
+    "frames": 12672,
+    "correlation": 0.99972
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.metalsonic.idle1.ogg",
+    "rate": 22050,
+    "frames": 24512,
+    "correlation": 0.99394
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.knuckles.hurt.ogg",
+    "rate": 44100,
+    "frames": 19424,
+    "correlation": 0.99924
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.knuckles.idle2.ogg",
+    "rate": 44100,
+    "frames": 36448,
+    "correlation": 0.99851
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.metalsonic.idle4.ogg",
+    "rate": 22050,
+    "frames": 28128,
+    "correlation": 0.99754
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.knuckles.idle4.ogg",
+    "rate": 44100,
+    "frames": 14464,
+    "correlation": 0.99869
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.shadow.idle2.ogg",
+    "rate": 48000,
+    "frames": 30067,
+    "correlation": 0.9997
+  },
+  {
+    "path": "assets/sonicraft/sounds/entity.tails.idle1.ogg",
+    "rate": 44100,
+    "frames": 14784,
+    "correlation": 0.99567
+  }
+]

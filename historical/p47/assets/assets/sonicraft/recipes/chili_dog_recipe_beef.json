@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:beef",
+      "data": 0
+    },
+    {
+      "item": "minecraft:magma_cream",
+      "data": 0
+    },
+    {
+      "item": "minecraft:bread",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "sonicraft:chili_dog",
+    "count": 2,
+    "data": 0
+  }
+}

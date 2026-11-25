@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:oil_ocean_silo_roof_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:oil_ocean_silo_roof_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:oil_ocean_silo_roof_slab_full"
+    }
+  }
+}

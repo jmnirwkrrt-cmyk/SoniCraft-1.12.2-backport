@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/mystic_cave_stone",
+    "particle": "sonicraft:blocks/mystic_cave_stone"
+  }
+}

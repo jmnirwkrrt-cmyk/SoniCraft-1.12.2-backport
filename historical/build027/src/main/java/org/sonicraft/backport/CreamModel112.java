@@ -1,0 +1,120 @@
+package org.sonicraft.backport;
+import net.minecraft.client.model.*;
+import net.minecraft.entity.Entity;
+import net.minecraft.util.math.MathHelper;
+// Model layout and limb formulas adapted from EnderPreston SoniCraft 1.10.1.
+public final class CreamModel112 extends ModelBase {
+public ModelRenderer shoulderL,shoulderR,hipL,hipR,body,head,right_ear,bone,left_ear,bone2;
+public CreamModel112(){
+textureWidth=64;textureHeight=32;
+shoulderL=new ModelRenderer(this);
+shoulderL.setRotationPoint(2.0f,12.0f,0.0f);
+shoulderL.rotateAngleX=0.0f;
+shoulderL.rotateAngleY=0.0f;
+shoulderL.rotateAngleZ=-0.2618f;
+shoulderL.setTextureOffset(14, 16);
+shoulderL.mirror=true;
+shoulderL.addBox(-0.5176f,0.9319f,-1.0f,2,6,2,0.0f);
+shoulderL.mirror=false;
+shoulderL.setTextureOffset(36, 16);
+shoulderL.mirror=true;
+shoulderL.addBox(-1.5176f,4.9015f,-2.0f,4,4,4,0.0f);
+shoulderL.mirror=false;
+shoulderR=new ModelRenderer(this);
+shoulderR.setRotationPoint(-2.0f,12.0f,0.0f);
+shoulderR.rotateAngleX=0.0f;
+shoulderR.rotateAngleY=0.0f;
+shoulderR.rotateAngleZ=0.2618f;
+shoulderR.setTextureOffset(14, 16);
+shoulderR.addBox(-1.4824f,0.9319f,-1.0f,2,6,2,0.0f);
+shoulderR.setTextureOffset(36, 16);
+shoulderR.addBox(-2.4824f,4.9015f,-2.0f,4,4,4,0.0f);
+hipL=new ModelRenderer(this);
+hipL.setRotationPoint(1.0f,18.0f,0.0f);
+hipL.setTextureOffset(22, 16);
+hipL.mirror=true;
+hipL.addBox(-1.0f,-0.25f,-1.0f,2,3,2,-0.25f);
+hipL.mirror=false;
+hipL.setTextureOffset(16, 26);
+hipL.mirror=true;
+hipL.addBox(-2.0f,2.25f,-2.0f,4,2,4,-0.25f);
+hipL.mirror=false;
+hipL.setTextureOffset(34, 24);
+hipL.mirror=true;
+hipL.addBox(-2.0f,4.0f,-4.0f,4,2,6,0.0f);
+hipL.mirror=false;
+hipR=new ModelRenderer(this);
+hipR.setRotationPoint(-1.0f,18.0f,0.0f);
+hipR.setTextureOffset(22, 16);
+hipR.addBox(-1.0f,-0.25f,-1.0f,2,3,2,-0.25f);
+hipR.setTextureOffset(16, 26);
+hipR.addBox(-2.0f,2.25f,-2.0f,4,2,4,-0.25f);
+hipR.setTextureOffset(34, 24);
+hipR.addBox(-2.0f,4.0f,-4.0f,4,2,6,0.0f);
+body=new ModelRenderer(this);
+body.setRotationPoint(-0.5f,15.0f,0.0f);
+body.setTextureOffset(0, 21);
+body.addBox(-1.5f,-2.0f,-1.5f,4,5,3,0.0f);
+body.setTextureOffset(0, 17);
+body.addBox(-1.5f,2.0f,-1.5f,4,1,3,0.25f);
+body.setTextureOffset(0, 0);
+body.addBox(0.0f,1.5f,1.25f,1,1,1,0.0f);
+head=new ModelRenderer(this);
+head.setRotationPoint(0.0f,11.0f,0.0f);
+head.setTextureOffset(0, 4);
+head.addBox(-0.5f,-1.0f,-4.75f,1,1,2,0.0f);
+head.setTextureOffset(0, 0);
+head.addBox(-4.0f,-6.0f,-4.0f,8,8,8,0.0f);
+head.setTextureOffset(32, 7);
+head.addBox(-4.0f,-9.0f,-4.0f,8,4,4,0.15f);
+right_ear=new ModelRenderer(this);
+right_ear.setRotationPoint(-2.0f,-5.0f,0.0f);
+right_ear.rotateAngleX=0.2182f;
+right_ear.rotateAngleY=-0.2182f;
+right_ear.rotateAngleZ=0.0f;
+head.addChild(right_ear);
+right_ear.setTextureOffset(32, 0);
+right_ear.addBox(-2.0f,-1.0f,-1.0f,4,1,6,0.0f);
+bone=new ModelRenderer(this);
+bone.setRotationPoint(0.5f,0.0f,5.0f);
+right_ear.addChild(bone);
+bone.setTextureOffset(52, 0);
+bone.addBox(-2.5f,-1.0f,0.0f,4,8,1,0.0f);
+left_ear=new ModelRenderer(this);
+left_ear.setRotationPoint(2.0f,-5.0f,0.0f);
+left_ear.rotateAngleX=0.2182f;
+left_ear.rotateAngleY=0.2182f;
+left_ear.rotateAngleZ=0.0f;
+head.addChild(left_ear);
+left_ear.setTextureOffset(32, 0);
+left_ear.mirror=true;
+left_ear.addBox(-2.0f,-1.0f,-1.0f,4,1,6,0.0f);
+left_ear.mirror=false;
+bone2=new ModelRenderer(this);
+bone2.setRotationPoint(-0.5f,0.0f,5.0f);
+left_ear.addChild(bone2);
+bone2.setTextureOffset(52, 0);
+bone2.mirror=true;
+bone2.addBox(-1.5f,-1.0f,0.0f,4,8,1,0.0f);
+bone2.mirror=false;
+}
+@Override public void render(Entity entity,float limbSwing,float limbSwingAmount,float ageInTicks,float netHeadYaw,float headPitch,float scale){
+setRotationAngles(limbSwing,limbSwingAmount,ageInTicks,netHeadYaw,headPitch,scale,entity);
+shoulderL.render(scale);
+shoulderR.render(scale);
+hipL.render(scale);
+hipR.render(scale);
+body.render(scale);
+head.render(scale);
+}
+@Override public void setRotationAngles(float limbSwing,float limbSwingAmount,float ageInTicks,float netHeadYaw,float headPitch,float scale,Entity entity){
+
+        this.head.rotateAngleY = netHeadYaw / 57.295776f;
+        this.head.rotateAngleX = headPitch / 57.295776f;
+        this.shoulderR.rotateAngleX = MathHelper.cos((float)(limbSwing * 0.6662f + (float)Math.PI)) * limbSwingAmount;
+        this.hipR.rotateAngleX = MathHelper.cos((float)(limbSwing * 1.0f)) * 1.0f * limbSwingAmount;
+        this.hipL.rotateAngleX = MathHelper.cos((float)(limbSwing * 1.0f)) * -1.0f * limbSwingAmount;
+        this.shoulderL.rotateAngleX = MathHelper.cos((float)(limbSwing * 0.6662f)) * limbSwingAmount;
+    
+}
+}

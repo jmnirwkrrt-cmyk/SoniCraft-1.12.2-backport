@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/hidden_palace_mural",
+  "textures": {
+    "all": "sonicraft:blocks/hidden_palace_mural",
+    "particle": "sonicraft:blocks/hidden_palace_mural",
+    "0": "sonicraft:blocks/hidden_palace_mural"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "sonicraft:block/star_light_sky_block_1"
+      },
+      {
+        "model": "sonicraft:block/star_light_sky_block_2"
+      },
+      {
+        "model": "sonicraft:block/star_light_sky_block_3"
+      },
+      {
+        "model": "sonicraft:block/star_light_sky_block_4"
+      },
+      {
+        "model": "sonicraft:block/star_light_sky_block_4"
+      },
+      {
+        "model": "sonicraft:block/star_light_sky_block_5"
+      },
+      {
+        "model": "sonicraft:block/star_light_sky_block_6"
+      },
+      {
+        "model": "sonicraft:block/star_light_sky_block_7"
+      },
+      {
+        "model": "sonicraft:block/star_light_sky_block_8"
+      },
+      {
+        "model": "sonicraft:block/star_light_sky_block_8"
+      },
+      {
+        "model": "sonicraft:block/star_light_sky_block_9"
+      },
+      {
+        "model": "sonicraft:block/star_light_sky_block_10"
+      }
+    ]
+  }
+}

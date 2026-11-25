@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/night_carnival_bricks_dark",
+    "bottom": "sonicraft:blocks/night_carnival_bricks_dark",
+    "top": "sonicraft:blocks/night_carnival_bricks_dark",
+    "side": "sonicraft:blocks/night_carnival_bricks_dark"
+  }
+}

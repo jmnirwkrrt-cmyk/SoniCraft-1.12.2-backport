@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/chemical_plant_puyo_pipe_top",
+    "up": "sonicraft:blocks/chemical_plant_iron_block",
+    "north": "sonicraft:blocks/chemical_plant_puyo_pipe_corner_front",
+    "east": "sonicraft:blocks/chemical_plant_puyo_pipe_corner_left",
+    "south": "sonicraft:blocks/chemical_plant_puyo_pipe_top",
+    "west": "sonicraft:blocks/chemical_plant_puyo_pipe_corner_right",
+    "particle": "sonicraft:blocks/chemical_plant_puyo_pipe_top"
+  }
+}

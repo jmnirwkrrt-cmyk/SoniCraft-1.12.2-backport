@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/press_garden_writing_ball_buttons.item",
+  "textures": {
+    "particle": "sonicraft:blocks/press_garden_writing_ball_button"
+  }
+}

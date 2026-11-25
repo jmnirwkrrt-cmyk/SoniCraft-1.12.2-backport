@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:dark_scrap_brain_iron_block_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:dark_scrap_brain_iron_block_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:dark_scrap_brain_iron_block_slab_full"
+    }
+  }
+}

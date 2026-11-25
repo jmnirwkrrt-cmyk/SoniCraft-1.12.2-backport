@@ -1,0 +1,11 @@
+{
+  "parent": "sonicraft:custom/capsule_lower_edge",
+  "textures": {
+    "all": "sonicraft:blocks/capsule_lower_edge_side",
+    "particle": "sonicraft:blocks/capsule_lower_edge_side",
+    "top": "sonicraft:blocks/capsule_wall_top",
+    "lower_edge_side": "sonicraft:blocks/capsule_lower_edge_side",
+    "lower_edge_bottom": "sonicraft:blocks/capsule_lower_edge_bottom",
+    "lower_corner_side": "sonicraft:blocks/capsule_lower_corner_side"
+  }
+}

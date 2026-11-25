@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/marble_zone_square_pillar_top",
+    "up": "sonicraft:blocks/marble_zone_square_pillar_top",
+    "north": "sonicraft:blocks/marble_zone_square_pillar_middle",
+    "east": "sonicraft:blocks/marble_zone_square_pillar_middle",
+    "south": "sonicraft:blocks/marble_zone_square_pillar_middle",
+    "west": "sonicraft:blocks/marble_zone_square_pillar_middle",
+    "particle": "sonicraft:blocks/marble_zone_square_pillar_top"
+  }
+}

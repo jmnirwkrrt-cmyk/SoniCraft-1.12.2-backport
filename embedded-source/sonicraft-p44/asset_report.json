@@ -1,0 +1,130 @@
+{
+  "scrap_brain_factory": {
+    "new_landing_water": [
+      [
+        11,
+        7,
+        11
+      ],
+      [
+        11,
+        7,
+        12
+      ],
+      [
+        11,
+        7,
+        13
+      ],
+      [
+        12,
+        7,
+        11
+      ],
+      [
+        12,
+        7,
+        12
+      ],
+      [
+        12,
+        7,
+        13
+      ],
+      [
+        13,
+        7,
+        11
+      ],
+      [
+        13,
+        7,
+        12
+      ],
+      [
+        13,
+        7,
+        13
+      ]
+    ]
+  },
+  "scrap_brain_factory_dungeon": {
+    "new_landing_water": [
+      [
+        11,
+        7,
+        11
+      ],
+      [
+        11,
+        7,
+        12
+      ],
+      [
+        11,
+        7,
+        13
+      ],
+      [
+        12,
+        7,
+        11
+      ],
+      [
+        12,
+        7,
+        12
+      ],
+      [
+        12,
+        7,
+        13
+      ],
+      [
+        13,
+        7,
+        11
+      ],
+      [
+        13,
+        7,
+        12
+      ],
+      [
+        13,
+        7,
+        13
+      ]
+    ]
+  },
+  "teleport_templates": [
+    {
+      "template": "scrap_brain_factory_dungeon.nbt",
+      "entrances": [
+        [
+          4,
+          16,
+          6
+        ]
+      ],
+      "destinations": []
+    },
+    {
+      "template": "scrap_brain_factory.nbt",
+      "entrances": [
+        [
+          4,
+          16,
+          6
+        ]
+      ],
+      "destinations": [
+        [
+          20.5,
+          44.0,
+          8.5
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/marble_garden_interior_wall_bottom",
+    "up": "sonicraft:blocks/marble_garden_interior_wall_top",
+    "north": "sonicraft:blocks/marble_garden_interior_wall",
+    "east": "sonicraft:blocks/marble_garden_interior_wall",
+    "south": "sonicraft:blocks/marble_garden_interior_wall",
+    "west": "sonicraft:blocks/marble_garden_interior_wall",
+    "particle": "sonicraft:blocks/marble_garden_interior_wall_bottom"
+  }
+}

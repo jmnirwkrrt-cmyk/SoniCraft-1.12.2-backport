@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "particle": "sonicraft:blocks/death_egg_floor",
+    "texture": "sonicraft:blocks/death_egg_floor"
+  }
+}

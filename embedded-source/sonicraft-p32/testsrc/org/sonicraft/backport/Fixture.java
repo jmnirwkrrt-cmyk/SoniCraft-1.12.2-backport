@@ -1,0 +1,2 @@
+package org.sonicraft.backport;
+import net.minecraft.world.World;import net.minecraft.util.math.BlockPos;class Fixture{static String biome;static CityComplexWorldgen$Data d=new CityComplexWorldgen$Data();static CityComplexWorldgen$Data data(World w){return d;} static String candidateBiome(World w,BlockPos p){return biome;}}

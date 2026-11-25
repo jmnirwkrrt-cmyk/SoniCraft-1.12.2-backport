@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:press_garden_redstone_bulb_detector_blockstates_blockstate_0"
+    }
+  }
+}

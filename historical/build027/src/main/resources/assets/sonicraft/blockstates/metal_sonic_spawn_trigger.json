@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "sonicraft:block/metal_sonic_spawn_trigger"
+    }
+  }
+}

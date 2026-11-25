@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/chemical_plant_pipe_corner",
+  "textures": {
+    "all": "sonicraft:blocks/chemical_plant_pipe_corner",
+    "particle": "sonicraft:blocks/chemical_plant_pipe_corner",
+    "side": "sonicraft:blocks/chemical_plant_pipe_corner",
+    "top": "sonicraft:blocks/chemical_plant_pipe_top",
+    "inside": "sonicraft:blocks/chemical_plant_puyo_pipe_top"
+  }
+}

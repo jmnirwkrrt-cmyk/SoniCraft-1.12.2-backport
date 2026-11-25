@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/custom_azalea_bush",
+  "textures": {
+    "all": "sonicraft:blocks/press_garden_wood_chipper_particle",
+    "particle": "sonicraft:blocks/press_garden_wood_chipper_particle",
+    "side": "sonicraft:blocks/nothing",
+    "top": "sonicraft:blocks/nothing",
+    "plant": "sonicraft:blocks/nothing"
+  }
+}

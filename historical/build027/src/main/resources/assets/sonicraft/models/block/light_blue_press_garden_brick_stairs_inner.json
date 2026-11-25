@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/press_garden_bricks_light_blue",
+    "bottom": "sonicraft:blocks/press_garden_bricks_light_blue",
+    "top": "sonicraft:blocks/press_garden_bricks_light_blue",
+    "side": "sonicraft:blocks/press_garden_bricks_light_blue"
+  }
+}

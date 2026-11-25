@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/oil_ocean_burner_cap_base_pipe"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/oil_ocean_burner_cap_base_pipe",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/oil_ocean_burner_cap_base_pipe",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/oil_ocean_burner_cap_base_pipe",
+      "y": 270
+    }
+  }
+}

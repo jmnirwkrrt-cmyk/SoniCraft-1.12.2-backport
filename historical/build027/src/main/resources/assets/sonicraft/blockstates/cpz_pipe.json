@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/cpz_pipe"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/cpz_pipe",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/cpz_pipe"
+    },
+    "facing=west": {
+      "model": "sonicraft:block/cpz_pipe",
+      "y": 90
+    },
+    "facing=up": {
+      "model": "sonicraft:block/cpz_pipe",
+      "x": 90
+    },
+    "facing=down": {
+      "model": "sonicraft:block/cpz_pipe",
+      "x": 90
+    }
+  }
+}

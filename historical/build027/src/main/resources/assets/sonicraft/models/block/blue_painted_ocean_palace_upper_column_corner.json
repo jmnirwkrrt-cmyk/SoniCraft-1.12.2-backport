@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/ocean_palace_stone",
+    "up": "sonicraft:blocks/ocean_palace_stone",
+    "north": "sonicraft:blocks/ocean_palace_stone_column_blue_painted_left",
+    "east": "sonicraft:blocks/ocean_palace_stone_column_blue_painted_right",
+    "south": "sonicraft:blocks/ocean_palace_stone_column_blue_painted_front",
+    "west": "sonicraft:blocks/ocean_palace_stone_column_blue_painted_front",
+    "particle": "sonicraft:blocks/ocean_palace_stone"
+  }
+}

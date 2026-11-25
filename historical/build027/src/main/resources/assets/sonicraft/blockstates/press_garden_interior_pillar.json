@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "axis=x,blockstate=0": {
+      "model": "sonicraft:press_garden_interior_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,blockstate=0": {
+      "model": "sonicraft:press_garden_interior_pillar"
+    },
+    "axis=z,blockstate=0": {
+      "model": "sonicraft:press_garden_interior_pillar",
+      "x": 90
+    },
+    "axis=x,blockstate=1": {
+      "model": "sonicraft:press_garden_interior_pillar_blockstates_blockstate_0",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,blockstate=1": {
+      "model": "sonicraft:press_garden_interior_pillar_blockstates_blockstate_0"
+    },
+    "axis=z,blockstate=1": {
+      "model": "sonicraft:press_garden_interior_pillar_blockstates_blockstate_0",
+      "x": 90
+    },
+    "axis=x,blockstate=2": {
+      "model": "sonicraft:press_garden_interior_pillar_blockstates_blockstate_1",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,blockstate=2": {
+      "model": "sonicraft:press_garden_interior_pillar_blockstates_blockstate_1"
+    },
+    "axis=z,blockstate=2": {
+      "model": "sonicraft:press_garden_interior_pillar_blockstates_blockstate_1",
+      "x": 90
+    }
+  }
+}

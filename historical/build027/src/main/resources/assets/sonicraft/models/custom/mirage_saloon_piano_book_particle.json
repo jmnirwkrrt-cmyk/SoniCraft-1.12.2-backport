@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/mirage_saloon_piano_book.item",
+  "textures": {
+    "particle": "sonicraft:blocks/nothing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "sonicraft:custom/press_garden_ice_cube_monitor",
+  "textures": {
+    "all": "sonicraft:blocks/monitor_frozen_fire",
+    "particle": "sonicraft:blocks/nothing",
+    "side": "sonicraft:blocks/monitor_side",
+    "static": "sonicraft:blocks/monitor_static",
+    "screen_console": "sonicraft:blocks/nothing",
+    "screen": "sonicraft:blocks/monitor_fire",
+    "ice": "sonicraft:blocks/press_garden_ice_block",
+    "front": "sonicraft:blocks/monitor"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/oil_ocean_obelisk_tower_orb_red",
+  "textures": {
+    "all": "sonicraft:blocks/oil_ocean_obelisk_tower_orb_red_particle",
+    "particle": "sonicraft:blocks/oil_ocean_obelisk_tower_orb_red_particle",
+    "0": "sonicraft:blocks/oil_ocean_obelisk_tower_orb_red"
+  }
+}

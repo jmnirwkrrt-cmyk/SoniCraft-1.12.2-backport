@@ -1,0 +1,286 @@
+{
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    64,
+    64
+  ],
+  "elements": [
+    {
+      "from": [
+        2,
+        0,
+        12
+      ],
+      "to": [
+        14,
+        10,
+        15
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          5,
+          12.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.75,
+            6.75,
+            3.75,
+            9.25
+          ],
+          "texture": "#dispenser"
+        },
+        "east": {
+          "uv": [
+            0,
+            6.75,
+            0.75,
+            9.25
+          ],
+          "texture": "#dispenser"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            6.75,
+            7.5,
+            9.25
+          ],
+          "texture": "#dispenser"
+        },
+        "west": {
+          "uv": [
+            3.75,
+            6.75,
+            4.5,
+            9.25
+          ],
+          "texture": "#dispenser"
+        },
+        "up": {
+          "uv": [
+            0.75,
+            6,
+            3.75,
+            6.75
+          ],
+          "texture": "#dispenser"
+        },
+        "down": {
+          "uv": [
+            3.75,
+            6,
+            6.75,
+            6.75
+          ],
+          "texture": "#dispenser"
+        }
+      }
+    },
+    {
+      "from": [
+        1.75,
+        -1.25,
+        1.75
+      ],
+      "to": [
+        14.25,
+        11.25,
+        14.25
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          9,
+          6,
+          9
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            3,
+            3,
+            6,
+            6
+          ],
+          "texture": "#dispenser"
+        },
+        "east": {
+          "uv": [
+            0,
+            3,
+            3,
+            6
+          ],
+          "texture": "#dispenser"
+        },
+        "south": {
+          "uv": [
+            9,
+            3,
+            12,
+            6
+          ],
+          "texture": "#dispenser"
+        },
+        "west": {
+          "uv": [
+            6,
+            3,
+            9,
+            6
+          ],
+          "texture": "#dispenser"
+        },
+        "up": {
+          "uv": [
+            3,
+            0,
+            6,
+            3
+          ],
+          "texture": "#dispenser"
+        },
+        "down": {
+          "uv": [
+            6,
+            0,
+            9,
+            3
+          ],
+          "texture": "#dispenser"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        45,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        225,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        225,
+        0
+      ],
+      "translation": [
+        0,
+        -2.25,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "fixed": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "root",
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "color": 0,
+      "children": [
+        {
+          "name": "upper_block",
+          "origin": [
+            8,
+            14,
+            8
+          ],
+          "color": 0,
+          "children": [
+            0,
+            1
+          ]
+        }
+      ]
+    }
+  ],
+  "textures": {}
+}

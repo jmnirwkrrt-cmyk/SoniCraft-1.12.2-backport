@@ -1,0 +1,22 @@
+{
+  "green_hill_zone": "greenhill.music",
+  "emerald_hill_zone": "emeraldhill.music",
+  "hill_top_zone": "hill_top.music",
+  "marble_zone": "marble.music",
+  "aquatic_ruin_zone": "aquaticruin.music",
+  "seaside_hill_zone": "seaside_hill.music",
+  "angel_island_jungle": "angel_island.music",
+  "ice_cap_zone": "ice_cap.music",
+  "mushroom_hill_zone": "mushroom_hill.music",
+  "sandopolis_zone": "sandopolis.music",
+  "mirage_saloon_zone": "mirage_saloon.music",
+  "press_garden_zone": "pressgarden.music",
+  "spring_yard": "springyard.music",
+  "star_light_zone": "starlight.music",
+  "scrap_brain_zone": "scrapbrain.music",
+  "chemical_plant_zone": "chemicalplant.music",
+  "casino_night_zone": "casinonight.music",
+  "oil_ocean_zone": "oil_ocean.music",
+  "studiopolis_zone": "studiopolis.music",
+  "night_carnival_zone": "night_carnival.music"
+}

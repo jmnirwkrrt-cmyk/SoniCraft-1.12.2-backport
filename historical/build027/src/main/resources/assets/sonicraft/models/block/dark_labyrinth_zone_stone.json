@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/labyrinthblock_dark_6",
+    "up": "sonicraft:blocks/labyrinthblock_dark_5",
+    "north": "sonicraft:blocks/labyrinthblock_dark_1",
+    "east": "sonicraft:blocks/labyrinthblock_dark_2",
+    "south": "sonicraft:blocks/labyrinthblock_dark_4",
+    "west": "sonicraft:blocks/labyrinthblock_dark_3",
+    "particle": "sonicraft:blocks/labyrinthblock_dark_6"
+  }
+}

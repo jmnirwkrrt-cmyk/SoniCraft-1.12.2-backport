@@ -1,0 +1,2 @@
+package org.sonicraft.backport;
+import net.minecraft.world.World;import net.minecraft.util.math.BlockPos;import net.minecraft.block.Block;class StructurePort{static int[] h; static int surfaceTerrain(World w,BlockPos p,Block b,boolean sea){return h[(p.x+7)/7*3+(p.z+7)/7];}}

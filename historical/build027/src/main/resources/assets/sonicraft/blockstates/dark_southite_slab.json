@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:dark_southite_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:dark_southite_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:dark_southite_slab_full"
+    }
+  }
+}

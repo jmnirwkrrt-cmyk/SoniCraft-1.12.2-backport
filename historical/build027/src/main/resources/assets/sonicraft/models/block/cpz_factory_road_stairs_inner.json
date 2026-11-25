@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/chemical_plant_factory_road_side",
+    "bottom": "sonicraft:blocks/chemical_plant_factory_road_top",
+    "top": "sonicraft:blocks/chemical_plant_factory_road_top",
+    "side": "sonicraft:blocks/chemical_plant_factory_road_top"
+  }
+}

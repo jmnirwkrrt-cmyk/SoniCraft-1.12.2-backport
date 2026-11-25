@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "sonicraft:mobius_portal_x"
+    },
+    "axis=z": {
+      "model": "sonicraft:mobius_portal_z"
+    }
+  }
+}

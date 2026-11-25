@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:custom/seesaw_hill_top_ball_particle",
+  "textures": {
+    "particle": "sonicraft:blocks/nothing"
+  }
+}

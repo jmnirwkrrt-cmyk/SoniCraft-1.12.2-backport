@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:marble_zone_brick_roof_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:marble_zone_brick_roof_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:marble_zone_brick_roof_slab_full"
+    }
+  }
+}

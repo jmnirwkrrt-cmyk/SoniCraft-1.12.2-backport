@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/hillpine_log_side_stripped",
+    "up": "sonicraft:blocks/mystic_cave_road_top",
+    "north": "sonicraft:blocks/mystic_cave_road_side",
+    "east": "sonicraft:blocks/mystic_cave_road_side",
+    "south": "sonicraft:blocks/mystic_cave_road_side",
+    "west": "sonicraft:blocks/mystic_cave_road_side",
+    "particle": "sonicraft:blocks/hillpine_log_side_stripped"
+  }
+}

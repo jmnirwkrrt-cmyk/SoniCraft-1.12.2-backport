@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/lava_reef_pipe_top",
+    "up": "sonicraft:blocks/lava_reef_pipe_top",
+    "north": "sonicraft:blocks/lava_reef_pipe",
+    "east": "sonicraft:blocks/lava_reef_pipe",
+    "south": "sonicraft:blocks/lava_reef_pipe",
+    "west": "sonicraft:blocks/lava_reef_pipe",
+    "particle": "sonicraft:blocks/lava_reef_pipe_top"
+  }
+}

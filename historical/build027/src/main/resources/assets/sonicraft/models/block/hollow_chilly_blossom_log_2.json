@@ -1,0 +1,13 @@
+{
+  "parent": "sonicraft:custom/chilly_blossom_hollow_log",
+  "textures": {
+    "all": "sonicraft:blocks/chilly_blossom_hollow_log_side_snowy_2",
+    "particle": "sonicraft:blocks/chilly_blossom_hollow_log_side_snowy_2",
+    "inside_bottom": "sonicraft:blocks/chilly_blossom_hollow_log_inside_bottom",
+    "side": "sonicraft:blocks/chilly_blossom_hollow_log_side_snowy_2",
+    "inside_side": "sonicraft:blocks/chilly_blossom_hollow_log_inside_2",
+    "top": "sonicraft:blocks/press_garden_grass_top_snow",
+    "bottom": "sonicraft:blocks/chilly_blossom_hollow_log_bottom",
+    "inside_top": "sonicraft:blocks/chilly_blossom_hollow_log_inside_top"
+  }
+}

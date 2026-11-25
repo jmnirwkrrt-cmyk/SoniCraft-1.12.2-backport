@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/bouncy_checkpoint",
+  "textures": {
+    "all": "sonicraft:blocks/studiopolis_bouncy_checkpoint_base",
+    "particle": "sonicraft:blocks/studiopolis_bouncy_checkpoint_particle",
+    "ball": "sonicraft:blocks/nothing",
+    "base": "sonicraft:blocks/studiopolis_bouncy_checkpoint_base"
+  }
+}

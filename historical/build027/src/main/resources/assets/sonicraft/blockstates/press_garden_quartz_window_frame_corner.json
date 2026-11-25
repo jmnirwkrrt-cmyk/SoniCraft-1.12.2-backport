@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/press_garden_quartz_window_frame_corner"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/press_garden_quartz_window_frame_corner",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/press_garden_quartz_window_frame_corner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/press_garden_quartz_window_frame_corner",
+      "y": 270
+    }
+  }
+}

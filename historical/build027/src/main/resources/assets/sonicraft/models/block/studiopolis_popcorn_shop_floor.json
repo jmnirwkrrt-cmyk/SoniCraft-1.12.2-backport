@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/studiopolis_popcorn_shop_tiles_green",
+    "up": "sonicraft:blocks/studiopolis_popcorn_shop_floor",
+    "north": "sonicraft:blocks/studiopolis_popcorn_shop_tiles_green_heat_emitter",
+    "east": "sonicraft:blocks/studiopolis_popcorn_shop_tiles_green_heat_emitter",
+    "south": "sonicraft:blocks/studiopolis_popcorn_shop_tiles_green_heat_emitter",
+    "west": "sonicraft:blocks/studiopolis_popcorn_shop_tiles_green_heat_emitter",
+    "particle": "sonicraft:blocks/studiopolis_popcorn_shop_tiles_green"
+  }
+}

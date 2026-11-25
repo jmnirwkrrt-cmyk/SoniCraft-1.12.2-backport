@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/item_box_rush",
+  "textures": {
+    "all": "sonicraft:blocks/item_box_rush_rings_random",
+    "particle": "sonicraft:blocks/item_box_rush_particle",
+    "item": "sonicraft:blocks/item_box_rush_rings_random",
+    "box": "sonicraft:blocks/item_box_rush"
+  }
+}

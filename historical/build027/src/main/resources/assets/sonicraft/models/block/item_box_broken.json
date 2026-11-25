@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/sonic_monitor_broken",
+  "textures": {
+    "all": "sonicraft:blocks/monitor_front_broken",
+    "particle": "sonicraft:blocks/monitor_side",
+    "front": "sonicraft:blocks/monitor_broken"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/hidden_palace_bricks",
+    "bottom": "sonicraft:blocks/hidden_palace_bricks",
+    "top": "sonicraft:blocks/hidden_palace_floor_top",
+    "side": "sonicraft:blocks/hidden_palace_floor_side"
+  }
+}

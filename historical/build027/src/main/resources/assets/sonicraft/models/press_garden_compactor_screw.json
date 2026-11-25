@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/press_garden_compactor_screw_top",
+    "up": "sonicraft:blocks/press_garden_compactor_screw_top",
+    "north": "sonicraft:blocks/press_garden_compactor_screw",
+    "east": "sonicraft:blocks/press_garden_compactor_screw",
+    "south": "sonicraft:blocks/press_garden_compactor_screw",
+    "west": "sonicraft:blocks/press_garden_compactor_screw",
+    "particle": "sonicraft:blocks/press_garden_compactor_screw_top"
+  }
+}

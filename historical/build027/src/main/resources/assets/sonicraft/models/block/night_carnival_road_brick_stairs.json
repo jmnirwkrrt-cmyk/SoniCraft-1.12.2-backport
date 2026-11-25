@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/night_carnival_road_bricks",
+    "bottom": "sonicraft:blocks/night_carnival_road_bricks",
+    "top": "sonicraft:blocks/night_carnival_road_bricks",
+    "side": "sonicraft:blocks/night_carnival_road_bricks"
+  }
+}

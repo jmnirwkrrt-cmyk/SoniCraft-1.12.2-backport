@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/press_garden_road_slope",
+  "textures": {
+    "all": "sonicraft:blocks/press_garden_road_top",
+    "particle": "sonicraft:blocks/press_garden_road_top",
+    "stairs": "sonicraft:blocks/press_garden_road_stairs_south",
+    "vine": "sonicraft:blocks/press_garden_road_stairs_vine"
+  }
+}

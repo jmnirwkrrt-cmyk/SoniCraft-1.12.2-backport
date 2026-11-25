@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sonicraft:item_box",
+      "data": 0
+    },
+    {
+      "item": "minecraft:nether_star",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "sonicraft:item_box_invincibility",
+    "count": 1,
+    "data": 0
+  }
+}

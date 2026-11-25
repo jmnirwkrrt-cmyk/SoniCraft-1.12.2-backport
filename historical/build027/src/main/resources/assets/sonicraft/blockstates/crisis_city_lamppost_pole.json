@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "sonicraft:block/crisis_city_lamppost_pole",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "sonicraft:block/crisis_city_lamppost_pole"
+    },
+    "axis=z": {
+      "model": "sonicraft:block/crisis_city_lamppost_pole",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/cpz_factory_railing_pole_1",
+  "textures": {
+    "all": "sonicraft:blocks/chemical_plant_factory_railing_pole",
+    "particle": "sonicraft:blocks/chemical_plant_factory_railing_pole",
+    "side": "sonicraft:blocks/chemical_plant_factory_railing_pole",
+    "top": "sonicraft:blocks/chemical_plant_factory_railing_pole_top"
+  }
+}

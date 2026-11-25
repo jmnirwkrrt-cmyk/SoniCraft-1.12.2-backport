@@ -1,0 +1,9 @@
+{
+  "parent": "block/half_slab",
+  "textures": {
+    "particle": "sonicraft:blocks/press_garden_bricks_frosted",
+    "bottom": "sonicraft:blocks/press_garden_bricks_frosted",
+    "top": "sonicraft:blocks/press_garden_grass_top_snow",
+    "side": "sonicraft:blocks/press_garden_bricks_grassy_snowy"
+  }
+}

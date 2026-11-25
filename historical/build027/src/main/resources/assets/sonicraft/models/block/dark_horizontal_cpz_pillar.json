@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/chemical_plant_dark_horizontal_pillar",
+    "up": "sonicraft:blocks/chemical_plant_dark_horizontal_pillar",
+    "north": "sonicraft:blocks/chemical_plant_dark_horizontal_pillar",
+    "east": "sonicraft:blocks/chemical_plant_pillar_top",
+    "south": "sonicraft:blocks/chemical_plant_dark_horizontal_pillar",
+    "west": "sonicraft:blocks/chemical_plant_pillar_top",
+    "particle": "sonicraft:blocks/chemical_plant_dark_horizontal_pillar"
+  }
+}

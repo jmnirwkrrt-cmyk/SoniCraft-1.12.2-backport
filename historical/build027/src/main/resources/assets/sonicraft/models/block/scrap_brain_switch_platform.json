@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/scrap_brain_road_top",
+    "up": "sonicraft:blocks/scrap_brain_road_top",
+    "north": "sonicraft:blocks/scrap_brain_switch_platform",
+    "east": "sonicraft:blocks/scrap_brain_switch_platform",
+    "south": "sonicraft:blocks/scrap_brain_switch_platform",
+    "west": "sonicraft:blocks/scrap_brain_switch_platform",
+    "particle": "sonicraft:blocks/scrap_brain_road_top"
+  }
+}

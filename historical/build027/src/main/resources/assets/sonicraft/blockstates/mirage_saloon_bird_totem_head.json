@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/mirage_saloon_bird_totem_head"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/mirage_saloon_bird_totem_head",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/mirage_saloon_bird_totem_head",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/mirage_saloon_bird_totem_head",
+      "y": 270
+    }
+  }
+}

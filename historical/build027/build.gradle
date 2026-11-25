@@ -1,0 +1,203 @@
+buildscript {
+ repositories { maven { url = 'https://maven.cleanroommc.com/' }; mavenCentral() }
+ dependencies { classpath 'net.minecraftforge.gradle:ForgeGradle:3.0.197' }
+}
+apply plugin: 'net.minecraftforge.gradle'
+// Old Forge development metadata contains Scala coordinates no longer mirrored.
+// This Java-only mod uses the corresponding upstream artifacts for compilation.
+configurations.all {
+ resolutionStrategy.eachDependency { d ->
+  if (d.requested.group == 'org.scala-lang.plugins' && d.requested.version == '1.0.2_mc') d.useVersion '1.0.2'
+  if (d.requested.group == 'org.scala-lang' && d.requested.name in ['scala-parser-combinators_2.11','scala-swing_2.11','scala-xml_2.11']) d.useTarget "org.scala-lang.modules:${d.requested.name}:${d.requested.version}"
+ }
+}
+version = '0.1.27-vanilla-compatibility-alpha'
+group = 'org.sonicraft.backport'
+archivesBaseName = 'sonicraft-legacy-1.12.2'
+sourceCompatibility = targetCompatibility = '1.8'
+minecraft { mappings channel: 'snapshot', version: '20171003-1.12' }
+repositories { maven { url = 'https://maven.neoforged.net/releases/' }; maven { url = 'https://maven.cleanroommc.com/' }; flatDir { dirs 'libs' } }
+dependencies {
+ minecraft 'net.minecraftforge:forge:1.12.2-14.23.5.2860'
+ implementation fg.deobf('local:geckolib-forge-1.12.2:3.0.31')
+}
+repositories.all { repo ->
+ if (repo instanceof MavenArtifactRepository && repo.url.toString().contains('maven.minecraftforge.net')) repo.url = uri('https://maven.cleanroommc.com/')
+}
+jar.finalizedBy('reobfJar')
+tasks.withType(JavaCompile) { options.sourcepath = files(); options.encoding = 'UTF-8' }
+
+task smokeCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.PortSmokeCheck'
+}
+task characterSmokeCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.CharacterSmokeCheck'
+}
+task tailsFlightCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.TailsFlightCheck'
+}
+
+task foodContentCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.FoodContentCheck'
+}
+
+task animationPlaybackCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.AnimationPlaybackCheck'
+}
+
+task characterFoodCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.CharacterFoodCheck'
+}
+
+task mobiusPortalCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.MobiusPortalCheck'
+}
+
+task renderRegressionCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.RenderRegressionCheck'
+}
+
+task environmentCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.EnvironmentCheck'
+}
+
+task floraCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.FloraCheck'
+}
+
+task mobiusZonesCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.MobiusZonesCheck'
+}
+
+task bulkContentCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.BulkContentCheck'
+}
+task emeraldProgressionCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.EmeraldProgressionCheck'
+}
+
+task regionalBiomesCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.RegionalBiomesCheck'
+ maxHeapSize = '1G'
+}
+
+task shapeContentCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.ShapeContentCheck'
+}
+
+task landmarkCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.LandmarkCheck'
+}
+
+task badnikContentCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.BadnikContentCheck'
+}
+
+task columnContentCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.ColumnContentCheck'
+}
+
+task structurePortCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.StructurePortCheck'
+}
+
+task marbleCaveCheck(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.MarbleCaveContentCheck'
+}
+
+// 0.1.15: Forge runtime checks for new decorative blocks and badnik entities.
+task batch015Check(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.BatchContent015Check'
+}
+
+// 0.1.16: Forge-level smoke checks after offline dependencies are available.
+task batch016Check(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.BatchContent016Check'
+}
+
+// 0.1.17: execute only with downloaded Forge runtime/deobfuscated classpath.
+task batch017Check(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.BatchContent017Check'
+}
+
+// 0.1.18: optional Forge registry and architecture template check.
+task batch018Check(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.BatchContent018Check'
+}
+
+task batch019Check(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.BatchContent019Check'
+}
+
+// 0.1.20: Forge-bound checks for 16-state metadata and weighted city connectors.
+task batch020Check(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.BatchContent020Check'
+}
+
+// 0.1.21: original multi-zone source jigsaw pools and final_state cleanup.
+task batch021Check(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.BatchContent021Check'
+}
+
+// 0.1.22: Expanded industrial and urban source pools, adapted Press Garden conveyor.
+task batch022Check(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.BatchContent022Check'
+}
+
+// 0.1.23: motion-block metadata, structure rotation and source world geometry.
+task batch023Check(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.BatchContent023Check'
+}
+
+// 0.1.24 stage physics, model IDs and core regression in a Forge classpath.
+task batch024Check(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.BatchContent024Check'
+}
+
+// 0.1.25: source-connected fences, panes, locked doors and 12-state oriented facades.
+task batch025Check(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.BatchContent025Check'
+}
+
+// 0.1.26: full palette ID coverage; additional visual states are persisted in tile NBT.
+task batch026Check(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.BatchContent026Check'
+}
+
+// 0.1.27: registry and template regression checks for 1.20 vanilla fallback IDs.
+task batch027Check(type: JavaExec, dependsOn: testClasses) {
+ classpath = sourceSets.test.runtimeClasspath
+ main = 'org.sonicraft.backport.BatchContent027Check'
+}

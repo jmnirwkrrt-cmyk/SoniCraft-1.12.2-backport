@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/spring_yard_wall",
+    "up": "sonicraft:blocks/spring_yard_road_top_1",
+    "north": "sonicraft:blocks/spring_yard_wall_light",
+    "east": "sonicraft:blocks/spring_yard_wall_light_1",
+    "south": "sonicraft:blocks/spring_yard_wall_light_2",
+    "west": "sonicraft:blocks/spring_yard_wall_light_3",
+    "particle": "sonicraft:blocks/spring_yard_wall_light_1"
+  }
+}

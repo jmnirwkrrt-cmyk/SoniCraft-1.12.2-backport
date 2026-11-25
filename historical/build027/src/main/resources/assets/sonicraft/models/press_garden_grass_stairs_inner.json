@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/press_garden_quartz_block_frosted_smooth",
+    "bottom": "sonicraft:blocks/press_garden_quartz_block_frosted_smooth",
+    "top": "sonicraft:blocks/press_garden_grass_top",
+    "side": "sonicraft:blocks/press_garden_grass_side"
+  }
+}

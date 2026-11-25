@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/mirage_saloon_sandstone",
+    "bottom": "sonicraft:blocks/mirage_saloon_sandstone",
+    "top": "sonicraft:blocks/mirage_saloon_sandstone",
+    "side": "sonicraft:blocks/mirage_saloon_sandstone"
+  }
+}

@@ -1,0 +1,1 @@
+P39: 92 packaged block definitions lacked material. Set the explicit stone fallback already used by BulkBlocks for materials other than wood and metal. Build with python build.py P38.jar P39.jar. Check.java deserializes the actual packaged registry and exercises P38Gel's constructor chain.

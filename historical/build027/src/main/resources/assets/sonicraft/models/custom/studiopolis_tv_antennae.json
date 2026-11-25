@@ -1,0 +1,463 @@
+{
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "from": [
+        5,
+        0,
+        5
+      ],
+      "to": [
+        11,
+        3,
+        11
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          5,
+          0,
+          5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            5,
+            7,
+            11,
+            10
+          ],
+          "texture": "#antennae"
+        },
+        "east": {
+          "uv": [
+            0,
+            10,
+            6,
+            13
+          ],
+          "texture": "#antennae"
+        },
+        "south": {
+          "uv": [
+            0,
+            10,
+            6,
+            13
+          ],
+          "texture": "#antennae"
+        },
+        "west": {
+          "uv": [
+            0,
+            10,
+            6,
+            13
+          ],
+          "texture": "#antennae"
+        },
+        "up": {
+          "uv": [
+            6,
+            10,
+            12,
+            16
+          ],
+          "texture": "#antennae"
+        },
+        "down": {
+          "uv": [
+            6,
+            10,
+            12,
+            16
+          ],
+          "texture": "#antennae"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        3,
+        8
+      ],
+      "to": [
+        16,
+        10,
+        8
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          0,
+          3,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            7
+          ],
+          "texture": "#antennae"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            7
+          ],
+          "texture": "#antennae"
+        }
+      }
+    },
+    {
+      "from": [
+        1,
+        2.5,
+        7.5
+      ],
+      "to": [
+        15,
+        8.5,
+        8.5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          1,
+          2.5,
+          7.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1,
+            6,
+            3,
+            8
+          ],
+          "texture": "#antennae"
+        },
+        "east": {
+          "uv": [
+            1,
+            6,
+            3,
+            8
+          ],
+          "texture": "#antennae"
+        },
+        "south": {
+          "uv": [
+            1,
+            6,
+            3,
+            8
+          ],
+          "texture": "#antennae"
+        },
+        "west": {
+          "uv": [
+            1,
+            6,
+            3,
+            8
+          ],
+          "texture": "#antennae"
+        },
+        "up": {
+          "uv": [
+            1,
+            6,
+            3,
+            8
+          ],
+          "texture": "#antennae"
+        },
+        "down": {
+          "uv": [
+            1,
+            6,
+            3,
+            8
+          ],
+          "texture": "#antennae"
+        }
+      }
+    },
+    {
+      "from": [
+        14,
+        8,
+        7
+      ],
+      "to": [
+        16,
+        10,
+        9
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          15.5,
+          9.5,
+          8.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            2,
+            2
+          ],
+          "texture": "#antennae"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            2,
+            2
+          ],
+          "texture": "#antennae"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            2,
+            2
+          ],
+          "texture": "#antennae"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            2,
+            2
+          ],
+          "texture": "#antennae"
+        },
+        "up": {
+          "uv": [
+            0,
+            13,
+            2,
+            15
+          ],
+          "texture": "#antennae"
+        },
+        "down": {
+          "uv": [
+            2,
+            13,
+            4,
+            15
+          ],
+          "texture": "#antennae"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        8,
+        7
+      ],
+      "to": [
+        2,
+        10,
+        9
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          1.5,
+          9.5,
+          8.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            2,
+            2
+          ],
+          "texture": "#antennae"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            2,
+            2
+          ],
+          "texture": "#antennae"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            2,
+            2
+          ],
+          "texture": "#antennae"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            2,
+            2
+          ],
+          "texture": "#antennae"
+        },
+        "up": {
+          "uv": [
+            0,
+            13,
+            2,
+            15
+          ],
+          "texture": "#antennae"
+        },
+        "down": {
+          "uv": [
+            2,
+            13,
+            4,
+            15
+          ],
+          "texture": "#antennae"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        45,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        225,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        225,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    },
+    "fixed": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "antenna",
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "color": 0,
+      "children": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ]
+}

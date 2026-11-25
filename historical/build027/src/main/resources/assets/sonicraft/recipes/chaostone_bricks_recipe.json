@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:cobbled_chaostone"
+    }
+  },
+  "result": {
+    "item": "sonicraft:chaostone_bricks",
+    "count": 4
+  }
+}

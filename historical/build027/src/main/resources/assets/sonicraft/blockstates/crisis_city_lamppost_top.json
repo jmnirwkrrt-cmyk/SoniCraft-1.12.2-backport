@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/crisis_city_lamppost_top"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/crisis_city_lamppost_top",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/crisis_city_lamppost_top",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/crisis_city_lamppost_top",
+      "y": 270
+    }
+  }
+}

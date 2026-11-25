@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_nugget",
+      "data": 0
+    },
+    "b": {
+      "item": "minecraft:gold_ingot",
+      "data": 0
+    },
+    "c": {
+      "item": "sonicraft:item_box",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:item_box_rings",
+    "count": 1,
+    "data": 0
+  }
+}

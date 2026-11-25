@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "sonicraft:blocks/ocean_palace_stone",
+    "particle": "sonicraft:blocks/ocean_palace_stone"
+  }
+}

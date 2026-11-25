@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:custom/oil_ocean_burner_cap_particle"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:oil_ocean_burner_cap_blockstate_0"
+    }
+  }
+}

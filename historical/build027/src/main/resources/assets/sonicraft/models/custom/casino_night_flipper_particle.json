@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/casino_night_flipper.item",
+  "textures": {
+    "particle": "sonicraft:blocks/casino_night_flipper_green_particle"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": {
+      "model": "sonicraft:block/stripped_hillpine_log",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

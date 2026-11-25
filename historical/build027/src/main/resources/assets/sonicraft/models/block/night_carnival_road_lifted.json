@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/night_carnival_road_lifted",
+  "textures": {
+    "all": "sonicraft:blocks/night_carnival_road_lifted_side",
+    "particle": "sonicraft:blocks/night_carnival_floor_lower_bottom",
+    "side": "sonicraft:blocks/night_carnival_road_lifted_side",
+    "top": "sonicraft:blocks/night_carnival_road_top",
+    "bottom": "sonicraft:blocks/night_carnival_floor_lower_bottom"
+  }
+}

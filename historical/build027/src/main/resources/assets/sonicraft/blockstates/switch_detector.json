@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:block/switch_detector"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:block/switch_detector"
+    }
+  }
+}

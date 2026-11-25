@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/hillpine_log_top_stripped",
+    "up": "sonicraft:blocks/hillpine_log_top_stripped",
+    "north": "sonicraft:blocks/hillpine_log_side_stripped",
+    "east": "sonicraft:blocks/hillpine_log_side_stripped",
+    "south": "sonicraft:blocks/hillpine_log_side_stripped",
+    "west": "sonicraft:blocks/hillpine_log_side_stripped",
+    "particle": "sonicraft:blocks/hillpine_log_top_stripped"
+  }
+}

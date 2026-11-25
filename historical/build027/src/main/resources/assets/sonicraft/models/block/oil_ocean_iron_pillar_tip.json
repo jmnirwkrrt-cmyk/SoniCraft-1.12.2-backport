@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/oil_ocean_pillar_tip",
+  "textures": {
+    "all": "sonicraft:blocks/oil_ocean_pillar_tip_side",
+    "particle": "sonicraft:blocks/oil_ocean_pillar_tip_side",
+    "side": "sonicraft:blocks/oil_ocean_pillar_tip_side",
+    "top": "sonicraft:blocks/oil_ocean_pillar_tip_top",
+    "bottom": "sonicraft:blocks/oil_ocean_pillar_tip_bottom"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/chemical_plant_neon_tile_back",
+    "up": "sonicraft:blocks/chemical_plant_neon_tile_back",
+    "north": "sonicraft:blocks/chemical_plant_neon_tile_orange_2",
+    "east": "sonicraft:blocks/chemical_plant_neon_tile_orange_1",
+    "south": "sonicraft:blocks/chemical_plant_neon_tile_back",
+    "west": "sonicraft:blocks/chemical_plant_neon_tile_orange_3",
+    "particle": "sonicraft:blocks/chemical_plant_neon_tile_back"
+  }
+}

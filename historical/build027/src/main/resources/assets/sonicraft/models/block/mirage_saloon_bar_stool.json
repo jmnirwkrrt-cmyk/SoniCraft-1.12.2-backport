@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/mirage_saloon_bar_stool",
+  "textures": {
+    "all": "sonicraft:blocks/mirage_saloon_bar_stool",
+    "particle": "sonicraft:blocks/mirage_saloon_bar_stool_bottom",
+    "seat": "sonicraft:blocks/mirage_saloon_bar_stool_seat",
+    "side": "sonicraft:blocks/mirage_saloon_bar_stool_side",
+    "bottom": "sonicraft:blocks/mirage_saloon_bar_stool_bottom"
+  }
+}

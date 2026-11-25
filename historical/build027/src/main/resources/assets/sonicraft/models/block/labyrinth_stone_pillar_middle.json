@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/labyrinth_pillar",
+  "textures": {
+    "all": "sonicraft:blocks/labyrinthblock_pillar_middle",
+    "particle": "sonicraft:blocks/labyrinthblock_pillar",
+    "0": "sonicraft:blocks/labyrinthblock_pillar_middle"
+  }
+}

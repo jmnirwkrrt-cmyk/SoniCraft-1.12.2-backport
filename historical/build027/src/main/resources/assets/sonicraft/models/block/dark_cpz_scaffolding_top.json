@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/chemical_plant_neon_tile_back",
+    "up": "sonicraft:blocks/chemical_plant_neon_tile_back",
+    "north": "sonicraft:blocks/chemical_plant_gray_scaffolding_blinking_1",
+    "east": "sonicraft:blocks/chemical_plant_gray_scaffolding_blinking_2",
+    "south": "sonicraft:blocks/chemical_plant_gray_scaffolding_blinking_1",
+    "west": "sonicraft:blocks/chemical_plant_gray_scaffolding_blinking_2",
+    "particle": "sonicraft:blocks/chemical_plant_gray_scaffolding_blinking_1"
+  }
+}

@@ -1,0 +1,548 @@
+{
+  "format_version": "1.21.6",
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "from": [
+        4,
+        4,
+        0
+      ],
+      "to": [
+        12,
+        12,
+        8
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            8,
+            16,
+            16
+          ],
+          "rotation": 180,
+          "texture": "#microphone"
+        },
+        "east": {
+          "uv": [
+            0,
+            8,
+            8,
+            16
+          ],
+          "rotation": 90,
+          "texture": "#microphone"
+        },
+        "south": {
+          "uv": [
+            8,
+            8,
+            16,
+            16
+          ],
+          "texture": "#microphone"
+        },
+        "west": {
+          "uv": [
+            0,
+            8,
+            8,
+            16
+          ],
+          "rotation": 270,
+          "texture": "#microphone"
+        },
+        "up": {
+          "uv": [
+            0,
+            8,
+            8,
+            16
+          ],
+          "texture": "#microphone"
+        },
+        "down": {
+          "uv": [
+            0,
+            8,
+            8,
+            16
+          ],
+          "rotation": 180,
+          "texture": "#microphone"
+        }
+      }
+    },
+    {
+      "from": [
+        3.5,
+        3.5,
+        5
+      ],
+      "to": [
+        12.5,
+        12.5,
+        6
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            8,
+            16,
+            16
+          ],
+          "rotation": 180,
+          "texture": "#microphone"
+        },
+        "east": {
+          "uv": [
+            7,
+            7,
+            16,
+            8
+          ],
+          "rotation": 90,
+          "texture": "#microphone"
+        },
+        "south": {
+          "uv": [
+            8,
+            8,
+            16,
+            16
+          ],
+          "texture": "#microphone"
+        },
+        "west": {
+          "uv": [
+            7,
+            7,
+            16,
+            8
+          ],
+          "rotation": 270,
+          "texture": "#microphone"
+        },
+        "up": {
+          "uv": [
+            7,
+            7,
+            16,
+            8
+          ],
+          "texture": "#microphone"
+        },
+        "down": {
+          "uv": [
+            7,
+            7,
+            16,
+            8
+          ],
+          "rotation": 180,
+          "texture": "#microphone"
+        }
+      }
+    },
+    {
+      "from": [
+        3.5,
+        3.5,
+        2
+      ],
+      "to": [
+        12.5,
+        12.5,
+        3
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            8,
+            16,
+            16
+          ],
+          "rotation": 180,
+          "texture": "#microphone"
+        },
+        "east": {
+          "uv": [
+            7,
+            6,
+            16,
+            7
+          ],
+          "rotation": 90,
+          "texture": "#microphone"
+        },
+        "south": {
+          "uv": [
+            8,
+            8,
+            16,
+            16
+          ],
+          "texture": "#microphone"
+        },
+        "west": {
+          "uv": [
+            7,
+            6,
+            16,
+            7
+          ],
+          "rotation": 270,
+          "texture": "#microphone"
+        },
+        "up": {
+          "uv": [
+            7,
+            6,
+            16,
+            7
+          ],
+          "texture": "#microphone"
+        },
+        "down": {
+          "uv": [
+            7,
+            6,
+            16,
+            7
+          ],
+          "rotation": 180,
+          "texture": "#microphone"
+        }
+      }
+    },
+    {
+      "from": [
+        5,
+        5,
+        10
+      ],
+      "to": [
+        11,
+        11,
+        16
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1,
+            0,
+            7,
+            6
+          ],
+          "rotation": 180,
+          "texture": "#microphone"
+        },
+        "east": {
+          "uv": [
+            1,
+            0,
+            7,
+            6
+          ],
+          "rotation": 90,
+          "texture": "#microphone"
+        },
+        "south": {
+          "uv": [
+            1,
+            0,
+            7,
+            6
+          ],
+          "texture": "#microphone"
+        },
+        "west": {
+          "uv": [
+            1,
+            0,
+            7,
+            6
+          ],
+          "rotation": 270,
+          "texture": "#microphone"
+        },
+        "up": {
+          "uv": [
+            1,
+            0,
+            7,
+            6
+          ],
+          "texture": "#microphone"
+        },
+        "down": {
+          "uv": [
+            1,
+            0,
+            7,
+            6
+          ],
+          "rotation": 180,
+          "texture": "#microphone"
+        }
+      }
+    },
+    {
+      "from": [
+        6,
+        6,
+        8
+      ],
+      "to": [
+        10,
+        10,
+        10
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            1,
+            6,
+            5
+          ],
+          "rotation": 180,
+          "texture": "#microphone"
+        },
+        "east": {
+          "uv": [
+            2,
+            6,
+            6,
+            8
+          ],
+          "rotation": 90,
+          "texture": "#microphone"
+        },
+        "south": {
+          "uv": [
+            2,
+            1,
+            6,
+            5
+          ],
+          "texture": "#microphone"
+        },
+        "west": {
+          "uv": [
+            2,
+            6,
+            6,
+            8
+          ],
+          "rotation": 270,
+          "texture": "#microphone"
+        },
+        "up": {
+          "uv": [
+            2,
+            6,
+            6,
+            8
+          ],
+          "texture": "#microphone"
+        },
+        "down": {
+          "uv": [
+            2,
+            6,
+            6,
+            8
+          ],
+          "rotation": 180,
+          "texture": "#microphone"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1.5,
+        1
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1.5,
+        1
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        64,
+        0,
+        0
+      ],
+      "translation": [
+        1.13,
+        3.2,
+        1.13
+      ],
+      "scale": [
+        0.68,
+        0.68,
+        0.68
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        64,
+        0,
+        0
+      ],
+      "translation": [
+        1.13,
+        3.2,
+        1.13
+      ],
+      "scale": [
+        0.68,
+        0.68,
+        0.68
+      ]
+    },
+    "ground": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "gui": {
+      "rotation": [
+        120,
+        0,
+        45
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    },
+    "head": {
+      "rotation": [
+        -90,
+        -180,
+        0
+      ],
+      "translation": [
+        0,
+        10,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        -90,
+        -180,
+        0
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "group",
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "color": 0,
+      "children": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "textures": {}
+}

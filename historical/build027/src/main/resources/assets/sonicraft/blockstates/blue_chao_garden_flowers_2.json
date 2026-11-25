@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/blue_chao_garden_flowers_2"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/blue_chao_garden_flowers_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/blue_chao_garden_flowers_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/blue_chao_garden_flowers_2",
+      "y": 270
+    }
+  }
+}

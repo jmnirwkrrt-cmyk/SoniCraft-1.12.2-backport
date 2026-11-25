@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/studiopolis_egg_tv_screen_large.item",
+  "textures": {
+    "particle": "sonicraft:blocks/studiopolis_egg_tv_screen_large_frame"
+  }
+}

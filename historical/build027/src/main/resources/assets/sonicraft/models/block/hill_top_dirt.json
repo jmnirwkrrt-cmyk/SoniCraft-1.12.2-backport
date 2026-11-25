@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/hill_top_dirt_4",
+    "up": "sonicraft:blocks/hill_top_dirt_5",
+    "north": "sonicraft:blocks/hill_top_dirt_6",
+    "east": "sonicraft:blocks/hill_top_dirt_1",
+    "south": "sonicraft:blocks/hill_top_dirt_2",
+    "west": "sonicraft:blocks/hill_top_dirt_3",
+    "particle": "sonicraft:blocks/hill_top_dirt_4"
+  }
+}

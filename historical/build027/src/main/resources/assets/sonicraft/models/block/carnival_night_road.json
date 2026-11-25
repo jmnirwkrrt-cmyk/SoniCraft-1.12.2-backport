@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/carnival_night_road_top",
+    "up": "sonicraft:blocks/carnival_night_road_top",
+    "north": "sonicraft:blocks/carnival_night_road",
+    "east": "sonicraft:blocks/carnival_night_road",
+    "south": "sonicraft:blocks/carnival_night_road",
+    "west": "sonicraft:blocks/carnival_night_road",
+    "particle": "sonicraft:blocks/carnival_night_road_top"
+  }
+}

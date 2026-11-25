@@ -1,0 +1,53 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Creative Commons Attribution-NonCommercial 3.0"
+
+[[mods]]
+modId="sonicraft"
+version="1.10.1"
+displayName="SoniCraft"
+displayURL="https://enderpreston.wixsite.com/sonicraft"
+logoFile="logo.png"
+credits="Diagonal Spring Base and various textures and models (Eggman, Springs, Goal Plate, Item Box, etc.) by Henry-3230 - Star Post spawnpoint code by pp lo h ~ Metal Sonic character icon by Lone Devil ~ Super Sonic character icon by Joe T.E. ~ Espio character icon by MystTE ~ Charmy character icon by FroggyMudd ~ All Sonic assets belong to Sega. No infringement was intended."
+authors="EnderPreston"
+description="The blue blur is back in Minecraft, now faster and cooler than ever! In addition to the blue blur himself, this mod also adds Sonic's friends (and foes), Sonic's world, and dozens of objects and items that you would see or hear of in the various Sonic The Hedgehog games!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.sonicraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.sonicraft]]
+    modId="curios"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.sonicraft]]
+    modId="geckolib"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.sonicraft]]
+    modId="curios_api"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.sonicraft]]
+    modId="geckolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "half=bottom": [
+      {
+        "model": "sonicraft:block/aquatic_ruin_brick_slab_1"
+      },
+      {
+        "model": "sonicraft:block/aquatic_ruin_brick_slab_4"
+      }
+    ],
+    "half=top": [
+      {
+        "model": "sonicraft:block/aquatic_ruin_brick_slab_top_1"
+      },
+      {
+        "model": "sonicraft:block/aquatic_ruin_brick_slab_top_4"
+      }
+    ]
+  }
+}

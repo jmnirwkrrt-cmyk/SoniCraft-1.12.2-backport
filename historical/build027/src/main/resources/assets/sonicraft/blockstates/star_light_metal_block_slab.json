@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:star_light_metal_block_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:star_light_metal_block_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:star_light_metal_block_slab_full"
+    }
+  }
+}

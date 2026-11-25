@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/marble_chain",
+  "textures": {
+    "all": "sonicraft:blocks/marble_chain",
+    "particle": "sonicraft:blocks/marble_chain",
+    "0": "sonicraft:blocks/marble_chain"
+  }
+}

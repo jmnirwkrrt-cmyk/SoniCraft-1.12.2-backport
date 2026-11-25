@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:custom/bouncy_checkpoint_top_particle"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:bouncy_checkpoint_top_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "sonicraft:bouncy_checkpoint_top_blockstate_1"
+    }
+  }
+}

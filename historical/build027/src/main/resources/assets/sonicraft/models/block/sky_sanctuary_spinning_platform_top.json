@@ -1,0 +1,9 @@
+{
+  "parent": "block/upper_slab",
+  "textures": {
+    "particle": "sonicraft:blocks/sky_sanctuary_spinning_platform_bottom",
+    "bottom": "sonicraft:blocks/sky_sanctuary_spinning_platform_bottom",
+    "top": "sonicraft:blocks/sky_sanctuary_spinning_platform_top",
+    "side": "sonicraft:blocks/sky_sanctuary_spinning_platform"
+  }
+}

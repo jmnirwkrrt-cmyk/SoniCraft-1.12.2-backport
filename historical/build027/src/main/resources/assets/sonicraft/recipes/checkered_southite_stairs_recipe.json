@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:checkered_southite"
+    }
+  },
+  "result": {
+    "item": "sonicraft:checkered_southite_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/half_slab",
+  "textures": {
+    "particle": "sonicraft:blocks/oil_ocean_tiles",
+    "bottom": "sonicraft:blocks/oil_ocean_tiles",
+    "top": "sonicraft:blocks/oil_ocean_tiles",
+    "side": "sonicraft:blocks/oil_ocean_tiles"
+  }
+}

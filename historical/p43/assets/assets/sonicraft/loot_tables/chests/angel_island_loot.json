@@ -1,0 +1,373 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 4
+      },
+      "entries": [
+        {
+          "type": "empty",
+          "entryName": "source_entry_0",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:gold_ring",
+          "weight": 18,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 12
+              }
+            }
+          ],
+          "entryName": "source_entry_1"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_2",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:item_box",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "entryName": "source_entry_3"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:chili_dog",
+          "weight": 14,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ],
+          "entryName": "source_entry_4"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:item_box_sonic",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_5"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_6",
+          "weight": 11
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:item_box_flame_shield",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_7"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:item_box_aqua_shield",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_8"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:item_box_thunder_shield",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_9"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_10",
+          "weight": 7
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:special_stage_key",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_11"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ],
+          "entryName": "source_entry_12"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:redstone",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 7
+              }
+            }
+          ],
+          "entryName": "source_entry_13"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_ingot",
+          "weight": 9,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 5
+              }
+            }
+          ],
+          "entryName": "source_entry_14"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_horse_armor",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_15"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_16",
+          "weight": 9
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:grapes",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 3,
+                "max": 8
+              }
+            }
+          ],
+          "entryName": "source_entry_17"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_18",
+          "weight": 3
+        }
+      ],
+      "name": "source_pool_0"
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "sonicraft:gold_ring",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              }
+            }
+          ],
+          "entryName": "source_entry_0"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:red_chao_fruit",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "entryName": "source_entry_1"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:orange_chao_fruit",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "entryName": "source_entry_2"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:yellow_chao_fruit",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "entryName": "source_entry_3"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:green_chao_fruit",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "entryName": "source_entry_4"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:blue_chao_fruit",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "entryName": "source_entry_5"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:purple_chao_fruit",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "entryName": "source_entry_6"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:pink_chao_fruit",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "entryName": "source_entry_7"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_8",
+          "weight": 1
+        }
+      ],
+      "name": "source_pool_1"
+    }
+  ],
+  "random_sequence": "sonicraft:chests/angel_island_loot"
+}

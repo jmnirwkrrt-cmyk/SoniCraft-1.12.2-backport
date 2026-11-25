@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/studiopolis_tv_antennae",
+  "textures": {
+    "all": "sonicraft:blocks/studiopolis_tv_antennae",
+    "particle": "sonicraft:blocks/studiopolis_tv_antennae",
+    "antennae": "sonicraft:blocks/studiopolis_tv_antennae"
+  }
+}

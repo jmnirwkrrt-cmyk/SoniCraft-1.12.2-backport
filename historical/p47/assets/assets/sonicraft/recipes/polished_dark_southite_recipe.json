@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:dark_southite",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:polished_dark_southite",
+    "count": 4,
+    "data": 0
+  }
+}

@@ -1,0 +1,316 @@
+[
+  {
+    "id": "green_hill_bridge_lake",
+    "template": "green_hill_lake_p45",
+    "original": "green_hill_lake",
+    "biomes": [
+      "green_hill_zone"
+    ],
+    "chance": 10,
+    "salt": 326698728,
+    "offset": [
+      0,
+      -7,
+      0
+    ],
+    "rotate": true,
+    "mirror": false,
+    "ground": [
+      "sonicraft:ghz_grass"
+    ]
+  },
+  {
+    "id": "green_hill_mountain_feature",
+    "template": "green_hill_mountain_small_1_p45",
+    "original": "green_hill_mountain_small_1",
+    "biomes": [
+      "green_hill_zone"
+    ],
+    "chance": 5,
+    "salt": 3263990874,
+    "offset": [
+      -7,
+      -6,
+      -7
+    ],
+    "rotate": false,
+    "mirror": false,
+    "ground": [
+      "sonicraft:ghz_grass"
+    ]
+  },
+  {
+    "id": "ghz_totem_feature",
+    "template": "green_hill_totem_p45",
+    "original": "green_hill_totem",
+    "biomes": [
+      "green_hill_zone"
+    ],
+    "chance": 3,
+    "salt": 975779406,
+    "offset": [
+      0,
+      0,
+      0
+    ],
+    "rotate": true,
+    "mirror": true,
+    "ground": [
+      "sonicraft:ghz_grass"
+    ]
+  },
+  {
+    "id": "marble_ruins_feature",
+    "template": "marble_ruins_1_p45",
+    "original": "marble_ruins_1",
+    "biomes": [
+      "marble_zone"
+    ],
+    "chance": 12,
+    "salt": 2594931232,
+    "offset": [
+      0,
+      -8,
+      0
+    ],
+    "rotate": true,
+    "mirror": true,
+    "ground": []
+  },
+  {
+    "id": "ice_cap_pit_1_feature",
+    "template": "ice_cap_pit_p45",
+    "original": "ice_cap_pit",
+    "biomes": [
+      "ice_cap_zone"
+    ],
+    "chance": 11,
+    "salt": 3514235162,
+    "offset": [
+      0,
+      -10,
+      0
+    ],
+    "rotate": true,
+    "mirror": true,
+    "ground": [
+      "sonicraft:ice_cap_road"
+    ]
+  },
+  {
+    "id": "sandopolis_playground_1_feature",
+    "template": "sandopolis_playground_1_p45",
+    "original": "sandopolis_playground_1",
+    "biomes": [
+      "sandopolis_zone"
+    ],
+    "chance": 11,
+    "salt": 1133618774,
+    "offset": [
+      0,
+      -5,
+      0
+    ],
+    "rotate": true,
+    "mirror": true,
+    "ground": [
+      "sonicraft:sandopolis_sand"
+    ]
+  },
+  {
+    "id": "sandopolis_tower_feature",
+    "template": "sandopolis_tower_p45",
+    "original": "sandopolis_tower",
+    "biomes": [
+      "sandopolis_zone"
+    ],
+    "chance": 11,
+    "salt": 1987949844,
+    "offset": [
+      0,
+      -5,
+      0
+    ],
+    "rotate": true,
+    "mirror": true,
+    "ground": [
+      "sonicraft:sandopolis_sand"
+    ]
+  },
+  {
+    "id": "aquatic_ruin_platform_1_feature",
+    "template": "aquatic_ruin_platform_1_p45",
+    "original": "aquatic_ruin_platform_1",
+    "biomes": [
+      "aquatic_ruin_zone"
+    ],
+    "chance": 5,
+    "salt": 855089570,
+    "offset": [
+      0,
+      -3,
+      0
+    ],
+    "rotate": true,
+    "mirror": true,
+    "ground": [
+      "sonicraft:aquatic_ruin_grass"
+    ]
+  },
+  {
+    "id": "aquatic_ruin_big_platform_1_feature",
+    "template": "aquatic_ruin_big_platform_1_p45",
+    "original": "aquatic_ruin_big_platform_1",
+    "biomes": [
+      "aquatic_ruin_zone"
+    ],
+    "chance": 10,
+    "salt": 3502711776,
+    "offset": [
+      0,
+      -7,
+      0
+    ],
+    "rotate": true,
+    "mirror": true,
+    "ground": []
+  },
+  {
+    "id": "aquatic_ruin_floating_platform_feature",
+    "template": "aquatic_ruin_floating_platform_p45",
+    "original": "aquatic_ruin_floating_platform",
+    "biomes": [
+      "aquatic_ruin_zone"
+    ],
+    "chance": 10,
+    "salt": 1714316430,
+    "offset": [
+      0,
+      16,
+      0
+    ],
+    "rotate": true,
+    "mirror": true,
+    "ground": []
+  },
+  {
+    "id": "seaside_hill_columns",
+    "template": "seaside_hill_column_1_p45",
+    "original": "seaside_hill_column_1",
+    "biomes": [
+      "seaside_hill_zone"
+    ],
+    "chance": 6,
+    "salt": 3323726784,
+    "offset": [
+      -2,
+      -6,
+      -2
+    ],
+    "rotate": false,
+    "mirror": false,
+    "ground": [
+      "sonicraft:seaside_hill_grass"
+    ]
+  },
+  {
+    "id": "mushroom_hill_mushroom_spawn_feature",
+    "template": "giant_mushroom_1_p45",
+    "original": "giant_mushroom_1",
+    "biomes": [
+      "mushroom_hill_zone"
+    ],
+    "chance": 3,
+    "salt": 1622443061,
+    "offset": [
+      0,
+      -4,
+      0
+    ],
+    "rotate": true,
+    "mirror": true,
+    "ground": [
+      "sonicraft:mushroom_hill_grass"
+    ]
+  },
+  {
+    "id": "hill_top_rexon_lava_lake",
+    "template": "hill_top_lava_lake_p45",
+    "original": "hill_top_lava_lake",
+    "biomes": [
+      "hill_top_zone"
+    ],
+    "chance": 6,
+    "salt": 1222590044,
+    "offset": [
+      0,
+      -7,
+      0
+    ],
+    "rotate": true,
+    "mirror": true,
+    "ground": [
+      "sonicraft:hill_top_grass"
+    ]
+  },
+  {
+    "id": "angel_island_boulder_feature",
+    "template": "angel_island_boulder_p48",
+    "original": "angel_island_boulder",
+    "biomes": [
+      "angel_island_jungle"
+    ],
+    "chance": 3,
+    "salt": 2533370738,
+    "offset": [
+      0,
+      0,
+      0
+    ],
+    "rotate": true,
+    "mirror": true,
+    "ground": [
+      "sonicraft:angel_island_grass"
+    ]
+  },
+  {
+    "id": "shuttle_loop_spawn_feature",
+    "template": "ghz_loop_p48",
+    "original": "ghz_loop",
+    "biomes": [
+      "green_hill_zone"
+    ],
+    "chance": 32,
+    "salt": 2596899352,
+    "offset": [
+      0,
+      -20,
+      0
+    ],
+    "rotate": true,
+    "mirror": true,
+    "ground": [
+      "sonicraft:ghz_grass"
+    ]
+  },
+  {
+    "id": "emerald_hill_shuttle_loop_spawn_feature",
+    "template": "ehz_loop_p48",
+    "original": "ehz_loop",
+    "biomes": [
+      "emerald_hill_zone"
+    ],
+    "chance": 32,
+    "salt": 2822407165,
+    "offset": [
+      0,
+      -20,
+      0
+    ],
+    "rotate": true,
+    "mirror": true,
+    "ground": [
+      "sonicraft:ehz_grass"
+    ]
+  }
+]

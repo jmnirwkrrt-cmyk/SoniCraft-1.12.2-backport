@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/hydrocity_bricks_2",
+    "up": "sonicraft:blocks/hydrocity_road_top",
+    "north": "sonicraft:blocks/hydrocity_road_2",
+    "east": "sonicraft:blocks/hydrocity_road_2",
+    "south": "sonicraft:blocks/hydrocity_road_2",
+    "west": "sonicraft:blocks/hydrocity_road_2",
+    "particle": "sonicraft:blocks/hydrocity_bricks_2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/chemical_plant_road_slope",
+  "textures": {
+    "all": "sonicraft:blocks/chemical_plant_road_stairs",
+    "particle": "sonicraft:blocks/chemical_plant_road_front",
+    "0": "sonicraft:blocks/chemical_plant_road_stairs_top"
+  }
+}

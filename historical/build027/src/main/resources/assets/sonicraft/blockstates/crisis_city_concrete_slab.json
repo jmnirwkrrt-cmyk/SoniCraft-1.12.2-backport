@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom": {
+      "model": "sonicraft:block/crisis_city_concrete_slab"
+    },
+    "half=top": {
+      "model": "sonicraft:block/crisis_city_concrete_slab_top"
+    }
+  }
+}

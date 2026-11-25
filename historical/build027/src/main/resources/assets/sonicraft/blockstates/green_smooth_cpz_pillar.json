@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/green_smooth_cpz_pillar"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/green_smooth_cpz_pillar",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/green_smooth_cpz_pillar",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/green_smooth_cpz_pillar",
+      "y": 270
+    }
+  }
+}

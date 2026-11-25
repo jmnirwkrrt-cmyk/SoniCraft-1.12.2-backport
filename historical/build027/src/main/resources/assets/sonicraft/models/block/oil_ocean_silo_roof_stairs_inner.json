@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/oil_ocean_silo_roof_bottom",
+    "bottom": "sonicraft:blocks/oil_ocean_silo_roof_bottom",
+    "top": "sonicraft:blocks/oil_ocean_silo_roof_top",
+    "side": "sonicraft:blocks/oil_ocean_silo_roof"
+  }
+}

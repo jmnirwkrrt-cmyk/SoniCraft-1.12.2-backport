@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/chemical_plant_yellow_neon_light",
+    "particle": "sonicraft:blocks/chemical_plant_yellow_neon_light"
+  }
+}

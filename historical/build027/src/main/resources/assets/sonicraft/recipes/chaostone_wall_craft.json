@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:chaostone"
+    }
+  },
+  "result": {
+    "item": "sonicraft:chaostone_wall",
+    "count": 6
+  }
+}

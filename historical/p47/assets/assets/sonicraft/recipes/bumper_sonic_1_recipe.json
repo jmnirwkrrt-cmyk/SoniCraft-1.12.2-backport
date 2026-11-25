@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sonicraft:spring",
+      "data": 0
+    },
+    {
+      "item": "sonicraft:spring",
+      "data": 0
+    },
+    {
+      "item": "sonicraft:spring",
+      "data": 0
+    },
+    {
+      "item": "sonicraft:spring",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "sonicraft:bumper_sonic_1",
+    "count": 2,
+    "data": 0
+  }
+}

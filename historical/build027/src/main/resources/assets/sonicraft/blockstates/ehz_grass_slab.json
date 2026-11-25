@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom": {
+      "model": "sonicraft:ehz_grass_slab"
+    },
+    "half=top": {
+      "model": "sonicraft:ehz_grass_slab_top"
+    }
+  }
+}

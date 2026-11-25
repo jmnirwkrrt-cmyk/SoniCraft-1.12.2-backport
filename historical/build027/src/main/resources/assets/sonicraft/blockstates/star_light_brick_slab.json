@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:star_light_brick_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:star_light_brick_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:star_light_brick_slab_full"
+    }
+  }
+}

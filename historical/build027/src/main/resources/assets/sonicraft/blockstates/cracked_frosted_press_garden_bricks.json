@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "sonicraft:block/cracked_frosted_press_garden_bricks_1"
+      },
+      {
+        "model": "sonicraft:block/cracked_frosted_press_garden_bricks_2"
+      },
+      {
+        "model": "sonicraft:block/cracked_frosted_press_garden_bricks_3"
+      },
+      {
+        "model": "sonicraft:block/cracked_frosted_press_garden_bricks_4"
+      },
+      {
+        "model": "sonicraft:block/cracked_frosted_press_garden_bricks_5"
+      },
+      {
+        "model": "sonicraft:block/cracked_frosted_press_garden_bricks_6"
+      },
+      {
+        "model": "sonicraft:block/cracked_frosted_press_garden_bricks"
+      }
+    ]
+  }
+}

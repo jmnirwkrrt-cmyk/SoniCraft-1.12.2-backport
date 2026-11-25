@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:spikes",
+      "data": 0
+    },
+    "b": {
+      "item": "minecraft:iron_block",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:iron_ball",
+    "count": 1,
+    "data": 0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/press_garden_quartz_block_frosted_smooth",
+    "up": "sonicraft:blocks/press_garden_quartz_block_frosted_smooth",
+    "north": "sonicraft:blocks/press_garden_quartz_block_frosted_lower_column_front",
+    "east": "sonicraft:blocks/press_garden_quartz_block_frosted_lower_column_side_1",
+    "south": "sonicraft:blocks/press_garden_quartz_block_frosted_lower_column_side_1",
+    "west": "sonicraft:blocks/press_garden_quartz_block_frosted_lower_column_side_2",
+    "particle": "sonicraft:blocks/press_garden_quartz_block_frosted_smooth"
+  }
+}

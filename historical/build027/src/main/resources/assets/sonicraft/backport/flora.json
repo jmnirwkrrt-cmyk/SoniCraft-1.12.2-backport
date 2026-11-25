@@ -1,0 +1,112 @@
+[
+  {
+    "biome": "green_hill_zone",
+    "source": "green_hill_flower_feature",
+    "tries": 16,
+    "xz": 12,
+    "y": 4,
+    "choices": [
+      {
+        "id": "ghz_sunflower",
+        "soil": "ghz_grass",
+        "chance": 0.5
+      },
+      {
+        "id": "ghz_flower",
+        "soil": "ghz_grass",
+        "chance": 0.5
+      },
+      {
+        "id": "ghz_bush",
+        "soil": "ghz_grass",
+        "chance": 0.5
+      }
+    ]
+  },
+  {
+    "biome": "emerald_hill_zone",
+    "source": "emerald_hill_flower_feature",
+    "tries": 16,
+    "xz": 12,
+    "y": 4,
+    "choices": [
+      {
+        "id": "ehz_flower_spinning",
+        "soil": "ehz_grass",
+        "chance": 0.5
+      },
+      {
+        "id": "ehz_flower_curling",
+        "soil": "ehz_grass",
+        "chance": 0.5
+      },
+      {
+        "id": "ehz_flower_bouncing",
+        "soil": "ehz_grass",
+        "chance": 0.5
+      },
+      {
+        "id": "ehz_flower_blooming",
+        "soil": "ehz_grass",
+        "chance": 0.5
+      }
+    ]
+  },
+  {
+    "biome": "emerald_hill_zone",
+    "source": "emerald_hill_flower_bed_feature",
+    "tries": 96,
+    "xz": 6,
+    "y": 4,
+    "choices": [
+      {
+        "id": "ehz_flower_bed",
+        "soil": "ehz_grass",
+        "chance": 1.0
+      }
+    ]
+  },
+  {
+    "biome": "hill_top_zone",
+    "source": "hill_top_flower_feature",
+    "tries": 16,
+    "xz": 12,
+    "y": 4,
+    "choices": [
+      {
+        "id": "hill_top_flower_spinning",
+        "soil": "hill_top_grass",
+        "chance": 0.5
+      },
+      {
+        "id": "ehz_flower_curling",
+        "soil": "hill_top_grass",
+        "chance": 0.5
+      },
+      {
+        "id": "hill_top_flower_bouncing",
+        "soil": "hill_top_grass",
+        "chance": 0.5
+      },
+      {
+        "id": "ehz_flower_blooming",
+        "soil": "hill_top_grass",
+        "chance": 0.5
+      }
+    ]
+  },
+  {
+    "biome": "hill_top_zone",
+    "source": "hill_top_flower_bed_feature",
+    "tries": 96,
+    "xz": 6,
+    "y": 4,
+    "choices": [
+      {
+        "id": "hill_top_flower_bed",
+        "soil": "hill_top_grass",
+        "chance": 1.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/studiopolis_floor_bottom_yellow",
+    "up": "sonicraft:blocks/studiopolis_smooth_top",
+    "north": "sonicraft:blocks/studiopolis_floor_side_yellow_inverted",
+    "east": "sonicraft:blocks/studiopolis_floor_side_yellow_inverted",
+    "south": "sonicraft:blocks/studiopolis_floor_side_yellow_inverted",
+    "west": "sonicraft:blocks/studiopolis_floor_side_yellow_inverted",
+    "particle": "sonicraft:blocks/studiopolis_floor_bottom_yellow"
+  }
+}

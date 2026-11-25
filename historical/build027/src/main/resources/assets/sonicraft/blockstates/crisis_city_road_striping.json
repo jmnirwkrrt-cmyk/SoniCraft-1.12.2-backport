@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/crisis_city_road_striping"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/crisis_city_road_striping",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/crisis_city_road_striping",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/crisis_city_road_striping",
+      "y": 270
+    }
+  }
+}

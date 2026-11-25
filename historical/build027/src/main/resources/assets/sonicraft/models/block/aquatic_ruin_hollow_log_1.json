@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/aquatic_ruin_hollow_log",
+  "textures": {
+    "all": "sonicraft:blocks/aquatic_ruin_hollow_log_side",
+    "particle": "sonicraft:blocks/aquatic_ruin_hollow_log_side",
+    "side": "sonicraft:blocks/aquatic_ruin_hollow_log_side_1",
+    "top": "sonicraft:blocks/aquatic_ruin_hollow_log_top",
+    "bottom": "sonicraft:blocks/aquatic_ruin_hollow_log_bottom"
+  }
+}

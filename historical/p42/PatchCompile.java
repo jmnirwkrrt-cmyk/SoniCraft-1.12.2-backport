@@ -1,0 +1,5 @@
+import java.util.zip.*;import java.nio.file.*;import org.objectweb.asm.*;import org.objectweb.asm.tree.*;
+class PatchCompile implements Opcodes{
+ public static void main(String[]a)throws Exception{try(ZipFile z=new ZipFile(a[0]);ZipOutputStream out=new ZipOutputStream(Files.newOutputStream(Paths.get(a[1])))){java.util.Enumeration<? extends ZipEntry> es=z.entries();while(es.hasMoreElements()){ZipEntry e=es.nextElement();byte[] b=read(z.getInputStream(e));if(e.getName().equals("net/minecraft/entity/Entity.class")){ClassNode c=new ClassNode();new ClassReader(b).accept(c,0);MethodNode m=new MethodNode(ACC_PUBLIC,"getEntityData","()Lnet/minecraft/nbt/NBTTagCompound;",null,null);m.instructions.add(new InsnNode(ACONST_NULL));m.instructions.add(new InsnNode(ARETURN));c.methods.add(m);ClassWriter w=new ClassWriter(COMPUTE_MAXS);c.accept(w);b=w.toByteArray();}out.putNextEntry(new ZipEntry(e.getName()));out.write(b);out.closeEntry();}}}
+ static byte[] read(java.io.InputStream i)throws Exception{java.io.ByteArrayOutputStream b=new java.io.ByteArrayOutputStream();byte[] x=new byte[8192];int n;while((n=i.read(x))!=-1)b.write(x,0,n);return b.toByteArray();}
+}

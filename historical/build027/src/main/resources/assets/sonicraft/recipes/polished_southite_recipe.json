@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:southite"
+    }
+  },
+  "result": {
+    "item": "sonicraft:polished_southite",
+    "count": 4
+  }
+}

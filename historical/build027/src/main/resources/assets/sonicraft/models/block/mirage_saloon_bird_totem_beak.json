@@ -1,0 +1,11 @@
+{
+  "parent": "sonicraft:custom/mirage_saloon_bird_totem_beak",
+  "textures": {
+    "all": "sonicraft:blocks/mirage_saloon_bird_totem_beak_side",
+    "particle": "sonicraft:blocks/mirage_saloon_bird_totem_beak_bottom",
+    "side": "sonicraft:blocks/mirage_saloon_bird_totem_beak_side",
+    "top": "sonicraft:blocks/mirage_saloon_bird_totem_beak_top",
+    "bottom": "sonicraft:blocks/mirage_saloon_bird_totem_beak_bottom",
+    "front": "sonicraft:blocks/mirage_saloon_bird_totem_beak_front"
+  }
+}

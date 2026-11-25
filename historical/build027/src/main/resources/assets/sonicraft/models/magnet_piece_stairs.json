@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/death_egg_magnet_piece",
+    "bottom": "sonicraft:blocks/death_egg_magnet_piece",
+    "top": "sonicraft:blocks/death_egg_magnet_piece",
+    "side": "sonicraft:blocks/death_egg_magnet_piece"
+  }
+}

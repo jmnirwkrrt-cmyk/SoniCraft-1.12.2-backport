@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/hidden_palace_mural"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/hidden_palace_mural",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/hidden_palace_mural",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/hidden_palace_mural",
+      "y": 270
+    }
+  }
+}

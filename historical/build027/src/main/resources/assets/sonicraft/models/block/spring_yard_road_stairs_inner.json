@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/spring_yard_road_top",
+    "bottom": "sonicraft:blocks/spring_yard_road_top",
+    "top": "sonicraft:blocks/spring_yard_road_top",
+    "side": "sonicraft:blocks/spring_yard_road_side"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/hill_top_cave_dirt",
+    "particle": "sonicraft:blocks/hill_top_cave_dirt"
+  }
+}

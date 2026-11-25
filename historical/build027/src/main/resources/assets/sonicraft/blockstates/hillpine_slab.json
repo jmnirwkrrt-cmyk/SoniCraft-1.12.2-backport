@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:hillpine_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:hillpine_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:hillpine_slab_full"
+    }
+  }
+}

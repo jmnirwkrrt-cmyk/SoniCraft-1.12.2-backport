@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:pink_special_stage_border_block"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:pink_special_stage_border_block_variants_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "sonicraft:pink_special_stage_border_block_variants_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "sonicraft:pink_special_stage_border_block_variants_blockstate_2"
+    },
+    "blockstate=4": {
+      "model": "sonicraft:pink_special_stage_border_block_variants_blockstate_3"
+    }
+  }
+}

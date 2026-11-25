@@ -1,0 +1,12 @@
+{
+  "parent": "sonicraft:custom/launch_base_redstone_lock",
+  "textures": {
+    "all": "sonicraft:blocks/launch_base_redstone_lock",
+    "particle": "sonicraft:blocks/nothing",
+    "top": "sonicraft:blocks/launch_base_redstone_lock_top",
+    "left": "sonicraft:blocks/launch_base_redstone_lock_left",
+    "back": "sonicraft:blocks/launch_base_redstone_lock_back",
+    "front": "sonicraft:blocks/launch_base_redstone_lock",
+    "right": "sonicraft:blocks/launch_base_redstone_lock_right"
+  }
+}

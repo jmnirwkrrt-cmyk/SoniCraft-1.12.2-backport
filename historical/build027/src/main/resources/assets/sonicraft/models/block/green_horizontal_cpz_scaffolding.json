@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/chemical_plant_green_bridge",
+    "up": "sonicraft:blocks/chemical_plant_green_bridge",
+    "north": "sonicraft:blocks/chemical_plant_green_bridge",
+    "east": "sonicraft:blocks/chemical_plant_green_pillar_top",
+    "south": "sonicraft:blocks/chemical_plant_green_bridge",
+    "west": "sonicraft:blocks/chemical_plant_green_pillar_top",
+    "particle": "sonicraft:blocks/chemical_plant_green_bridge"
+  }
+}

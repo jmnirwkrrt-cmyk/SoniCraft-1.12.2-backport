@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/jump_panel_modern"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/jump_panel_modern",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/jump_panel_modern",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/jump_panel_modern",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "sonicraft:blocks/press_garden_bricks",
+    "bottom": "sonicraft:blocks/press_garden_bricks",
+    "top": "sonicraft:blocks/press_garden_bricks",
+    "side": "sonicraft:blocks/press_garden_bricks"
+  }
+}

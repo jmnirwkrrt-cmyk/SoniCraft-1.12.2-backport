@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/puyo_green"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/puyo_green",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/puyo_green",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/puyo_green",
+      "y": 270
+    }
+  }
+}

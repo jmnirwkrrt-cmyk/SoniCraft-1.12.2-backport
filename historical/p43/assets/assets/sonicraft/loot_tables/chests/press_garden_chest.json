@@ -1,0 +1,428 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 4
+      },
+      "bonus_rolls": {
+        "min": 1,
+        "max": 4
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:paper",
+          "weight": 26,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 5,
+                "max": 15
+              }
+            }
+          ],
+          "entryName": "source_entry_0"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:feather",
+          "weight": 24,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 12
+              }
+            }
+          ],
+          "entryName": "source_entry_1"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:dye",
+          "weight": 22,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 12
+              }
+            },
+            {
+              "function": "set_data",
+              "data": 0
+            }
+          ],
+          "entryName": "source_entry_2"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:gold_ring",
+          "weight": 18,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 12
+              }
+            }
+          ],
+          "entryName": "source_entry_3"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:dye",
+          "weight": 22,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 12
+              }
+            },
+            {
+              "function": "set_data",
+              "data": 13
+            }
+          ],
+          "entryName": "source_entry_4"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:dye",
+          "weight": 22,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 12
+              }
+            },
+            {
+              "function": "set_data",
+              "data": 11
+            }
+          ],
+          "entryName": "source_entry_5"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:dye",
+          "weight": 22,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 12
+              }
+            },
+            {
+              "function": "set_data",
+              "data": 12
+            }
+          ],
+          "entryName": "source_entry_6"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_7",
+          "weight": 11
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:soft_serve_ice_cream",
+          "weight": 18,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 10
+              }
+            }
+          ],
+          "entryName": "source_entry_8"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_9",
+          "weight": 6
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_10",
+          "weight": 6
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_11",
+          "weight": 6
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_12",
+          "weight": 6
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 5,
+                "max": 11
+              }
+            }
+          ],
+          "entryName": "source_entry_13"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_nugget",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 8,
+                "max": 12
+              }
+            }
+          ],
+          "entryName": "source_entry_14"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:special_stage_key",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_15"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:grapes",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ],
+          "entryName": "source_entry_16"
+        }
+      ],
+      "name": "source_pool_0"
+    },
+    {
+      "rolls": {
+        "min": 2,
+        "max": 4
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "sonicraft:gold_ring",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 6,
+                "max": 12
+              }
+            }
+          ],
+          "entryName": "source_entry_0"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:ice_spring",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "entryName": "source_entry_1"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:ice_spikes",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "entryName": "source_entry_2"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:ice_cube",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ],
+          "entryName": "source_entry_3"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:ice_cube_gold_ring",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_4"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:ice_cube_yellow_spring",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_5"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:ice_cube_red_spring",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_6"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_7",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:ice_cube_ice_spikes",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_8"
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:ice_cube_item_box_rings",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_9"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_10",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_11",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "sonicraft:ice_cube_item_box_flame_shield",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "entryName": "source_entry_12"
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_13",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_14",
+          "weight": 1
+        },
+        {
+          "type": "empty",
+          "entryName": "source_entry_15",
+          "weight": 1
+        }
+      ],
+      "name": "source_pool_1"
+    }
+  ],
+  "random_sequence": "sonicraft:chests/press_garden_chest"
+}

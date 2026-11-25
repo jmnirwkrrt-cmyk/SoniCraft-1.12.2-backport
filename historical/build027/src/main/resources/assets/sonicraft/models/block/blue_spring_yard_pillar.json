@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/colored_spring_yard_pillar",
+  "textures": {
+    "all": "sonicraft:blocks/spring_yard_blue_pillar_lower",
+    "particle": "sonicraft:blocks/spring_yard_blue_pillar_lower",
+    "top": "sonicraft:blocks/spring_yard_blue_pillar_top",
+    "side_lower": "sonicraft:blocks/spring_yard_blue_pillar_lower",
+    "bottom": "sonicraft:blocks/spring_yard_colored_pillar_bottom"
+  }
+}

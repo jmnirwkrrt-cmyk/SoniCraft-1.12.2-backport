@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:custom/seesaw_star_light_fulcrum_particle"
+    },
+    "facing=east": {
+      "model": "sonicraft:custom/seesaw_star_light_fulcrum_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:custom/seesaw_star_light_fulcrum_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:custom/seesaw_star_light_fulcrum_particle",
+      "y": 270
+    }
+  }
+}

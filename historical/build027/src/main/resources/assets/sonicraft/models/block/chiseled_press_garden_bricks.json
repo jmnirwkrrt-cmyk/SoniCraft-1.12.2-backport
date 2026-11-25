@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/press_garden_bricks",
+    "up": "sonicraft:blocks/press_garden_bricks",
+    "north": "sonicraft:blocks/press_garden_chiseled_bricks",
+    "east": "sonicraft:blocks/press_garden_chiseled_bricks",
+    "south": "sonicraft:blocks/press_garden_chiseled_bricks",
+    "west": "sonicraft:blocks/press_garden_chiseled_bricks",
+    "particle": "sonicraft:blocks/press_garden_bricks"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/ice_cap_stone",
+    "bottom": "sonicraft:blocks/ice_cap_stone",
+    "top": "sonicraft:blocks/ice_cap_stone",
+    "side": "sonicraft:blocks/ice_cap_stone"
+  }
+}

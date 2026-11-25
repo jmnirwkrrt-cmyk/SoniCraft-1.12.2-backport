@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sonicraft:item_box",
+      "data": 0
+    },
+    {
+      "item": "sonicraft:red_star_ring",
+      "data": 0
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "sonicraft:item_box_blaze",
+    "count": 1,
+    "data": 0
+  }
+}

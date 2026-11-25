@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:item_box_thunder_shield"
+    },
+    "facing=east": {
+      "model": "sonicraft:item_box_thunder_shield",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:item_box_thunder_shield",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:item_box_thunder_shield",
+      "y": 270
+    }
+  }
+}

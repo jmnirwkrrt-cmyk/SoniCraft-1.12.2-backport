@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/press_garden_bricks_light_blue_frosted_cracked",
+    "bottom": "sonicraft:blocks/press_garden_bricks_light_blue_frosted_cracked",
+    "top": "sonicraft:blocks/press_garden_bricks_light_blue_frosted_cracked",
+    "side": "sonicraft:blocks/press_garden_bricks_light_blue_frosted_cracked"
+  }
+}

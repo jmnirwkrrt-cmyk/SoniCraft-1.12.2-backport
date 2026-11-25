@@ -1,0 +1,11 @@
+{
+  "parent": "sonicraft:custom/studiopolis_clapperboard_platform",
+  "textures": {
+    "all": "sonicraft:blocks/studiopolis_clapperboard_platform_side_1",
+    "particle": "sonicraft:blocks/studiopolis_clapperboard_platform_side_1",
+    "frame_block": "sonicraft:blocks/studiopolis_frame_block",
+    "side": "sonicraft:blocks/studiopolis_clapperboard_platform_side_1",
+    "top": "sonicraft:blocks/studiopolis_clapperboard_platform_top",
+    "bottom": "sonicraft:blocks/studiopolis_clapperboard_platform_bottom"
+  }
+}

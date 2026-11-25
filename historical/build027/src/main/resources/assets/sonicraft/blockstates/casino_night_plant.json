@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:block/casino_night_plant"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:block/casino_night_plant_stem_blockstate_0"
+    }
+  }
+}

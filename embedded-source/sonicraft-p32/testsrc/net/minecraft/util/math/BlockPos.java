@@ -1,0 +1,2 @@
+package net.minecraft.util.math;
+public class BlockPos {public int x,y,z;public BlockPos(int a,int b,int c){x=a;y=b;z=c;}public BlockPos func_177982_a(int a,int b,int c){return new BlockPos(x+a,y+b,z+c);} public long func_177986_g(){return ((long)x<<32)^(z&0xffffffffL);}}

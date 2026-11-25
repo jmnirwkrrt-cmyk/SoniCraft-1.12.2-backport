@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/studiopolis_sign",
+  "textures": {
+    "all": "sonicraft:blocks/night_carnival_blaze_sign",
+    "particle": "sonicraft:blocks/night_carnival_blaze_sign",
+    "0": "sonicraft:blocks/night_carnival_blaze_sign"
+  }
+}

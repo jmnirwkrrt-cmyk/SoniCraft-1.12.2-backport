@@ -1,0 +1,10 @@
+{
+  "parent": "sonicraft:custom/casino_night_slide",
+  "textures": {
+    "all": "sonicraft:blocks/casino_night_road_top_smooth",
+    "particle": "sonicraft:blocks/casino_night_stone_top",
+    "side": "sonicraft:blocks/casino_night_slide_side",
+    "top": "sonicraft:blocks/casino_night_road_top_smooth",
+    "bottom": "sonicraft:blocks/casino_night_stone_top"
+  }
+}

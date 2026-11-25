@@ -1,0 +1,32 @@
+{
+  "loader": "forge:separate_transforms",
+  "gui_light": "front",
+  "base": {
+    "parent": "sonicraft:custom/chaos_emerald",
+    "textures": {
+      "side": "sonicraft:block/chaos_emerald_white",
+      "top": "sonicraft:block/chaos_emerald_white_top",
+      "particle": "sonicraft:item/chaos_emerald_white"
+    }
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "sonicraft:item/chaos_emerald_white"
+      }
+    },
+    "fixed": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "sonicraft:item/chaos_emerald_white"
+      }
+    },
+    "ground": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "sonicraft:item/chaos_emerald_white"
+      }
+    }
+  }
+}

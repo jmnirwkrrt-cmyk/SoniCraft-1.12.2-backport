@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/press_garden_ice_cube_ring",
+  "textures": {
+    "all": "sonicraft:blocks/gold_ring_frozen",
+    "particle": "sonicraft:blocks/nothing",
+    "ring": "sonicraft:blocks/gold_ring",
+    "ice": "sonicraft:blocks/press_garden_ice_block"
+  }
+}

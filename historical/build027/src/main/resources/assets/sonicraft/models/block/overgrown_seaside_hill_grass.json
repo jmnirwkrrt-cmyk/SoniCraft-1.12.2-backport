@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/seaside_hill_grass_top",
+    "particle": "sonicraft:blocks/seaside_hill_grass_top"
+  }
+}

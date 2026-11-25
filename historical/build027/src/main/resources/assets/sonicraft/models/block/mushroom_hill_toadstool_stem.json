@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/mushroom_hill_stem_top",
+    "up": "sonicraft:blocks/mushroom_hill_stem_top",
+    "north": "sonicraft:blocks/mushroom_hill_stem",
+    "east": "sonicraft:blocks/mushroom_hill_stem",
+    "south": "sonicraft:blocks/mushroom_hill_stem",
+    "west": "sonicraft:blocks/mushroom_hill_stem",
+    "particle": "sonicraft:blocks/mushroom_hill_stem_top"
+  }
+}

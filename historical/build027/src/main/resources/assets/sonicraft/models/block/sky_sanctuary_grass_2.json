@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/sky_sanctuary_bricks_2",
+    "up": "sonicraft:blocks/mushroom_hill_grass_top",
+    "north": "sonicraft:blocks/sky_sanctuary_grass_2",
+    "east": "sonicraft:blocks/sky_sanctuary_grass_2",
+    "south": "sonicraft:blocks/sky_sanctuary_grass_2",
+    "west": "sonicraft:blocks/sky_sanctuary_grass_2",
+    "particle": "sonicraft:blocks/sky_sanctuary_bricks_2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:item_box_big",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "sonicraft:item_box_big",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:item_box_big",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:item_box_big",
+      "y": 270
+    }
+  }
+}

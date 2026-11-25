@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:marble_zone_bricks"
+    }
+  },
+  "result": {
+    "item": "sonicraft:marble_zone_pillar",
+    "count": 2
+  }
+}

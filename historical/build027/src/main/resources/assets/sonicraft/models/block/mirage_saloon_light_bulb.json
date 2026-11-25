@@ -1,0 +1,11 @@
+{
+  "parent": "sonicraft:custom/mirage_saloon_light_bulb",
+  "textures": {
+    "all": "sonicraft:blocks/mirage_saloon_light_bulb_side",
+    "particle": "sonicraft:blocks/mirage_saloon_light_bulb_side",
+    "side_outer": "sonicraft:blocks/mirage_saloon_light_bulb_side_outer",
+    "inside": "sonicraft:blocks/mirage_saloon_light_bulb_inside",
+    "side_inner": "sonicraft:blocks/mirage_saloon_light_bulb_side_inner",
+    "top_outer": "sonicraft:blocks/mirage_saloon_light_bulb_top_outer"
+  }
+}

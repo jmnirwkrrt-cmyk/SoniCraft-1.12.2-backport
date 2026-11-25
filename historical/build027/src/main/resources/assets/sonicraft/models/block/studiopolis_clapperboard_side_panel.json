@@ -1,0 +1,12 @@
+{
+  "parent": "sonicraft:custom/studiopolis_clapperboard_cover",
+  "textures": {
+    "all": "sonicraft:blocks/studiopolis_clapperboard_cover_act_1",
+    "particle": "sonicraft:blocks/studiopolis_clapperboard_cover_particle",
+    "side": "sonicraft:blocks/studiopolis_clapperboard_cover_act_1",
+    "second_tens_place": "sonicraft:blocks/studiopolis_clapperboard_cover_digit_second_tens_place",
+    "millisecond": "sonicraft:blocks/studiopolis_clapperboard_cover_digit_millisecond",
+    "second_ones_place": "sonicraft:blocks/studiopolis_clapperboard_cover_digit_second_ones_place",
+    "minute": "sonicraft:blocks/studiopolis_clapperboard_cover_digit_minute"
+  }
+}

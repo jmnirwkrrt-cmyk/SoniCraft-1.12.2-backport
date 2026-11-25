@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/studiopolis_camera.item",
+  "textures": {
+    "particle": "sonicraft:blocks/studiopolis_camera_particle"
+  }
+}

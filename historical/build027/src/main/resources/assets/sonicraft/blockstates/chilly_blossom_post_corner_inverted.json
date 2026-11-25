@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/chilly_blossom_post_corner_inverted"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/chilly_blossom_post_corner_inverted",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/chilly_blossom_post_corner",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/chilly_blossom_post_corner",
+      "y": 270
+    }
+  }
+}

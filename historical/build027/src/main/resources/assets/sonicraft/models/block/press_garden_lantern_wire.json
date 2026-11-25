@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/press_garden_lantern_wire",
+  "textures": {
+    "all": "sonicraft:blocks/press_garden_lantern_wire",
+    "particle": "sonicraft:blocks/press_garden_lantern_wire",
+    "wire": "sonicraft:blocks/press_garden_lantern_wire"
+  }
+}

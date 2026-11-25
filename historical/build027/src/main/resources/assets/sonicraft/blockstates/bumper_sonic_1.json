@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:block/bumper_sonic_1"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:block/bumper_sonic_1_used_blockstate_0"
+    }
+  }
+}

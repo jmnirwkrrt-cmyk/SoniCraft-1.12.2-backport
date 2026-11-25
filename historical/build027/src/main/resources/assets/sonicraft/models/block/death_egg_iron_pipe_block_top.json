@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/death_egg_iron_block_top",
+    "up": "sonicraft:blocks/death_egg_iron_block_top",
+    "north": "sonicraft:blocks/death_egg_iron_block_decorative_side_4",
+    "east": "sonicraft:blocks/death_egg_iron_block_decorative_side_3",
+    "south": "sonicraft:blocks/death_egg_iron_block_decorative_side_4",
+    "west": "sonicraft:blocks/death_egg_iron_block_decorative_side_3",
+    "particle": "sonicraft:blocks/death_egg_iron_block_top"
+  }
+}

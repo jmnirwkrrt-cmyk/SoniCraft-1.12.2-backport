@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/southite",
+    "bottom": "sonicraft:blocks/southite",
+    "top": "sonicraft:blocks/southite",
+    "side": "sonicraft:blocks/southite"
+  }
+}

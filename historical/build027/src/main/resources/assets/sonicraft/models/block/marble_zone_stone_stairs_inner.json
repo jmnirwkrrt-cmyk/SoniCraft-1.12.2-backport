@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sonicraft:blocks/marble_zone_stone",
+    "bottom": "sonicraft:blocks/marble_zone_stone",
+    "top": "sonicraft:blocks/marble_zone_stone",
+    "side": "sonicraft:blocks/marble_zone_stone"
+  }
+}

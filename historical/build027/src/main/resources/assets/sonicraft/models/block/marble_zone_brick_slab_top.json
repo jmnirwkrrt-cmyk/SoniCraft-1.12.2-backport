@@ -1,0 +1,9 @@
+{
+  "parent": "block/upper_slab",
+  "textures": {
+    "particle": "sonicraft:blocks/marble_zone_brick",
+    "bottom": "sonicraft:blocks/marble_zone_brick",
+    "top": "sonicraft:blocks/marble_zone_brick",
+    "side": "sonicraft:blocks/marble_zone_brick"
+  }
+}

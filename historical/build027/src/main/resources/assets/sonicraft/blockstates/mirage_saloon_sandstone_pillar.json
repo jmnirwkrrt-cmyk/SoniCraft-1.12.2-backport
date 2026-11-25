@@ -1,0 +1,70 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "sonicraft:block/mirage_saloon_sandstone_pillar_1",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "sonicraft:block/mirage_saloon_sandstone_pillar_2",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "sonicraft:block/mirage_saloon_sandstone_pillar_3",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "sonicraft:block/mirage_saloon_sandstone_pillar_4",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "sonicraft:block/mirage_saloon_sandstone_pillar_5",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "sonicraft:block/mirage_saloon_sandstone_pillar_1"
+      },
+      {
+        "model": "sonicraft:block/mirage_saloon_sandstone_pillar_2"
+      },
+      {
+        "model": "sonicraft:block/mirage_saloon_sandstone_pillar_3"
+      },
+      {
+        "model": "sonicraft:block/mirage_saloon_sandstone_pillar_4"
+      },
+      {
+        "model": "sonicraft:block/mirage_saloon_sandstone_pillar_5"
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "sonicraft:block/mirage_saloon_sandstone_pillar_1",
+        "x": 90
+      },
+      {
+        "model": "sonicraft:block/mirage_saloon_sandstone_pillar_2",
+        "x": 90
+      },
+      {
+        "model": "sonicraft:block/mirage_saloon_sandstone_pillar_3",
+        "x": 90
+      },
+      {
+        "model": "sonicraft:block/mirage_saloon_sandstone_pillar_4",
+        "x": 90
+      },
+      {
+        "model": "sonicraft:block/mirage_saloon_sandstone_pillar_5",
+        "x": 90
+      }
+    ]
+  }
+}

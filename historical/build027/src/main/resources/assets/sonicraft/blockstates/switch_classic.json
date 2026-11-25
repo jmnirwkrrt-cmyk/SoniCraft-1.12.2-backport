@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:block/switch_classic"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:block/switch_classic_blockstates_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "sonicraft:block/switch_classic_blockstates_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "sonicraft:block/switch_classic_blockstates_blockstate_2"
+    }
+  }
+}

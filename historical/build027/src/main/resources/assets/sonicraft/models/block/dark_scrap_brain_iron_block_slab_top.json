@@ -1,0 +1,9 @@
+{
+  "parent": "block/upper_slab",
+  "textures": {
+    "particle": "sonicraft:blocks/scrap_brain_iron_dark",
+    "bottom": "sonicraft:blocks/scrap_brain_iron_dark",
+    "top": "sonicraft:blocks/scrap_brain_iron_dark",
+    "side": "sonicraft:blocks/scrap_brain_iron_dark"
+  }
+}

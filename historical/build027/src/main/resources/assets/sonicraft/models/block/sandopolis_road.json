@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/sandopolis_sandstone",
+    "up": "sonicraft:blocks/sandopolis_road_top",
+    "north": "sonicraft:blocks/sandopolis_road",
+    "east": "sonicraft:blocks/sandopolis_road",
+    "south": "sonicraft:blocks/sandopolis_road",
+    "west": "sonicraft:blocks/sandopolis_road",
+    "particle": "sonicraft:blocks/sandopolis_sandstone"
+  }
+}

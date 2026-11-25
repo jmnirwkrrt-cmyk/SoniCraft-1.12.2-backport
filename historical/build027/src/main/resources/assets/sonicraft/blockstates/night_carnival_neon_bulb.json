@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:block/night_carnival_neon_bulb"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:block/night_carnival_neon_bulb_blockstates_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "sonicraft:block/night_carnival_neon_bulb_blockstates_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "sonicraft:block/night_carnival_neon_bulb_blockstates_blockstate_2"
+    }
+  }
+}

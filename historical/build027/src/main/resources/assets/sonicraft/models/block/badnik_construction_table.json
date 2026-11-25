@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/badnik_construction_table_bottom",
+    "up": "sonicraft:blocks/badnik_construction_table_top",
+    "north": "sonicraft:blocks/badnik_construction_table_side",
+    "east": "sonicraft:blocks/badnik_construction_table_side",
+    "south": "sonicraft:blocks/badnik_construction_table_side",
+    "west": "sonicraft:blocks/badnik_construction_table_side",
+    "particle": "sonicraft:blocks/badnik_construction_table_bottom"
+  }
+}

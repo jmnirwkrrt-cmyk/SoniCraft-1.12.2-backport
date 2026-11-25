@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:launch_base_redstone_lock"
+    },
+    "facing=east": {
+      "model": "sonicraft:launch_base_redstone_lock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:launch_base_redstone_lock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:launch_base_redstone_lock",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "sonicraft:launch_base_redstone_lock",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "sonicraft:launch_base_redstone_lock",
+      "x": 90
+    }
+  }
+}

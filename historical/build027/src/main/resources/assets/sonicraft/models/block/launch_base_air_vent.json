@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/launch_base_air_vent",
+    "particle": "sonicraft:blocks/launch_base_air_vent"
+  }
+}

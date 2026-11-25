@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/press_garden_interior_wall_4",
+    "up": "sonicraft:blocks/press_garden_interior_wall_4",
+    "north": "sonicraft:blocks/press_garden_interior_wall_6",
+    "east": "sonicraft:blocks/press_garden_interior_wall_5",
+    "south": "sonicraft:blocks/press_garden_interior_wall_8",
+    "west": "sonicraft:blocks/press_garden_interior_wall_7",
+    "particle": "sonicraft:blocks/press_garden_interior_wall_3"
+  }
+}

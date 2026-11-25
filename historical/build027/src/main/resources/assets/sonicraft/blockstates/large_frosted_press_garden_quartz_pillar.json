@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:block/large_frosted_press_garden_quartz_pillar"
+    },
+    "facing=east": {
+      "model": "sonicraft:block/large_frosted_press_garden_quartz_pillar",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:block/large_frosted_press_garden_quartz_pillar",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:block/large_frosted_press_garden_quartz_pillar",
+      "y": 270
+    }
+  }
+}

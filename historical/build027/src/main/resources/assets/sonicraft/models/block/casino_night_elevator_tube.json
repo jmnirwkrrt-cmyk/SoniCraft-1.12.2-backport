@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/casino_night_elevator_tube",
+  "textures": {
+    "all": "sonicraft:blocks/casino_night_elevator_tube",
+    "particle": "sonicraft:blocks/casino_night_elevator_tube",
+    "side": "sonicraft:blocks/casino_night_elevator_tube",
+    "top": "sonicraft:blocks/casino_night_elevator_tube_top"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/press_garden_wood_chipper.item",
+  "textures": {
+    "particle": "sonicraft:blocks/press_garden_wood_chipper_particle"
+  }
+}

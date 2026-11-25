@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonicraft:press_garden_conveyor_belt_axle"
+    },
+    "facing=east": {
+      "model": "sonicraft:press_garden_conveyor_belt_axle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonicraft:press_garden_conveyor_belt_axle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonicraft:press_garden_conveyor_belt_axle",
+      "y": 270
+    }
+  }
+}

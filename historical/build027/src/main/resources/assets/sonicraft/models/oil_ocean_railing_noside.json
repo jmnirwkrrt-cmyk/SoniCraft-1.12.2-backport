@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_noside",
+  "textures": {
+    "particle": "sonicraft:blocks/oil_ocean_railing",
+    "pane": "sonicraft:blocks/oil_ocean_railing"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/death_egg_brick_pillar_top",
+    "up": "sonicraft:blocks/death_egg_brick_pillar_top",
+    "north": "sonicraft:blocks/death_egg_brick_chiseled_side_1",
+    "east": "sonicraft:blocks/death_egg_brick_chiseled_side_2",
+    "south": "sonicraft:blocks/death_egg_brick_chiseled_side_4",
+    "west": "sonicraft:blocks/death_egg_brick_chiseled_side_3",
+    "particle": "sonicraft:blocks/death_egg_brick_pillar_top"
+  }
+}

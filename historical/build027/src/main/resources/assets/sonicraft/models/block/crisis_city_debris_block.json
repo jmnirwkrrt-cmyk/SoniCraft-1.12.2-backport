@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/crisis_city_debris_block",
+    "particle": "sonicraft:blocks/crisis_city_debris_block"
+  }
+}

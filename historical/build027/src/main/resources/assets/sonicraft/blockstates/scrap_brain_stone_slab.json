@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=single": {
+      "model": "sonicraft:block/scrap_brain_stone_slab"
+    },
+    "half=top,variant=single": {
+      "model": "sonicraft:block/scrap_brain_stone_slab_top"
+    }
+  }
+}

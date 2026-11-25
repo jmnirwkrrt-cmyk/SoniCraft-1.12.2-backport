@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/mirage_saloon_gold_pillar_top",
+    "up": "sonicraft:blocks/mirage_saloon_gold_pillar_top",
+    "north": "sonicraft:blocks/mirage_saloon_totem_pillar_cut",
+    "east": "sonicraft:blocks/mirage_saloon_totem_pillar_cut",
+    "south": "sonicraft:blocks/mirage_saloon_totem_pillar_cut",
+    "west": "sonicraft:blocks/mirage_saloon_totem_pillar_cut",
+    "particle": "sonicraft:blocks/mirage_saloon_gold_pillar_top"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:casino_night_stone",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:casino_night_stone_stairs",
+    "count": 4,
+    "data": 0
+  }
+}

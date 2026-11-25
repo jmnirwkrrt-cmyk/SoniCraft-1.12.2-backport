@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/night_carnival_pillar_top",
+    "up": "sonicraft:blocks/night_carnival_pillar_top",
+    "north": "sonicraft:blocks/night_carnival_lights_chiseled_01",
+    "east": "sonicraft:blocks/night_carnival_lights_chiseled_01",
+    "south": "sonicraft:blocks/night_carnival_lights_chiseled_01",
+    "west": "sonicraft:blocks/night_carnival_lights_chiseled_01",
+    "particle": "sonicraft:blocks/night_carnival_pillar_top"
+  }
+}

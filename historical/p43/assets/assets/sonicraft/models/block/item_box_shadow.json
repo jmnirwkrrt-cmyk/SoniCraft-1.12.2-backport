@@ -1,0 +1,12 @@
+{
+  "parent": "sonicraft:custom/sonic_monitor",
+  "textures": {
+    "all": "sonicraft:blocks/monitor_shadow",
+    "particle": "sonicraft:blocks/monitor_side",
+    "side": "sonicraft:blocks/monitor_side",
+    "static": "sonicraft:blocks/monitor_static",
+    "screen_console": "sonicraft:blocks/nothing",
+    "screen": "sonicraft:blocks/monitor_shadow",
+    "front": "sonicraft:blocks/monitor"
+  }
+}

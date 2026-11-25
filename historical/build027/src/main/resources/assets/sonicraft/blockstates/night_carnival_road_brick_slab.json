@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sonicraft:night_carnival_road_brick_slab"
+    },
+    "type=top": {
+      "model": "sonicraft:night_carnival_road_brick_slab_top"
+    },
+    "type=double": {
+      "model": "sonicraft:night_carnival_road_brick_slab_full"
+    }
+  }
+}

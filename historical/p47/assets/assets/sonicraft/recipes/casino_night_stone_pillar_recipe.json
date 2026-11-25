@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:casino_night_stone",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:casino_night_stone_pillar",
+    "count": 1,
+    "data": 0
+  }
+}

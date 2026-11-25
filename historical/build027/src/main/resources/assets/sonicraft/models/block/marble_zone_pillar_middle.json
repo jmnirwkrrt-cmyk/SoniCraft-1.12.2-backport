@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/marble_pillar_middle",
+  "textures": {
+    "all": "sonicraft:blocks/marble_zone_pillar_middle",
+    "particle": "sonicraft:blocks/marble_zone_square_pillar_top",
+    "top": "sonicraft:blocks/marble_zone_square_pillar_top",
+    "side_middle": "sonicraft:blocks/marble_zone_pillar_middle"
+  }
+}

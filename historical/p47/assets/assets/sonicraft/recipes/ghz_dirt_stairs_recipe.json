@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:ghz_dirt",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:ghz_dirt_stairs",
+    "count": 4,
+    "data": 0
+  }
+}

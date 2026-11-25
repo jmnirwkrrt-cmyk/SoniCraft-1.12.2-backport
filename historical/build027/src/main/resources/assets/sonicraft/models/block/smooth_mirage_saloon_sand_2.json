@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/mirage_saloon_sand_smooth_2",
+    "particle": "sonicraft:blocks/mirage_saloon_sand_smooth_2"
+  }
+}

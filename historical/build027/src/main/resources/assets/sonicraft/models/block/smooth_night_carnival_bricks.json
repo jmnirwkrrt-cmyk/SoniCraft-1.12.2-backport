@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/night_carnival_bricks_smooth_bottom",
+    "up": "sonicraft:blocks/night_carnival_bricks_smooth_top",
+    "north": "sonicraft:blocks/night_carnival_bricks_smooth",
+    "east": "sonicraft:blocks/night_carnival_bricks_smooth",
+    "south": "sonicraft:blocks/night_carnival_bricks_smooth",
+    "west": "sonicraft:blocks/night_carnival_bricks_smooth",
+    "particle": "sonicraft:blocks/night_carnival_bricks_smooth_bottom"
+  }
+}

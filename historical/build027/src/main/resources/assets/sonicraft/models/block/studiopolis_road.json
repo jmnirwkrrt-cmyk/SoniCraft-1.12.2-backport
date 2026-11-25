@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonicraft:blocks/studiopolis_bridge_bottom",
+    "up": "sonicraft:blocks/studiopolis_bridge_top",
+    "north": "sonicraft:blocks/studiopolis_road",
+    "east": "sonicraft:blocks/studiopolis_road",
+    "south": "sonicraft:blocks/studiopolis_road",
+    "west": "sonicraft:blocks/studiopolis_road",
+    "particle": "sonicraft:blocks/studiopolis_bridge_bottom"
+  }
+}

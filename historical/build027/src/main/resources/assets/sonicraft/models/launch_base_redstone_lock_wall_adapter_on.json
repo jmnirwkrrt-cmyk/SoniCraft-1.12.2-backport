@@ -1,0 +1,11 @@
+{
+  "parent": "sonicraft:custom/launch_base_redstone_wall_adapter",
+  "textures": {
+    "all": "sonicraft:blocks/launch_base_repeater_on",
+    "particle": "sonicraft:blocks/launch_base_bricks",
+    "bricks": "sonicraft:blocks/launch_base_bricks",
+    "repeater_bottom": "sonicraft:blocks/launch_base_repeater_bottom",
+    "repeater_top": "sonicraft:blocks/launch_base_repeater_on",
+    "torch": "sonicraft:blocks/launch_base_redstone_torch"
+  }
+}

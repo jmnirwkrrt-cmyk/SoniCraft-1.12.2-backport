@@ -1,0 +1,9 @@
+{
+  "parent": "sonicraft:custom/press_garden_printer_newspaper",
+  "textures": {
+    "all": "sonicraft:blocks/press_garden_newspaper_ruby_scrolling",
+    "particle": "sonicraft:blocks/press_garden_newspaper_ruby_scrolling",
+    "sonic": "sonicraft:blocks/nothing",
+    "ruby": "sonicraft:blocks/press_garden_newspaper_ruby_scrolling"
+  }
+}

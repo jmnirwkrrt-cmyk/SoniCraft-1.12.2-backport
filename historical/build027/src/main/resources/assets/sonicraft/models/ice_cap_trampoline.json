@@ -1,0 +1,8 @@
+{
+  "parent": "sonicraft:custom/ice_cap_trampoline",
+  "textures": {
+    "all": "sonicraft:blocks/ice_cap_trampoline_platform",
+    "particle": "sonicraft:blocks/ice_cap_trampoline_platform",
+    "0": "sonicraft:blocks/ice_cap_trampoline_platform"
+  }
+}

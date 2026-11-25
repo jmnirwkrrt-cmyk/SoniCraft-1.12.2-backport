@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sonicraft:blocks/studiopolis_popcorn_shop_glass_seamless",
+    "particle": "sonicraft:blocks/studiopolis_popcorn_shop_glass_seamless"
+  }
+}

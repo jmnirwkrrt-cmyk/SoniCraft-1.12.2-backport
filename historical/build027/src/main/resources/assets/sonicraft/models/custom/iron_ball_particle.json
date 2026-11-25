@@ -1,0 +1,6 @@
+{
+  "parent": "sonicraft:displaysettings/iron_ball.item",
+  "textures": {
+    "particle": "sonicraft:blocks/iron_ball"
+  }
+}

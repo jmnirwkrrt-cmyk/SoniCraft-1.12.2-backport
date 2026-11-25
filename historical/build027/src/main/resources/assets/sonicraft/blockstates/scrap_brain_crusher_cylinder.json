@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "sonicraft:custom/scrap_brain_crusher_cylinder_particle"
+    },
+    "blockstate=1": {
+      "model": "sonicraft:block/scrap_brain_crusher_cylinder_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "sonicraft:block/scrap_brain_crusher_cylinder_blockstate_1"
+    }
+  }
+}

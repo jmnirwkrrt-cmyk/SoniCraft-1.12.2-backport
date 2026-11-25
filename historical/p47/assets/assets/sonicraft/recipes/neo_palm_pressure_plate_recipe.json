@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "sonicraft:green_hill_palm_planks",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "sonicraft:neo_palm_pressure_plate",
+    "count": 1,
+    "data": 0
+  }
+}
